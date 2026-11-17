@@ -1,0 +1,85 @@
+{
+  "schema_version": "0.1",
+  "reviewed_on": "2026-11-17",
+  "publication_status": "private_research_seed",
+  "records": [
+    {
+      "id": "artifact:british-museum:k160",
+      "type": "artifact",
+      "title": "Venus Tablet of Ammisaduqa (K.160)",
+      "external_id": {
+        "institution": "British Museum",
+        "registration_number": "K.160"
+      },
+      "summary": "Neo-Assyrian cuneiform tablet, a later copy of observations of Venus attributed to the reign of Ammisaduqa; chronological interpretations are disputed.",
+      "topics": [
+        "astronomy",
+        "mesopotamian-history",
+        "chronology",
+        "cuneiform"
+      ],
+      "portals": [
+        "akashic-records",
+        "orbis-arcanorum",
+        "world-wonder-web",
+        "science-portal"
+      ],
+      "evidence_status": "institutional_description",
+      "source": {
+        "publisher": "British Museum via Google Arts & Culture",
+        "url": "https://artsandculture.google.com/asset/cuneiform-tablet-with-observations-of-venus/uQGtUbfuWfzvLQ?hl=en",
+        "accessed": "2026-11-17"
+      },
+      "rights": {
+        "metadata": "review_before_reuse",
+        "digital_asset": "not_cleared",
+        "note": "Museum photograph is separately copyrighted; no image copied."
+      },
+      "preserved_assets": []
+    }
+  ],
+  "source_collections": [
+    {
+      "id": "collection:wellcome",
+      "name": "Wellcome Collection",
+      "catalogue_url": "https://developers.wellcomecollection.org/docs/catalogue",
+      "iiif_url": "https://developers.wellcomecollection.org/docs/iiif",
+      "status": "verified_collection_not_harvested",
+      "rights": "per-item licensing required"
+    },
+    {
+      "id": "collection:loc",
+      "name": "Library of Congress",
+      "catalogue_url": "https://www.loc.gov/free-to-use/",
+      "rights_url": "https://guides.loc.gov/digital-scholarship/faq",
+      "status": "verified_collection_not_harvested",
+      "rights": "per-item rights required"
+    },
+    {
+      "id": "collection:british-museum",
+      "name": "British Museum",
+      "catalogue_url": "https://www.britishmuseum.org/collection",
+      "status": "verified_collection_not_harvested",
+      "rights": "per-item rights required"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "edge:k160:astronomy",
+      "from": "artifact:british-museum:k160",
+      "to": "topic:astronomy",
+      "type": "documents_observations_of",
+      "evidence_status": "institutional_description",
+      "source_url": "https://artsandculture.google.com/asset/cuneiform-tablet-with-observations-of-venus/uQGtUbfuWfzvLQ?hl=en"
+    },
+    {
+      "id": "edge:k160:chronology",
+      "from": "artifact:british-museum:k160",
+      "to": "topic:chronology",
+      "type": "used_in_research_on",
+      "evidence_status": "institutional_description",
+      "source_url": "https://artsandculture.google.com/asset/cuneiform-tablet-with-observations-of-venus/uQGtUbfuWfzvLQ?hl=en"
+    }
+  ],
+  "notes": "No bulk harvest or image copying performed. This seed is not a public catalogue; prior speculative research leads are not imported as verified facts."
+}
