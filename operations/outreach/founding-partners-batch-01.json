@@ -1,0 +1,118 @@
+{
+  "prepared_on": "2026-11-17",
+  "status": "draft_only",
+  "mail_review": "Targeted searches of three Gmail and two Outlook accounts found existing Wellcome correspondence; no matching messages for other targets in those searches. Not an exhaustive audit.",
+  "warning": "Recheck official contact details, current licensing and previous correspondence before sending. No messages authorized or sent.",
+  "partners": [
+    {
+      "id": 1,
+      "name": "Wellcome Collection",
+      "documentation": "https://developers.wellcomecollection.org/docs/catalogue",
+      "access": "Catalogue API and snapshot",
+      "rights": "Rights vary by record and media",
+      "contact": "Existing Orbis email thread; do not cold-email",
+      "status": "unsent_draft",
+      "subject": "Akashic Records — collection access and collaboration enquiry",
+      "email": "Hello Wellcome Collection team,\n\nThank you for the guidance your team has already provided about manuscript research. We are expanding our catalogue work and would appreciate advice on full snapshots and rights metadata.\n\nI am developing the Akashic Records, an early-stage independent knowledge library intended to connect cited records across disciplines while crediting custodians and directing readers back to their original collections.\n\nWould you be willing to direct me to the appropriate person or documentation for catalogue exports or APIs, update schedules, attribution, and separate permissions for preservation, display and commercial reuse? We are not seeking ownership of your materials or suggesting an existing partnership.\n\nI'd also be interested in what your institution would value most from a potential collaboration.\n\nThank you for the work you do to preserve knowledge.\n\nColin Hurst Bullock\nFounder, Akashic Records"
+    },
+    {
+      "id": 2,
+      "name": "Cleveland Museum of Art",
+      "documentation": "https://www.clevelandart.org/open-access-api",
+      "access": "API and downloadable datasets",
+      "rights": "CC0-designated objects; check each image",
+      "contact": "openaccess@clevelandart.org; reconfirm",
+      "status": "unsent_draft",
+      "subject": "Akashic Records — collection access and collaboration enquiry",
+      "email": "Hello Cleveland Museum of Art team,\n\nYour open-access collection is an impressive example of making cultural heritage discoverable. Could your team advise on keeping a credited data integration current?\n\nI am developing the Akashic Records, an early-stage independent knowledge library intended to connect cited records across disciplines while crediting custodians and directing readers back to their original collections.\n\nWould you be willing to direct me to the appropriate person or documentation for catalogue exports or APIs, update schedules, attribution, and separate permissions for preservation, display and commercial reuse? We are not seeking ownership of your materials or suggesting an existing partnership.\n\nI'd also be interested in what your institution would value most from a potential collaboration.\n\nThank you for the work you do to preserve knowledge.\n\nColin Hurst Bullock\nFounder, Akashic Records"
+    },
+    {
+      "id": 3,
+      "name": "Smithsonian Institution",
+      "documentation": "https://www.si.edu/openaccess/devtools",
+      "access": "Open Access API and downloadable data",
+      "rights": "CC0-designated assets; others restricted",
+      "contact": "Open Access contact via official website",
+      "status": "unsent_draft",
+      "subject": "Akashic Records — collection access and collaboration enquiry",
+      "email": "Hello Smithsonian Institution team,\n\nYour Open Access initiative connects science, history and culture in a way that aligns with our research goals. Could you recommend responsible bulk ingestion practices?\n\nI am developing the Akashic Records, an early-stage independent knowledge library intended to connect cited records across disciplines while crediting custodians and directing readers back to their original collections.\n\nWould you be willing to direct me to the appropriate person or documentation for catalogue exports or APIs, update schedules, attribution, and separate permissions for preservation, display and commercial reuse? We are not seeking ownership of your materials or suggesting an existing partnership.\n\nI'd also be interested in what your institution would value most from a potential collaboration.\n\nThank you for the work you do to preserve knowledge.\n\nColin Hurst Bullock\nFounder, Akashic Records"
+    },
+    {
+      "id": 4,
+      "name": "Library of Congress",
+      "documentation": "https://www.loc.gov/apis/",
+      "access": "JSON API and selected bulk data",
+      "rights": "Item-level rights vary",
+      "contact": "LC Labs contact via official website",
+      "status": "unsent_draft",
+      "subject": "Akashic Records — collection access and collaboration enquiry",
+      "email": "Hello Library of Congress team,\n\nYour digital collections and public APIs provide a remarkable research foundation. Could your team advise on stable identifiers and responsible harvesting?\n\nI am developing the Akashic Records, an early-stage independent knowledge library intended to connect cited records across disciplines while crediting custodians and directing readers back to their original collections.\n\nWould you be willing to direct me to the appropriate person or documentation for catalogue exports or APIs, update schedules, attribution, and separate permissions for preservation, display and commercial reuse? We are not seeking ownership of your materials or suggesting an existing partnership.\n\nI'd also be interested in what your institution would value most from a potential collaboration.\n\nThank you for the work you do to preserve knowledge.\n\nColin Hurst Bullock\nFounder, Akashic Records"
+    },
+    {
+      "id": 5,
+      "name": "Metropolitan Museum of Art",
+      "documentation": "https://metmuseum.github.io/",
+      "access": "Public collection API",
+      "rights": "CC0 public-domain-designated works only",
+      "contact": "Open Access team; verify contact",
+      "status": "unsent_draft",
+      "subject": "Akashic Records — collection access and collaboration enquiry",
+      "email": "Hello Metropolitan Museum of Art team,\n\nThe Met's public collection data makes art history easier to explore. Could your team clarify update practices and how best to distinguish image permissions?\n\nI am developing the Akashic Records, an early-stage independent knowledge library intended to connect cited records across disciplines while crediting custodians and directing readers back to their original collections.\n\nWould you be willing to direct me to the appropriate person or documentation for catalogue exports or APIs, update schedules, attribution, and separate permissions for preservation, display and commercial reuse? We are not seeking ownership of your materials or suggesting an existing partnership.\n\nI'd also be interested in what your institution would value most from a potential collaboration.\n\nThank you for the work you do to preserve knowledge.\n\nColin Hurst Bullock\nFounder, Akashic Records"
+    },
+    {
+      "id": 6,
+      "name": "Art Institute of Chicago",
+      "documentation": "https://api.artic.edu/docs/",
+      "access": "Collection API",
+      "rights": "Rights vary by object",
+      "contact": "API documentation contact; verify",
+      "status": "unsent_draft",
+      "subject": "Akashic Records — collection access and collaboration enquiry",
+      "email": "Hello Art Institute of Chicago team,\n\nYour well-documented API is a useful model for research access. Could your digital team advise on bulk access and attribution?\n\nI am developing the Akashic Records, an early-stage independent knowledge library intended to connect cited records across disciplines while crediting custodians and directing readers back to their original collections.\n\nWould you be willing to direct me to the appropriate person or documentation for catalogue exports or APIs, update schedules, attribution, and separate permissions for preservation, display and commercial reuse? We are not seeking ownership of your materials or suggesting an existing partnership.\n\nI'd also be interested in what your institution would value most from a potential collaboration.\n\nThank you for the work you do to preserve knowledge.\n\nColin Hurst Bullock\nFounder, Akashic Records"
+    },
+    {
+      "id": 7,
+      "name": "Europeana",
+      "documentation": "https://pro.europeana.eu/page/apis",
+      "access": "Aggregated collection APIs",
+      "rights": "Metadata generally CC0; media provider-specific",
+      "contact": "Europeana Pro contact; verify",
+      "status": "unsent_draft",
+      "subject": "Akashic Records — collection access and collaboration enquiry",
+      "email": "Hello Europeana team,\n\nEuropeana's work connecting institutions is especially relevant to our mission. Could your team advise on preserving provider attribution and avoiding duplicate records?\n\nI am developing the Akashic Records, an early-stage independent knowledge library intended to connect cited records across disciplines while crediting custodians and directing readers back to their original collections.\n\nWould you be willing to direct me to the appropriate person or documentation for catalogue exports or APIs, update schedules, attribution, and separate permissions for preservation, display and commercial reuse? We are not seeking ownership of your materials or suggesting an existing partnership.\n\nI'd also be interested in what your institution would value most from a potential collaboration.\n\nThank you for the work you do to preserve knowledge.\n\nColin Hurst Bullock\nFounder, Akashic Records"
+    },
+    {
+      "id": 8,
+      "name": "GBIF",
+      "documentation": "https://techdocs.gbif.org/en/data-use/api-downloads",
+      "access": "Occurrence API and bulk downloads",
+      "rights": "Dataset licences vary; media separate",
+      "contact": "GBIF helpdesk; verify",
+      "status": "unsent_draft",
+      "subject": "Akashic Records — collection access and collaboration enquiry",
+      "email": "Hello GBIF team,\n\nGBIF's approach to biodiversity provenance and dataset citations is valuable. Could your team advise on citation-preserving integrations?\n\nI am developing the Akashic Records, an early-stage independent knowledge library intended to connect cited records across disciplines while crediting custodians and directing readers back to their original collections.\n\nWould you be willing to direct me to the appropriate person or documentation for catalogue exports or APIs, update schedules, attribution, and separate permissions for preservation, display and commercial reuse? We are not seeking ownership of your materials or suggesting an existing partnership.\n\nI'd also be interested in what your institution would value most from a potential collaboration.\n\nThank you for the work you do to preserve knowledge.\n\nColin Hurst Bullock\nFounder, Akashic Records"
+    },
+    {
+      "id": 9,
+      "name": "Crossref",
+      "documentation": "https://www.crossref.org/documentation/retrieve-metadata/",
+      "access": "REST API and bulk metadata options",
+      "rights": "Article full text not included in metadata rights",
+      "contact": "Crossref support; verify",
+      "status": "unsent_draft",
+      "subject": "Akashic Records — collection access and collaboration enquiry",
+      "email": "Hello Crossref team,\n\nCrossref's DOI metadata helps connect research across disciplines. Could your team recommend a no-cost, sustainable update approach?\n\nI am developing the Akashic Records, an early-stage independent knowledge library intended to connect cited records across disciplines while crediting custodians and directing readers back to their original collections.\n\nWould you be willing to direct me to the appropriate person or documentation for catalogue exports or APIs, update schedules, attribution, and separate permissions for preservation, display and commercial reuse? We are not seeking ownership of your materials or suggesting an existing partnership.\n\nI'd also be interested in what your institution would value most from a potential collaboration.\n\nThank you for the work you do to preserve knowledge.\n\nColin Hurst Bullock\nFounder, Akashic Records"
+    },
+    {
+      "id": 10,
+      "name": "British Museum",
+      "documentation": "https://www.britishmuseum.org/collection",
+      "access": "Collection search; bulk API not verified",
+      "rights": "Object and image rights need review",
+      "contact": "Collections enquiry route; verify",
+      "status": "unsent_draft",
+      "subject": "Akashic Records — collection access and collaboration enquiry",
+      "email": "Hello British Museum team,\n\nYour cuneiform collections illustrate how one artifact connects astronomy, mathematics and history. Is there a suitable route for catalogue access or partnership discussion?\n\nI am developing the Akashic Records, an early-stage independent knowledge library intended to connect cited records across disciplines while crediting custodians and directing readers back to their original collections.\n\nWould you be willing to direct me to the appropriate person or documentation for catalogue exports or APIs, update schedules, attribution, and separate permissions for preservation, display and commercial reuse? We are not seeking ownership of your materials or suggesting an existing partnership.\n\nI'd also be interested in what your institution would value most from a potential collaboration.\n\nThank you for the work you do to preserve knowledge.\n\nColin Hurst Bullock\nFounder, Akashic Records"
+    }
+  ]
+}
