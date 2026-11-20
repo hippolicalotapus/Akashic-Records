@@ -1,0 +1,28 @@
+{
+  "id": "artifact:british-museum:k160",
+  "type": "artifact",
+  "title": "Venus Tablet of Ammisaduqa (K.160)",
+  "summary": "Neo-Assyrian cuneiform tablet, a later copy of observations of Venus attributed to the reign of Ammisaduqa. Chronological interpretations are disputed.",
+  "topics": ["astronomy", "mesopotamian-history", "chronology", "cuneiform"],
+  "portals": ["akashic-records", "orbis-arcanorum", "world-wonder-web"],
+  "rights_tier": "B",
+  "rights": {
+    "metadata": "review_before_reuse",
+    "digital_asset": "not_cleared",
+    "note": "Museum photograph is separately copyrighted. No image copied."
+  },
+  "takedown": { "state": "none", "note": null, "mirror_retained": true },
+  "source": {
+    "publisher": "British Museum via Google Arts & Culture",
+    "canonical_url": "https://artsandculture.google.com/asset/cuneiform-tablet-with-observations-of-venus/uQGtUbfuWfzvLQ?hl=en",
+    "accessed": "2026-11-17",
+    "health": "unchecked",
+    "checked_at": null
+  },
+  "captures": [],
+  "evidence_status": "institutional_description",
+  "revision": 1,
+  "supersedes": null,
+  "superseded_by": null,
+  "created_at": "2026-11-20"
+}
