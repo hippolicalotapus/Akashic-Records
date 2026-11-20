@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Akashic Record",
+  "type": "object",
+  "required": ["id", "type", "title", "rights_tier", "takedown", "source", "revision", "created_at"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z]+:[a-z0-9-]+(:[a-z0-9._-]+)?$" },
+    "type": { "enum": ["artifact", "document", "image", "place", "person", "event", "claim", "topic", "collection"] },
+    "title": { "type": "string", "minLength": 1 },
+    "summary": { "type": "string" },
+    "topics": { "type": "array", "items": { "type": "string" } },
+    "portals": { "type": "array", "items": { "enum": ["akashic-records", "orbis-arcanorum", "world-wonder-web", "world-wicked-web", "science-portal"] } },
+    "rights_tier": { "enum": ["A", "B", "C", "D"] },
+    "takedown": {
+      "type": "object",
+      "required": ["state"],
+      "properties": {
+        "state": { "enum": ["none", "noticed", "complied", "disputed"] },
+        "note": { "type": ["string", "null"] },
+        "mirror_retained": { "type": "boolean" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": ["canonical_url", "accessed", "health"],
+      "properties": {
+        "publisher": { "type": "string" },
+        "canonical_url": { "type": "string" },
+        "accessed": { "type": "string" },
+        "health": { "enum": ["live", "moved", "dead", "gone", "unchecked"] },
+        "checked_at": { "type": ["string", "null"] }
+      }
+    },
+    "captures": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["captured_at", "sha256", "warc", "mirror_status"],
+        "properties": {
+          "captured_at": { "type": "string" },
+          "sha256": { "type": "string" },
+          "warc": { "type": "string" },
+          "tool": { "type": "string" },
+          "mirror_status": { "enum": ["public", "dark"] }
+        }
+      }
+    },
+    "evidence_status": { "enum": ["institutional_description", "primary_source", "secondary_source", "unsourced", "disputed"] },
+    "revision": { "type": "integer", "minimum": 1 },
+    "supersedes": { "type": ["string", "null"] },
+    "superseded_by": { "type": ["string", "null"] },
+    "created_at": { "type": "string" }
+  }
+}
