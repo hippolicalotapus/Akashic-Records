@@ -1,0 +1,24 @@
+<div class="actions" data-title="{{T}}" data-institution="{{I}}" data-accessed="{{A}}">
+  <p class="note">What would you like to do with this record?</p>
+  <button data-act="cite">Copy citation</button>
+  <button data-act="link">Copy link</button>
+  <button data-act="translate">Translate</button>
+  <button data-act="search">Find more about it</button>
+  <p class="said"></p>
+</div>
+<script>
+document.querySelectorAll('.actions').forEach(function (box) {
+  var said = box.querySelector('.said');
+  function say(t) { said.textContent = t; setTimeout(function () { said.textContent = ''; }, 2500); }
+  function copy(t) { navigator.clipboard.writeText(t).then(function () { say('Copied'); }, function () { say('Copy failed'); }); }
+  box.addEventListener('click', function (e) {
+    var b = e.target.closest('button');
+    if (!b) return;
+    var t = box.dataset.title, i = box.dataset.institution, a = box.dataset.accessed, act = b.dataset.act;
+    if (act === 'cite') copy(t + '. ' + i + '. Accessed ' + a + '. ' + location.href);
+    if (act === 'link') copy(location.href);
+    if (act === 'translate') window.open('https://translate.google.com/translate?sl=auto&tl=es&u=' + encodeURIComponent(location.href), '_blank');
+    if (act === 'search') window.open('https://duckduckgo.com/?q=' + encodeURIComponent(t + ' ' + i), '_blank');
+  });
+});
+</script>
