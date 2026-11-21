@@ -1,0 +1,12 @@
+{
+  "id": "institution:british-museum",
+  "name": "British Museum",
+  "catalogue_url": "https://www.britishmuseum.org/collection",
+  "licence_note": "Per-item rights. Museum photography separately copyrighted. No bulk copying assumed.",
+  "outreach_status": "awaiting_response",
+  "last_contacted_at": "2026-11-21",
+  "expected_response": "Awaiting reply. Up to 12 weeks is the stated norm.",
+  "bulk_api_status": "unknown",
+  "api_docs": null,
+  "notes": "Records added individually, by registration number."
+}
