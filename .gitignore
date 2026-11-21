@@ -1,0 +1,7 @@
+node_modules/
+.netlify/
+captures/
+akashic-mirror/
+*.warc
+*.warc.gz
+.DS_Store
