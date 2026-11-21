@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 import json, pathlib, shutil, sys
 from jsonschema import Draft202012Validator
-from pages import record_page, list_page, collection_page
+from pages import record_page, list_page, collection_page, institutions_page
 from rules import check
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA, OUT = ROOT/"data"/"records", ROOT/"records"
+INST = ROOT/"data"/"institutions"
 SCHEMA = json.loads((ROOT/"schema"/"record.schema.json").read_text())
 NAMES = json.loads((ROOT/"data"/"collections.json").read_text())
 V = Draft202012Validator(SCHEMA)
@@ -54,6 +55,16 @@ def main():
 
     groups = [(n, s, i) for (n, s), i in sorted(colls.items())]
     (OUT/"index.html").write_text(list_page("Records", 1, "Grouped by collection. Every entry names its source or is flagged unsourced.", groups))
+
+    if INST.exists():
+        insts = [json.loads(p.read_text()) for p in sorted(INST.glob("*.json"))]
+        counts = {}
+        for r in records:
+            n = r.get("external_id", {}).get("institution")
+            if n:
+                counts[n] = counts.get(n, 0) + 1
+        (ROOT/"institutions.html").write_text(institutions_page(insts, counts))
+
     print(f"{len(records)} records")
 
 if __name__ == "__main__":
