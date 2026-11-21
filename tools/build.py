@@ -8,6 +8,7 @@ DATA = ROOT / "data" / "records"
 OUT = ROOT / "records"
 SCHEMA = json.loads((ROOT / "schema" / "record.schema.json").read_text())
 VALIDATOR = Draft202012Validator(SCHEMA)
+NAMES = json.loads((ROOT / "data" / "collections.json").read_text())
 
 CSS = """
   :root { color-scheme: dark; }
