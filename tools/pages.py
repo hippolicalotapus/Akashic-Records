@@ -8,6 +8,16 @@ CLAIM = {
     "disputed": "Disputed — two sides, both kept.",
 }
 
+OUTREACH = {
+    "not_contacted": "Not contacted.",
+    "sent": "Contacted, no reply yet.",
+    "awaiting_response": "Awaiting response.",
+    "responded": "Reply received.",
+    "permission_granted": "Permission granted.",
+    "declined": "Declined.",
+    "bounced": "Address bounced.",
+}
+
 def record_page(r, name):
     b = [f'<p class="kicker">{r["type"].title()} · {name}</p>',
          f'<h1>{r["title"]}</h1>']
@@ -32,8 +42,8 @@ def record_page(r, name):
                   else "No replacement known.") + "</p>")
 
     rows = []
-    if r.get("external_catalogue_id") or r.get("external_id", {}).get("registration_number"):
-        ref = r.get("external_catalogue_id") or r["external_id"]["registration_number"]
+    ref = r.get("external_catalogue_id") or r.get("external_id", {}).get("registration_number")
+    if ref:
         rows.append(("Institution", f"{name} — {ref}"))
     if r.get("medium"):
         rows.append(("Medium", r["medium"]))
@@ -82,3 +92,24 @@ def collection_page(name, slug, items):
         b.append(item(r, f'../{r["_type"]}/{r["_collection"]}/{r["_slug"]}.html'))
     b.append("</ul>")
     return page(name, 2, "\n".join(b))
+
+def institutions_page(insts, counts):
+    b = ["<h1>Institutions</h1>",
+         '<p class="note">Where each source stands. Nothing here claims partnership.</p>']
+    for i in insts:
+        b.append(f'<h2>{i["name"]}</h2>')
+        b.append("<dl>")
+        b.append(f'  <dt>Catalogue</dt>\n  <dd><a href="{i["catalogue_url"]}">{i["catalogue_url"]}</a></dd>\n')
+        b.append(f'  <dt>Outreach</dt>\n  <dd>{OUTREACH.get(i.get("outreach_status"), i.get("outreach_status"))}'
+                 f'{f" Last contact {i[chr(39)+chr(39)]}" if False else ""}</dd>\n')
+        if i.get("last_contacted_at"):
+            b.append(f'  <dt>Last contact</dt>\n  <dd>{i["last_contacted_at"]}</dd>\n')
+        if i.get("expected_response"):
+            b.append(f'  <dt>Expected</dt>\n  <dd>{i["expected_response"]}</dd>\n')
+        if i.get("licence_note"):
+            b.append(f'  <dt>Licence</dt>\n  <dd>{i["licence_note"]}</dd>\n')
+        if i.get("api_docs"):
+            b.append(f'  <dt>API</dt>\n  <dd><a href="{i["api_docs"]}">Documentation</a> · bulk status: {i.get("bulk_api_status", "unknown")}</dd>\n')
+        b.append(f'  <dt>Records</dt>\n  <dd>{counts.get(i["name"], 0)}</dd>\n')
+        b.append("</dl>")
+    return page("Institutions", 1, "\n".join(b))
