@@ -33,6 +33,11 @@ CSS = """
   .note { font-size: .9rem; color: #a2917a; }
   .lede { font-size: 1.05rem; }
   footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #2e2822; font-size: .8rem; color: #7d6f5e; }
+  .actions { margin: 2.5rem 0 0; border-top: 1px solid #2e2822; padding-top: 1.25rem; }
+  .actions button { font: inherit; font-size: .85rem; color: #e8e1d5; background: #1b1815; border: 1px solid #3a332b; padding: .4rem .8rem; margin: 0 .4rem .4rem 0; cursor: pointer; }
+  .actions button:hover { border-color: #c9b48f; color: #fff; }
+  .said { font-size: .85rem; color: #a2917a; min-height: 1.3rem; }
+"""
 """
 
 def page(title, depth, body):
