@@ -3,6 +3,17 @@ const REPO = "Akashic-Records";
 const SECRET = "akashic-bridge-4417";
 const MAX = 5 * 1024 * 1024;
 
+const ALLOW = [
+  "wellcomecollection.org",
+  "iiif.wellcomecollection.org",
+  "loc.gov",
+  "britishmuseum.org",
+  "artsandculture.google.com",
+  "github.com",
+  "api.github.com",
+  "raw.githubusercontent.com",
+];
+
 const bad = (m, s = 400) => new Response(JSON.stringify({ error: m }), { status: s, headers: { "content-type": "application/json" } });
 const b64 = (s) => btoa(unescape(encodeURIComponent(s)));
 
@@ -34,6 +45,7 @@ export default async (req) => {
   let t;
   try { t = new URL(target); } catch { return bad("bad url"); }
   if (!/^https?:$/.test(t.protocol)) return bad("http(s) only");
+  if (!ALLOW.some((d) => t.hostname === d || t.hostname.endsWith("." + d))) return bad(`host not allowed: ${t.hostname}`);
 
   const ac = new AbortController();
   const timer = setTimeout(() => ac.abort(), 20000);
