@@ -2,6 +2,15 @@
   publish = "."
   command = "pip install -r requirements.txt && python3 tools/build.py"
 
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/api/gh"
+  to = "/.netlify/functions/gh"
+  status = 200
+
 [[headers]]
   for = "/*"
   [headers.values]
