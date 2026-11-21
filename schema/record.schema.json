@@ -1,6 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Akashic Record",
+  "schema_version": "0.2",
   "type": "object",
   "required": ["id", "type", "title", "rights_tier", "takedown", "source", "revision", "created_at"],
   "properties": {
@@ -8,18 +9,66 @@
     "type": { "enum": ["artifact", "document", "image", "place", "person", "event", "claim", "topic", "collection"] },
     "title": { "type": "string", "minLength": 1 },
     "summary": { "type": "string" },
+    "body": { "type": "array", "items": { "type": "string" } },
     "topics": { "type": "array", "items": { "type": "string" } },
     "portals": { "type": "array", "items": { "enum": ["akashic-records", "orbis-arcanorum", "world-wonder-web", "world-wicked-web", "science-portal"] } },
+
+    "institution_name": { "type": "string" },
+    "external_catalogue_id": { "type": "string" },
+    "external_id": {
+      "type": "object",
+      "properties": {
+        "institution": { "type": "string" },
+        "registration_number": { "type": "string" }
+      }
+    },
+    "original_item_url": { "type": "string" },
+    "provenance_notes": { "type": "string" },
+    "metadata_import_method": { "enum": ["manual", "institutional_api", "iiif", "catalogue_export"] },
+    "duplicate_match_key": { "type": "string" },
+
     "rights_tier": { "enum": ["A", "B", "C", "D"] },
+    "rights_basis": { "enum": ["public_domain", "cc0", "cc_by", "permission", "institutional_terms", "unclear", "unverified"] },
+    "item_license_identifier": { "type": "string" },
+    "item_license_url": { "type": "string" },
+    "rights_checked_at": { "type": "string" },
+    "rights_reviewer": { "type": "string" },
+    "attribution_text": { "type": "string" },
+    "image_reuse_status": { "enum": ["cleared", "unclear", "restricted"] },
+    "commercial_reproduction_status": { "enum": ["permitted", "unclear", "prohibited"] },
+    "permission_reference": { "type": "string" },
+    "permission_scope": { "type": "string" },
+    "permission_expiry": { "type": "string" },
+
+    "rights": {
+      "type": "object",
+      "properties": {
+        "metadata": { "type": "string" },
+        "digital_asset": { "type": "string" },
+        "note": { "type": "string" }
+      }
+    },
+
+    "claim_status": { "enum": ["primary_account", "established", "emerging", "speculative", "disputed"] },
+    "claim_status_note": { "type": "string" },
+    "evidence_status": { "type": "string" },
+
+    "creator_endorsement_status": { "enum": ["none", "contacted", "confirmed", "declined"] },
+    "outreach_thread_url": { "type": "string" },
+    "outreach_status": { "enum": ["not_contacted", "sent", "awaiting_response", "responded", "permission_granted", "declined", "bounced"] },
+    "last_contacted_at": { "type": "string" },
+
     "takedown": {
       "type": "object",
       "required": ["state"],
       "properties": {
         "state": { "enum": ["none", "noticed", "complied", "disputed"] },
+        "noticed_at": { "type": ["string", "null"] },
         "note": { "type": ["string", "null"] },
         "mirror_retained": { "type": "boolean" }
       }
     },
+
     "source": {
       "type": "object",
       "required": ["canonical_url", "accessed", "health"],
@@ -28,9 +77,13 @@
         "canonical_url": { "type": "string" },
         "accessed": { "type": "string" },
         "health": { "enum": ["live", "moved", "dead", "gone", "unchecked"] },
-        "checked_at": { "type": ["string", "null"] }
+        "checked_at": { "type": ["string", "null"] },
+        "source_link_status": { "enum": ["live", "moved", "dead", "gone", "unchecked"] },
+        "source_link_last_checked": { "type": ["string", "null"] },
+        "replacement_url": { "type": "string" }
       }
     },
+
     "captures": {
       "type": "array",
       "items": {
@@ -39,16 +92,26 @@
         "properties": {
           "captured_at": { "type": "string" },
           "sha256": { "type": "string" },
+          "bytes": { "type": "integer" },
           "warc": { "type": "string" },
           "tool": { "type": "string" },
-          "mirror_status": { "enum": ["public", "dark"] }
+          "mirror_status": { "enum": ["public", "dark", "partial"] },
+          "bucket_url": { "type": "string" },
+          "mirror_url": { "type": "string" }
         }
       }
     },
-    "evidence_status": { "enum": ["institutional_description", "primary_source", "secondary_source", "unsourced", "disputed"] },
+
+    "medium": { "type": "string" },
+    "image": { "type": "string" },
+    "image_alt": { "type": "string" },
+    "iiif": { "type": "string" },
+    "credit": { "type": "string" },
+
     "revision": { "type": "integer", "minimum": 1 },
     "supersedes": { "type": ["string", "null"] },
     "superseded_by": { "type": ["string", "null"] },
-    "created_at": { "type": "string" }
+    "created_at": { "type": "string" },
+    "updated_at": { "type": "string" }
   }
 }
