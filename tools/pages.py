@@ -1,1 +1,63 @@
-placeholder
+from render import page, figure, ACTIONS
+
+def record_page(r, name):
+    b = [f'<p class="kicker">{r["type"].title()} · {name}</p>',
+         f'<h1>{r["title"]}</h1>']
+    if r.get("summary"):
+        b.append(f'<p class="lede">{r["summary"]}</p>')
+    for p in r.get("body", []):
+        b.append(f"<p>{p}</p>")
+    b.append(figure(r))
+    rows = []
+    reg = r.get("external_id", {}).get("registration_number")
+    if reg:
+        rows.append(("Institution", f"{name} — {reg}"))
+    if r.get("medium"):
+        rows.append(("Medium", r["medium"]))
+    if r.get("topics"):
+        rows.append(("Topics", " · ".join(r["topics"])))
+    s = r["source"]
+    rows.append(("Source", f'<a href="{s["canonical_url"]}">{s.get("publisher", "Source")}</a><br>'
+                       f'<span class="note">Accessed {s["accessed"]}. '
+                       f'<span class="flag">Not yet captured.</span></span>'))
+    if r.get("iiif"):
+        rows.append(("Digital copy", f'<a href="{r["iiif"]}">IIIF manifest</a>'))
+    if r.get("evidence_status"):
+        rows.append(("Evidence", r["evidence_status"].replace("_", " ").capitalize()))
+    rows.append(("Rights", f'<span class="flag">Tier {r["rights_tier"]} — free to publish.</span><br>'
+                       f'<span class="note">{r.get("rights", {}).get("note", "")}</span>'))
+    rows.append(("Revision", f'{r["revision"]} — never superseded'))
+    b.append("<dl>")
+    for k, v in rows:
+        b.append(f"  <dt>{k}</dt>\n  <dd>{v}</dd>\n")
+    b.append("</dl>")
+    inst = r.get("external_id", {}).get("institution", "")
+    b.append(ACTIONS.replace("{{T}}", r["title"])
+            .replace("{{I}}", inst)
+            .replace("{{A}}", s["accessed"]))
+    return page(r["title"], 3, "\n".join(b))
+
+def item(r, href):
+    return (f'  <li>\n    <a href="{href}">{r["title"]}</a>\n'
+            f'    <span class="meta">{r["type"].title()} · tier {r["rights_tier"]}</span>\n  </li>')
+
+def list_page(title, depth, intro, groups):
+    b = [f"<h1>{title}</h1>"]
+    if intro:
+        b.append(f'<p class="note">{intro}</p>')
+    for name, slug, items in groups:
+        b.append(f'<h2><a href="collection/{slug}.html" style="color:inherit">{name}</a></h2>')
+        b.append("<ul>")
+        b.extend(item(r, r["_href"]) for r in items)
+        b.append("</ul>\n")
+    return page(title, depth, "\n".join(b))
+
+def collection_page(name, slug, items):
+    b = [f"<h1>{name}</h1>",
+         f'<p class="note">Held records from {name}, catalogued one at a time. No bulk copying.</p>',
+         "<h2>Records</h2>", "<ul>"]
+    for r in items:
+        href = f'../{r["_type"]}/{r["_collection"]}/{r["_slug"]}.html'
+        b.append(item(r, href))
+    b.append("</ul>")
+    return page(name, 2, "\n".join(b))
