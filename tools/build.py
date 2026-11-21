@@ -110,6 +110,36 @@ def record_page(rec, collection_name):
     for label, value in rows:
         body.append(f"  <dt>{label}</dt>\n  <dd>{value}</dd>\n")
     body.append("</dl>")
+    inst = rec.get("external_id", {}).get("institution", "")
+    body.append(f"""<div class="actions" data-title="{rec['title']}" data-institution="{inst}" data-accessed="{src['accessed']}">
+  <p class="note">What would you like to do with this record?</p>
+  <button data-act="cite">Copy citation</button>
+  <button data-act="link">Copy link</button>
+  <button data-act="translate">Translate</button>
+  <button data-act="search">Find more about it</button>
+  <p class="said"></p>
+</div>
+<script>
+(function () {{
+  var box = document.querySelector('.actions');
+  var said = document.querySelector('.said');
+  function say(t) {{ said.textContent = t; setTimeout(function () {{ said.textContent = ''; }}, 2500); }}
+  function copy(t) {{
+    navigator.clipboard.writeText(t).then(function () {{ say('Copied'); }},
+      function () {{ say('Copy failed'); }});
+  }}
+  box.addEventListener('click', function (e) {{
+    var b = e.target.closest('button');
+    if (!b) return;
+    var t = box.dataset.title, inst = box.dataset.institution, acc = box.dataset.accessed;
+    var act = b.dataset.act;
+    if (act === 'cite') copy(t + '. ' + inst + '. Accessed ' + acc + '. ' + location.href);
+    if (act === 'link') copy(location.href);
+    if (act === 'translate') window.open('https://translate.google.com/translate?sl=auto&tl=es&u=' + encodeURIComponent(location.href), '_blank');
+    if (act === 'search') window.open('https://duckduckgo.com/?q=' + encodeURIComponent(t + ' ' + inst), '_blank');
+  }});
+}})();
+</script>""")
     return page(rec["title"], 3, "\n".join(body))
 
 def list_page(title, depth, intro, groups):
