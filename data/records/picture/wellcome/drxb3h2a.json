@@ -3,9 +3,20 @@
   "type": "image",
   "title": "A comet in the night sky",
   "summary": "A wood engraving of a comet over a landscape, lettered simply \"The comet.\" Published around 1860, in the middle of the comet panic that followed the return of Donati's comet in 1858.",
-  "topics": ["astronomy", "comets", "1860s"],
-  "portals": ["akashic-records", "world-wonder-web", "science-portal"],
-  "external_id": { "institution": "Wellcome Collection", "registration_number": "46240i" },
+  "topics": [
+    "astronomy",
+    "comets",
+    "1860s"
+  ],
+  "portals": [
+    "akashic-records",
+    "world-wonder-web",
+    "science-portal"
+  ],
+  "external_id": {
+    "institution": "Wellcome Collection",
+    "registration_number": "46240i"
+  },
   "medium": "Wood engraving, sheet 20 × 16.1 cm",
   "image": "https://iiif.wellcomecollection.org/image/V0024750/full/900,/0/default.jpg",
   "image_alt": "Wood engraving of a bright comet over a dark landscape",
@@ -18,16 +29,33 @@
   "commercial_reproduction_status": "permitted",
   "attribution_text": "Wellcome Collection",
   "claim_status": "primary_account",
-  "rights": { "metadata": "free", "digital_asset": "public_domain", "note": "Public Domain Mark. Credit: Wellcome Collection." },
-  "takedown": { "state": "none", "note": null, "mirror_retained": true },
+  "rights": {
+    "metadata": "free",
+    "digital_asset": "public_domain",
+    "note": "Public Domain Mark. Credit: Wellcome Collection."
+  },
+  "takedown": {
+    "state": "none",
+    "note": null,
+    "mirror_retained": true
+  },
   "source": {
     "publisher": "Wellcome Collection catalogue",
     "canonical_url": "https://wellcomecollection.org/works/drxb3h2a",
     "accessed": "2026-11-20",
-    "health": "unchecked",
-    "checked_at": null
+    "health": "live",
+    "checked_at": "2026-11-21T16:34:22.080Z"
   },
-  "captures": [],
+  "captures": [
+    {
+      "captured_at": "2026-11-21T16:34:22.080Z",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "warc": "captures/wellcomecollection.org/e3b0c44298fc-2026-11-21T16-34-22-080Z.txt",
+      "tool": "netlify-fetch/1",
+      "mirror_status": "dark"
+    }
+  ],
   "evidence_status": "institutional_description",
   "revision": 1,
   "supersedes": null,
