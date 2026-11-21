@@ -1,0 +1,32 @@
+{
+  "id": "image:wellcome:rfva3mhb",
+  "type": "image",
+  "title": "Execution of a Sudanese mutineer by hanging",
+  "summary": "A line of men haul on the rope while the condemned man hangs, at Mazamboni's on Lake Albert. Wood engraving after C.J. Staniland, recording an execution during Stanley's Emin Pasha expedition.",
+  "body": [
+    "The mutineer was one of the Sudanese soldiers who had followed Emin Pasha and turned against the expedition's retreat. The engraving was made for the illustrated press, where such scenes were the century's news photography."
+  ],
+  "topics": ["executions", "capital punishment", "sudan", "stanley expedition", "1890s"],
+  "portals": ["akashic-records", "world-wicked-web"],
+  "external_id": { "institution": "Wellcome Collection", "registration_number": "43568i" },
+  "medium": "Wood engraving, image 30 × 21.8 cm",
+  "image": "https://iiif.wellcomecollection.org/image/V0041829/full/900,/0/default.jpg",
+  "image_alt": "Wood engraving of a hanging, with men hauling the rope",
+  "iiif": "https://iiif.wellcomecollection.org/image/V0041829/info.json",
+  "rights_tier": "A",
+  "rights": { "metadata": "free", "digital_asset": "public_domain", "note": "Public Domain Mark. Credit: Wellcome Collection." },
+  "takedown": { "state": "none", "note": null, "mirror_retained": true },
+  "source": {
+    "publisher": "Wellcome Collection catalogue",
+    "canonical_url": "https://wellcomecollection.org/works/rfva3mhb",
+    "accessed": "2026-11-21",
+    "health": "unchecked",
+    "checked_at": null
+  },
+  "captures": [],
+  "evidence_status": "institutional_description",
+  "revision": 1,
+  "supersedes": null,
+  "superseded_by": null,
+  "created_at": "2026-11-21"
+}
