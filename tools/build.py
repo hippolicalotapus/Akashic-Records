@@ -40,8 +40,6 @@ CSS = """
 """
 
 def page(title, depth, body):
-
-def page(title, depth, body):
     up = "../" * depth
     return f"""<!DOCTYPE html>
 <html lang="en">
