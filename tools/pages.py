@@ -100,8 +100,7 @@ def institutions_page(insts, counts):
         b.append(f'<h2>{i["name"]}</h2>')
         b.append("<dl>")
         b.append(f'  <dt>Catalogue</dt>\n  <dd><a href="{i["catalogue_url"]}">{i["catalogue_url"]}</a></dd>\n')
-        b.append(f'  <dt>Outreach</dt>\n  <dd>{OUTREACH.get(i.get("outreach_status"), i.get("outreach_status"))}'
-                 f'{f" Last contact {i[chr(39)+chr(39)]}" if False else ""}</dd>\n')
+        b.append(f'  <dt>Outreach</dt>\n  <dd>{OUTREACH.get(i.get("outreach_status"), i.get("outreach_status"))}</dd>\n')
         if i.get("last_contacted_at"):
             b.append(f'  <dt>Last contact</dt>\n  <dd>{i["last_contacted_at"]}</dd>\n')
         if i.get("expected_response"):
