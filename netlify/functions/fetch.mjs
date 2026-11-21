@@ -1,3 +1,5 @@
+const SECRET = "akashic-bridge-4417";
+
 const ALLOW = [
   "wellcomecollection.org",
   "iiif.wellcomecollection.org",
@@ -16,8 +18,7 @@ const bad = (msg, status = 400) =>
 
 export default async (req) => {
   const u = new URL(req.url);
-  const secret = u.searchParams.get("secret");
-  if (!process.env.FETCH_SECRET || secret !== process.env.FETCH_SECRET) return bad("bad secret", 401);
+  if (u.searchParams.get("secret") !== SECRET) return bad("bad secret", 401);
 
   const target = u.searchParams.get("url");
   if (!target) return bad("no url");
