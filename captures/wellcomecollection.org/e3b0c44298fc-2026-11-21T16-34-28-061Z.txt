@@ -1,0 +1,9 @@
+url: https://wellcomecollection.org/works/drxb3h2a
+final_url: https://wellcomecollection.org/works/drxb3h2a
+status: 429
+content_type: 
+captured_at: 2026-11-21T16:34:28.061Z
+sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+bytes: 0
+mirror_status: dark
+----
