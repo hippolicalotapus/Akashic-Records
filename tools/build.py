@@ -70,7 +70,7 @@ def figure(rec):
     credit = rec.get("credit") or rec.get("external_id", {}).get("institution", "")
     return f"""<figure style="margin:2rem 0">
   <img src="{rec['image']}" alt="{alt}" style="width:100%;height:auto;display:block">
-  <figcaption class="note" style="margin-top:.5rem">Wellcome Collection. Public domain.</figcaption>
+  <figcaption class="note" style="margin-top:.5rem">{credit}. Public domain.</figcaption>
 </figure>
 """
 
