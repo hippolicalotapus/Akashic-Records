@@ -6,9 +6,20 @@
   "body": [
     "Wenham was convicted in 1712 and reprieved; the case is often cited as the last witch conviction in England. The pamphlet is part of the argument literature the case produced, and is catalogued under ESTC T68954."
   ],
-  "topics": ["witchcraft", "hertfordshire", "trials", "1712"],
-  "portals": ["akashic-records", "world-wicked-web"],
-  "external_id": { "institution": "Wellcome Collection", "registration_number": "b30545158" },
+  "topics": [
+    "witchcraft",
+    "hertfordshire",
+    "trials",
+    "1712"
+  ],
+  "portals": [
+    "akashic-records",
+    "world-wicked-web"
+  ],
+  "external_id": {
+    "institution": "Wellcome Collection",
+    "registration_number": "b30545158"
+  },
   "medium": "London: printed for E. Curll, at the Dial and Bible against St Dunstan's Church in Fleet Street, 1712. 39 pages, 19 cm. Price sixpence.",
   "image": "https://iiif.wellcomecollection.org/image/b30545158_0005.jp2/full/900,/0/default.jpg",
   "image_alt": "Title page of the 1712 pamphlet",
@@ -21,16 +32,33 @@
   "commercial_reproduction_status": "permitted",
   "attribution_text": "Wellcome Collection",
   "claim_status": "primary_account",
-  "rights": { "metadata": "free", "digital_asset": "public_domain", "note": "Public Domain Mark. Credit: Wellcome Collection." },
-  "takedown": { "state": "none", "note": null, "mirror_retained": true },
+  "rights": {
+    "metadata": "free",
+    "digital_asset": "public_domain",
+    "note": "Public Domain Mark. Credit: Wellcome Collection."
+  },
+  "takedown": {
+    "state": "none",
+    "note": null,
+    "mirror_retained": true
+  },
   "source": {
     "publisher": "Wellcome Collection catalogue",
     "canonical_url": "https://wellcomecollection.org/works/cb97s9ug",
     "accessed": "2026-11-20",
-    "health": "unchecked",
-    "checked_at": null
+    "health": "live",
+    "checked_at": "2026-11-21T16:33:40.397Z"
   },
-  "captures": [],
+  "captures": [
+    {
+      "captured_at": "2026-11-21T16:33:40.397Z",
+      "sha256": "298ef3eaabbb7442ba25d6aa7f53cbf1797cd77ff10f4b82766e8b2e7e441182",
+      "bytes": 120942,
+      "warc": "captures/wellcomecollection.org/298ef3eaabbb-2026-11-21T16-33-40-397Z.txt",
+      "tool": "netlify-fetch/1",
+      "mirror_status": "dark"
+    }
+  ],
   "evidence_status": "institutional_description",
   "revision": 1,
   "supersedes": null,
