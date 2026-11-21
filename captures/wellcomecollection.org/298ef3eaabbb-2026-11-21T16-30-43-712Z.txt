@@ -1,0 +1,704 @@
+url: https://wellcomecollection.org/works/cb97s9ug
+final_url: https://wellcomecollection.org/works/cb97s9ug
+status: 200
+content_type: text/html; charset=utf-8
+captured_at: 2026-11-21T16:30:43.712Z
+sha256: 298ef3eaabbb7442ba25d6aa7f53cbf1797cd77ff10f4b82766e8b2e7e441182
+bytes: 120942
+mirror_status: dark
+----
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8" data-next-head=""/><meta name="viewport" content="width=device-width, initial-scale=1" data-next-head=""/><title data-next-head="">Witchcraft farther display&#x27;d. Containing I. An account of the witchcraft practis&#x27;d by Jane Wenham of Walkerne, in Hertfordshire, since her condemnation ... II. An answer to the most general objections against the being and power of witches: ... To which are added, the tryals of Florence Newton, a famous Irish witch, at the assizes held at Cork, anno 1661; as also of two witches ... at Bury St. Edmonds in Suffolk, anno 1664. | Wellcome Collection</title><meta name="description" content="Witchcraft farther display&#x27;d. Containing I. An account of the witchcraft practis&#x27;d by Jane Wenham of Walkerne, in Hertfordshire, since her condemnation ... II. An answer to the most general objections against the being and power of witches: ... To which are added, the tryals of Florence Newton, a famous Irish witch, at the assizes held at Cork, anno 1661; as also of two witches ... at Bury St. Edmonds in Suffolk, anno 1664." data-next-head=""/><link rel="canonical" href="https://wellcomecollection.org/works/cb97s9ug" data-next-head=""/><meta property="og:site_name" content="Wellcome Collection" data-next-head=""/><meta property="og:type" content="website" data-next-head=""/><meta property="og:title" content="Witchcraft farther display&#x27;d. Containing I. An account of the witchcraft practis&#x27;d by Jane Wenham of Walkerne, in Hertfordshire, since her condemnation ... II. An answer to the most general objections against the being and power of witches: ... To which are added, the tryals of Florence Newton, a famous Irish witch, at the assizes held at Cork, anno 1661; as also of two witches ... at Bury St. Edmonds in Suffolk, anno 1664." data-next-head=""/><meta property="og:description" content="Witchcraft farther display&#x27;d. Containing I. An account of the witchcraft practis&#x27;d by Jane Wenham of Walkerne, in Hertfordshire, since her condemnation ... II. An answer to the most general objections against the being and power of witches: ... To which are added, the tryals of Florence Newton, a famous Irish witch, at the assizes held at Cork, anno 1661; as also of two witches ... at Bury St. Edmonds in Suffolk, anno 1664." data-next-head=""/><meta property="og:url" content="https://wellcomecollection.org/works/cb97s9ug" data-next-head=""/><meta name="twitter:card" content="summary" data-next-head=""/><meta name="twitter:site" content="@ExploreWellcome" data-next-head=""/><meta name="twitter:url" content="https://wellcomecollection.org/works/cb97s9ug" data-next-head=""/><meta name="twitter:title" content="Witchcraft farther display&#x27;d. Containing I. An account of the witchcraft practis&#x27;d by Jane Wenham of Walkerne, in Hertfordshire, since her condemnation ... II. An answer to the most general objections against the being and power of witches: ... To which are added, the tryals of Florence Newton, a famous Irish witch, at the assizes held at Cork, anno 1661; as also of two witches ... at Bury St. Edmonds in Suffolk, anno 1664." data-next-head=""/><meta name="twitter:description" content="Witchcraft farther display&#x27;d. Containing I. An account of the witchcraft practis&#x27;d by Jane Wenham of Walkerne, in Hertfordshire, since her condemnation ... II. An answer to the most general objections against the being and power of witches: ... To which are added, the tryals of Florence Newton, a famous Irish witch, at the assizes held at Cork, anno 1661; as also of two witches ... at Bury St. Edmonds in Suffolk, anno 1664." data-next-head=""/><meta name="twitter:image" data-next-head=""/><meta name="twitter:image:alt" content="" data-next-head=""/><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" data-next-head=""/><link rel="apple-touch-icon" sizes="180x180" href="https://i.wellcomecollection.org/assets/icons/brand-update/apple-touch-icon.png" data-next-head=""/><link rel="shortcut icon" href="https://i.wellcomecollection.org/assets/icons/brand-update/favicon.ico" type="image/ico" data-next-head=""/><link rel="icon" type="image/png" href="https://i.wellcomecollection.org/assets/icons/brand-update/favicon-32x32.png" sizes="32x32" data-next-head=""/><link rel="icon" type="image/png" href="https://i.wellcomecollection.org/assets/icons/brand-update/favicon-16x16.png" sizes="16x16" data-next-head=""/><link rel="manifest" href="https://i.wellcomecollection.org/assets/icons/brand-update/manifest.json" data-next-head=""/><link rel="mask-icon" href="https://i.wellcomecollection.org/assets/icons/safari-pinned-tab.svg" color="#223438" data-next-head=""/><meta property="og:image" content="https://i.wellcomecollection.org/assets/icons/square_icon.png" itemProp="image" data-next-head=""/><script>document.documentElement.classList.add('enhanced')</script><script id="apm-config" type="application/json">{"serviceName":"content-webapp","environment":"prod","serverUrl":"https://46ccd9422f0641989fa09ac7c9e404c2.eu-west-1.aws.found.io:443","active":true,"centralConfig":true}</script><script id="google-analytics-data-layer">
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag(){window.dataLayer.push(arguments);}
+              
+            gtag('consent', 'default', {
+              'analytics_storage': "denied",
+              'ad_storage': "denied",
+              'ad_user_data':  "denied",
+              'ad_personalization':  "denied",
+            });
+
+            
+
+            
+          </script><script id="google-tag-manager">
+          (function(w,d,s,l,i){w[l] = w[l] || [];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer','GTM-53DFWQD');</script><noscript data-n-css=""></noscript><script defer="" noModule="" src="https://content.www.wellcomecollection.org/_next/static/chunks/polyfills-42372ed130431b0a.js"></script><script src="https://content.www.wellcomecollection.org/_next/static/chunks/webpack-464354d9c1f241e4.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/chunks/framework-99cad1cc24270468.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/chunks/main-dddd4ea59ee4dd16.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/chunks/pages/_app-a277cee00eacd864.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/chunks/8588-ad50df0aaa1c7cde.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/chunks/6413-5e881b5c01501ba5.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/chunks/7302-b66199c130097381.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/chunks/9683-331383d6de28746f.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/chunks/2339-a8e1afde6106d958.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/chunks/pages/works/%5BworkId%5D-18f1fd0f53bfefc5.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/9Z30KukykGXOFm9LkjGRd/_buildManifest.js" defer=""></script><script src="https://content.www.wellcomecollection.org/_next/static/9Z30KukykGXOFm9LkjGRd/_ssgManifest.js" defer=""></script><style data-styled="" data-styled-version="6.6.0">.gAKYzL{display:inline-block;height:24px;width:24px;position:relative;user-select:none;height:1em;width:1em;}/*!sc*/
+.gAKYzL .icon__svg{height:100%;left:0;position:absolute;top:0;width:100%;}/*!sc*/
+.gAKYzL .icon__shape{transition:all 150ms ease;}/*!sc*/
+.ewJowi{display:inline-block;height:24px;width:24px;position:relative;user-select:none;}/*!sc*/
+.ewJowi .icon__svg{height:100%;left:0;position:absolute;top:0;width:100%;}/*!sc*/
+.ewJowi .icon__shape{transition:all 150ms ease;}/*!sc*/
+data-styled.g2[id="sc-31a16054-0"]{content:"gAKYzL,ewJowi,"}/*!sc*/
+@media (min-width: 0rem){.cwAKHi{margin-right:0.375rem;}}/*!sc*/
+@media (min-width: 48rem){.cwAKHi{margin-right:0.5rem;}}/*!sc*/
+@media (min-width: 64rem){.cwAKHi{margin-right:0.5rem;}}/*!sc*/
+@media (min-width: 0rem){.eZjobY{padding-bottom:2rem;}}/*!sc*/
+@media (min-width: 48rem){.eZjobY{padding-bottom:3rem;}}/*!sc*/
+@media (min-width: 64rem){.eZjobY{padding-bottom:4rem;}}/*!sc*/
+@media (min-width: 0rem){.jVDTAF{margin-top:0.375rem;}}/*!sc*/
+@media (min-width: 48rem){.jVDTAF{margin-top:0.5rem;}}/*!sc*/
+@media (min-width: 64rem){.jVDTAF{margin-top:0.5rem;}}/*!sc*/
+@media (min-width: 0rem){.kTKPcg{padding-top:1rem;}}/*!sc*/
+@media (min-width: 48rem){.kTKPcg{padding-top:1.5rem;}}/*!sc*/
+@media (min-width: 64rem){.kTKPcg{padding-top:2rem;}}/*!sc*/
+@media (min-width: 0rem){.iaJRnl{padding-top:0.375rem;padding-bottom:0.375rem;}}/*!sc*/
+@media (min-width: 48rem){.iaJRnl{padding-top:0.5rem;padding-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 64rem){.iaJRnl{padding-top:0.5rem;padding-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 0rem){.iHxACQ{margin-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 48rem){.iHxACQ{margin-bottom:0.75rem;}}/*!sc*/
+@media (min-width: 64rem){.iHxACQ{margin-bottom:1rem;}}/*!sc*/
+@media (min-width: 0rem){.kjCcPb{margin-right:0.5rem;}}/*!sc*/
+@media (min-width: 48rem){.kjCcPb{margin-right:0.75rem;}}/*!sc*/
+@media (min-width: 64rem){.kjCcPb{margin-right:1rem;}}/*!sc*/
+@media (min-width: 0rem){.cgmtPg{margin-right:0.25rem;}}/*!sc*/
+@media (min-width: 48rem){.cgmtPg{margin-right:0.25rem;}}/*!sc*/
+@media (min-width: 64rem){.cgmtPg{margin-right:0.25rem;}}/*!sc*/
+@media (min-width: 0rem){.bkjsKo{margin-top:0.5rem;}}/*!sc*/
+@media (min-width: 48rem){.bkjsKo{margin-top:0.75rem;}}/*!sc*/
+@media (min-width: 64rem){.bkjsKo{margin-top:1rem;}}/*!sc*/
+@media (min-width: 0rem){.bRxkss{padding-right:0.5rem;}}/*!sc*/
+@media (min-width: 48rem){.bRxkss{padding-right:0.75rem;}}/*!sc*/
+@media (min-width: 64rem){.bRxkss{padding-right:1rem;}}/*!sc*/
+@media (min-width: 0rem){.fICPA-d{row-gap:0.25rem;}}/*!sc*/
+@media (min-width: 48rem){.fICPA-d{row-gap:0.25rem;}}/*!sc*/
+@media (min-width: 64rem){.fICPA-d{row-gap:0.25rem;}}/*!sc*/
+@media (min-width: 0rem){.fICPA-d{column-gap:0.25rem;}}/*!sc*/
+@media (min-width: 48rem){.fICPA-d{column-gap:0.25rem;}}/*!sc*/
+@media (min-width: 64rem){.fICPA-d{column-gap:0.25rem;}}/*!sc*/
+@media (min-width: 0rem){.jICgAW{padding-top:0.25rem;padding-bottom:0.25rem;}}/*!sc*/
+@media (min-width: 48rem){.jICgAW{padding-top:0.25rem;padding-bottom:0.25rem;}}/*!sc*/
+@media (min-width: 64rem){.jICgAW{padding-top:0.25rem;padding-bottom:0.25rem;}}/*!sc*/
+@media (min-width: 0rem){.jICgAW{padding-left:0.25rem;padding-right:0.25rem;}}/*!sc*/
+@media (min-width: 48rem){.jICgAW{padding-left:0.25rem;padding-right:0.25rem;}}/*!sc*/
+@media (min-width: 64rem){.jICgAW{padding-left:0.25rem;padding-right:0.25rem;}}/*!sc*/
+@media (min-width: 0rem){.eJpwLL{margin-bottom:2rem;}}/*!sc*/
+@media (min-width: 48rem){.eJpwLL{margin-bottom:3rem;}}/*!sc*/
+@media (min-width: 64rem){.eJpwLL{margin-bottom:4rem;}}/*!sc*/
+@media (min-width: 0rem){.ibSzBN{margin-bottom:0.375rem;}}/*!sc*/
+@media (min-width: 48rem){.ibSzBN{margin-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 64rem){.ibSzBN{margin-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 0rem){.elmuH{margin-top:1rem;}}/*!sc*/
+@media (min-width: 48rem){.elmuH{margin-top:1.5rem;}}/*!sc*/
+@media (min-width: 64rem){.elmuH{margin-top:2rem;}}/*!sc*/
+@media (min-width: 0rem){.qfcJS{padding-left:0.375rem;}}/*!sc*/
+@media (min-width: 48rem){.qfcJS{padding-left:0.5rem;}}/*!sc*/
+@media (min-width: 64rem){.qfcJS{padding-left:0.5rem;}}/*!sc*/
+@media (min-width: 0rem){.dUTbYT{margin-top:1rem;}}/*!sc*/
+@media (min-width: 48rem){.dUTbYT{margin-top:1.5rem;}}/*!sc*/
+@media (min-width: 64rem){.dUTbYT{margin-top:2rem;}}/*!sc*/
+@media (min-width: 0rem){.dUTbYT{padding-right:0.375rem;}}/*!sc*/
+@media (min-width: 48rem){.dUTbYT{padding-right:0.5rem;}}/*!sc*/
+@media (min-width: 64rem){.dUTbYT{padding-right:0.5rem;}}/*!sc*/
+@media (min-width: 0rem){.hiyKqt{margin-top:0.5rem;}}/*!sc*/
+@media (min-width: 48rem){.hiyKqt{margin-top:0.5rem;}}/*!sc*/
+@media (min-width: 64rem){.hiyKqt{margin-top:0.5rem;}}/*!sc*/
+@media (min-width: 0rem){.hiybgb{margin-bottom:calc(-1 * 0.375rem);}}/*!sc*/
+@media (min-width: 48rem){.hiybgb{margin-bottom:calc(-1 * 0.5rem);}}/*!sc*/
+@media (min-width: 64rem){.hiybgb{margin-bottom:calc(-1 * 0.5rem);}}/*!sc*/
+@media (min-width: 0rem){.iCPdRC{margin-bottom:0.375rem;}}/*!sc*/
+@media (min-width: 48rem){.iCPdRC{margin-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 64rem){.iCPdRC{margin-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 0rem){.iCPdRC{margin-right:0.375rem;}}/*!sc*/
+@media (min-width: 48rem){.iCPdRC{margin-right:0.5rem;}}/*!sc*/
+@media (min-width: 64rem){.iCPdRC{margin-right:0.5rem;}}/*!sc*/
+@media (min-width: 0rem){.dWNYnW{margin-bottom:0.5rem;padding-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 48rem){.dWNYnW{margin-bottom:0.75rem;padding-bottom:0.75rem;}}/*!sc*/
+@media (min-width: 64rem){.dWNYnW{margin-bottom:1rem;padding-bottom:1rem;}}/*!sc*/
+@media (min-width: 0rem){.jdvwVZ{padding-top:1rem;padding-bottom:1rem;}}/*!sc*/
+@media (min-width: 48rem){.jdvwVZ{padding-top:1.5rem;padding-bottom:1.5rem;}}/*!sc*/
+@media (min-width: 64rem){.jdvwVZ{padding-top:2rem;padding-bottom:2rem;}}/*!sc*/
+@media (min-width: 0rem){.bZMcSH{padding-top:0.5rem;}}/*!sc*/
+@media (min-width: 48rem){.bZMcSH{padding-top:0.75rem;}}/*!sc*/
+@media (min-width: 64rem){.bZMcSH{padding-top:1rem;}}/*!sc*/
+@media (min-width: 0rem){.ilQlSc{padding-top:2rem;}}/*!sc*/
+@media (min-width: 48rem){.ilQlSc{padding-top:3rem;}}/*!sc*/
+@media (min-width: 64rem){.ilQlSc{padding-top:4rem;}}/*!sc*/
+@media (min-width: 0rem){.cWveef{margin-bottom:1rem;}}/*!sc*/
+@media (min-width: 48rem){.cWveef{margin-bottom:1.5rem;}}/*!sc*/
+@media (min-width: 64rem){.cWveef{margin-bottom:2rem;}}/*!sc*/
+@media (min-width: 0rem){.gbKJTO{padding-bottom:0.375rem;}}/*!sc*/
+@media (min-width: 48rem){.gbKJTO{padding-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 64rem){.gbKJTO{padding-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 0rem){.dcgccz{margin-top:0.25rem;}}/*!sc*/
+@media (min-width: 48rem){.dcgccz{margin-top:0.25rem;}}/*!sc*/
+@media (min-width: 64rem){.dcgccz{margin-top:0.25rem;}}/*!sc*/
+@media (min-width: 0rem){.fZgtKL{margin-bottom:0.25rem;}}/*!sc*/
+@media (min-width: 48rem){.fZgtKL{margin-bottom:0.25rem;}}/*!sc*/
+@media (min-width: 64rem){.fZgtKL{margin-bottom:0.25rem;}}/*!sc*/
+@media (min-width: 0rem){.fkoFA-d{margin-bottom:0.5rem;margin-bottom:0.5rem;}}/*!sc*/
+@media (min-width: 48rem){.fkoFA-d{margin-bottom:0.75rem;margin-bottom:0.75rem;}}/*!sc*/
+@media (min-width: 64rem){.fkoFA-d{margin-bottom:1rem;margin-bottom:1rem;}}/*!sc*/
+data-styled.g3[id="sc-1d9d85c4-0"]{content:"cwAKHi,hJmAsF,eZjobY,jVDTAF,kTKPcg,iaJRnl,iHxACQ,kjCcPb,cgmtPg,bkjsKo,bRxkss,fICPA-d,jICgAW,eJpwLL,ibSzBN,elmuH,qfcJS,dUTbYT,BQJtp,hiyKqt,hiybgb,iCPdRC,dWNYnW,dGoRsp,jdvwVZ,bZMcSH,ilQlSc,cWveef,gbKJTO,dcgccz,fZgtKL,fkoFA-d,"}/*!sc*/
+.dbFtvl{display:flex;align-items:center;height:1em;}/*!sc*/
+.dbFtvl.dbFtvl{line-height:1;}/*!sc*/
+data-styled.g12[id="sc-ad1488eb-0"]{content:"dbFtvl,"}/*!sc*/
+.eILaQu{display:inline-flex;margin-right:4px;margin-top:0;}/*!sc*/
+data-styled.g13[id="sc-ad1488eb-1"]{content:"eILaQu,"}/*!sc*/
+.hGUJnE{align-items:center;display:inline-flex;line-height:1;text-decoration:none;text-align:center;transition:background 150ms ease,border-color 150ms ease;white-space:nowrap;cursor:pointer;}/*!sc*/
+.hGUJnE.disabled{pointer-events:none;}/*!sc*/
+.hGUJnE[disabled],.hGUJnE.disabled{background:#D2D6D0;border-color:#D2D6D0;color:#657373;cursor:not-allowed;}/*!sc*/
+.hGUJnE[disabled]:hover,.hGUJnE.disabled:hover{text-decoration:none;}/*!sc*/
+data-styled.g14[id="sc-ad1488eb-2"]{content:"hGUJnE,"}/*!sc*/
+.bjWAem{padding:13px 20px;background:#547876;color:#FFFFFF;border:2px solid #547876;background:#3B44BA;color:#F5F6EE;border:2px solid #3B44BA;}/*!sc*/
+.bjWAem:not([disabled]):hover{text-decoration:underline;}/*!sc*/
+.bjWAem:not([disabled]):hover{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:0.2em;}/*!sc*/
+.bjWAem:not([disabled]):active,.bjWAem[aria-expanded='true']:not([disabled]){background:#242B7D;color:#F5F6EE;border-color:#242B7D;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:0.2em;}/*!sc*/
+.bjWAem[disabled],.bjWAem.disabled{background:#B8BABB;color:#585F60;border-color:#B8BABB;}/*!sc*/
+.bjWAem:focus-visible{outline:2px solid #223438;outline-offset:2px;box-shadow:0 0 0 2px #FAFBF7;}/*!sc*/
+data-styled.g15[id="sc-ad1488eb-3"]{content:"bjWAem,"}/*!sc*/
+.jLcNZc{background:transparent;padding:10px 8px;color:#223438;border-radius:22px;height:44px;padding:0 12px;transition:none;margin-top:-4px;margin-bottom:-4px;}/*!sc*/
+.jLcNZc .icon__shape{transition:none;}/*!sc*/
+.jLcNZc:hover{background:#223438;color:#F5F6EE;}/*!sc*/
+data-styled.g16[id="sc-aad143f3-0"]{content:"jLcNZc,"}/*!sc*/
+.Sjcey{display:inline-block;}/*!sc*/
+.Sjcey:focus-visible{outline:2px solid #223438;outline-offset:2px;box-shadow:0 0 0 2px #FAFBF7;}/*!sc*/
+data-styled.g20[id="sc-9ff86a8f-0"]{content:"Sjcey,"}/*!sc*/
+.jaHcnj{margin:0 auto;width:100%;max-width:90rem;padding:0 5%;}/*!sc*/
+data-styled.g32[id="sc-3e406ec4-0"]{content:"jaHcnj,"}/*!sc*/
+.MjNXv #nprogress{pointer-events:none;}/*!sc*/
+.MjNXv #nprogress .bar{background:#FFA5DC;position:fixed;z-index:1031;top:0;left:0;width:100%;height:2px;}/*!sc*/
+.MjNXv #nprogress .peg{display:block;position:absolute;right:0;width:100px;height:100%;box-shadow:0 0 10px #FFA5DC,0 0 5px #FFA5DC;opacity:1;transform:rotate(3deg) translate(0,-4px);}/*!sc*/
+data-styled.g38[id="sc-2f97de32-0"]{content:"MjNXv,"}/*!sc*/
+.vxiZZ{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:0.75rem;}/*!sc*/
+@media (min-width: 48rem){.vxiZZ{gap:1.5rem;}}/*!sc*/
+@media (min-width: 64rem){.vxiZZ{gap:2.5rem;}}/*!sc*/
+data-styled.g39[id="sc-2b10e06d-0"]{content:"vxiZZ,"}/*!sc*/
+.lhrEVS{container-type:inline-size;container-name:grid-cell;}/*!sc*/
+@media (min-width: 0rem){.lhrEVS{grid-column:span 12;}}/*!sc*/
+@media (min-width: 48rem){.lhrEVS{grid-column:span 12;}}/*!sc*/
+@media (min-width: 64rem){.lhrEVS{grid-column:span 10;}}/*!sc*/
+@media (min-width: 90rem){.lhrEVS{grid-column:span 10;}}/*!sc*/
+.GteIF{container-type:inline-size;container-name:grid-cell;}/*!sc*/
+@media (min-width: 0rem){.GteIF{grid-column:span 12;}}/*!sc*/
+@media (min-width: 48rem){.GteIF{grid-column:2/span 10;}}/*!sc*/
+@media (min-width: 64rem){.GteIF{grid-column:2/span 10;}}/*!sc*/
+@media (min-width: 90rem){.GteIF{grid-column:2/span 10;}}/*!sc*/
+data-styled.g40[id="sc-2b10e06d-1"]{content:"lhrEVS,GteIF,"}/*!sc*/
+.jxOnaf{color:#223438;}/*!sc*/
+data-styled.g51[id="sc-eb6f4ff0-0"]{content:"jxOnaf,"}/*!sc*/
+.jaTQkv{display:block;line-height:1.2;}/*!sc*/
+data-styled.g58[id="sc-d4485b67-0"]{content:"jaTQkv,"}/*!sc*/
+.iWfzgR{display:flex;position:relative;border-width:1px;border-style:solid;border-color:#223438;overflow:hidden;}/*!sc*/
+.iWfzgR:has(:focus-visible){outline:0.3rem double #223438;box-shadow:0 0 0 0.3rem #FFFFFF;}/*!sc*/
+.iWfzgR:has(:focus-visible) input{outline:none;}/*!sc*/
+.iWfzgR:focus-within{outline:0.3rem double,a=>a.theme.color("black"),;box-shadow:0 0 0 0.3rem,a=>a.theme.color("white"),;}/*!sc*/
+.iWfzgR:hover{border-color:#111A1C;}/*!sc*/
+data-styled.g59[id="sc-d4485b67-1"]{content:"iWfzgR,"}/*!sc*/
+.dxaYbC{padding:11px 36px 11px 16px;appearance:none;border:0;height:100%;font-size:inherit;width:100%;}/*!sc*/
+.dxaYbC::-ms-clear{display:none;}/*!sc*/
+.dxaYbC:disabled{background-color:#D2D6D0;}/*!sc*/
+data-styled.g61[id="sc-d4485b67-3"]{content:"dxaYbC,"}/*!sc*/
+.kXPZDC{display:flex;align-items:flex-end;}/*!sc*/
+data-styled.g63[id="sc-2cf3382f-0"]{content:"kXPZDC,"}/*!sc*/
+.eyWLLm{flex:1 1 auto;position:relative;font-size:20px;margin-right:10px;}/*!sc*/
+.eyWLLm .search-query{height:60px;}/*!sc*/
+data-styled.g64[id="sc-2cf3382f-1"]{content:"eyWLLm,"}/*!sc*/
+.cUqlqg button{height:100%;}/*!sc*/
+data-styled.g65[id="sc-2cf3382f-2"]{content:"cUqlqg,"}/*!sc*/
+.dmtfKo{display:flex;align-items:center;justify-content:space-between;}/*!sc*/
+@media (min-width: 51.5625rem){.dmtfKo{width:100%;}}/*!sc*/
+data-styled.g70[id="sc-25c29d52-0"]{content:"dmtfKo,"}/*!sc*/
+.bFIvJo{display:flex;flex-direction:column;align-items:stretch;justify-content:center;position:relative;z-index:6;background-color:#F5F6EE;border-bottom:1px solid #D2D6D0;height:85px;}/*!sc*/
+data-styled.g71[id="sc-25c29d52-1"]{content:"bFIvJo,"}/*!sc*/
+.hwWhQC{display:block;}/*!sc*/
+@media (min-width: 51.5625rem){.hwWhQC{display:none;}}/*!sc*/
+data-styled.g72[id="sc-25c29d52-2"]{content:"hwWhQC,"}/*!sc*/
+.ceEODI{position:relative;width:1.2rem;height:0.9rem;display:block;}/*!sc*/
+.ceEODI span{position:absolute;top:0;left:0;right:0;height:2px;background:#223438;transition:transform 400ms ease;transform-origin:center center;}/*!sc*/
+.ceEODI span:nth-child(2){top:50%;}/*!sc*/
+.ceEODI span:last-child{top:100%;}/*!sc*/
+data-styled.g73[id="sc-25c29d52-3"]{content:"ceEODI,"}/*!sc*/
+.bFQAss{display:flex;flex:1;}/*!sc*/
+@media (min-width: 51.5625rem){.bFQAss{flex:0 0 auto;margin-right:1.5rem;padding-right:1.5rem;border-right:1px solid #D2D6D0;width:auto;display:block;}}/*!sc*/
+.bFQAss a{display:inline-block;margin:0 auto;}/*!sc*/
+data-styled.g74[id="sc-25c29d52-4"]{content:"bFQAss,"}/*!sc*/
+.lmkhhA{display:none;background:#F5F6EE;position:absolute;top:calc(100% + 17px);left:0;right:0;padding-left:5%;padding-right:5%;}/*!sc*/
+@media (min-width: 0rem) and (max-width: calc(51.5625rem - 0.0625rem)){.lmkhhA{border-top:1px solid #D2D6D0;height:calc(100vh - 17px);overflow:auto;}}/*!sc*/
+@media (min-width: 51.5625rem){.lmkhhA{position:static;display:block;margin-top:0;padding-left:0;padding-right:0;background:#F5F6EE;}}/*!sc*/
+data-styled.g75[id="sc-25c29d52-5"]{content:"lmkhhA,"}/*!sc*/
+.fMYgtN{list-style:none;padding:0;margin:0;}/*!sc*/
+@media (min-width: 51.5625rem){.fMYgtN{display:flex;}}/*!sc*/
+data-styled.g76[id="sc-25c29d52-6"]{content:"fMYgtN,"}/*!sc*/
+.jgoiAk{border-bottom:1px solid #D2D6D0;}/*!sc*/
+@media (min-width: 51.5625rem){.jgoiAk{border-bottom:0;margin-right:calc(3vw - 20px);}}/*!sc*/
+@media (min-width: 51.5625rem) and (max-width: calc(64rem - 0.0625rem)){.jgoiAk{font-size:1.5vw;}}/*!sc*/
+@media (min-width: 90rem){.jgoiAk{margin-right:1.4rem;}}/*!sc*/
+data-styled.g77[id="sc-25c29d52-7"]{content:"jgoiAk,"}/*!sc*/
+.lipyuc{padding:1.4rem 0.3rem;display:inline-block;text-decoration:none;position:relative;z-index:1;transition:color 400ms ease;}/*!sc*/
+@media (min-width: 51.5625rem){.lipyuc{padding-top:1rem;padding-bottom:1rem;}}/*!sc*/
+.lipyuc::after{content:'';position:absolute;bottom:1.3rem;height:0.6rem;left:0;width:0;background:#8FC7FF;z-index:-1;transition:width 200ms ease;}/*!sc*/
+@media (min-width: 51.5625rem){.lipyuc::after{bottom:0.9rem;}}/*!sc*/
+.lipyuc:hover::after{width:100%;}/*!sc*/
+@media (pointer:coarse){.lipyuc:hover::after{width:0;}}/*!sc*/
+.gZGkDH{padding:1.4rem 0.3rem;display:inline-block;text-decoration:none;position:relative;z-index:1;transition:color 400ms ease;}/*!sc*/
+@media (min-width: 51.5625rem){.gZGkDH{padding-top:1rem;padding-bottom:1rem;}}/*!sc*/
+.gZGkDH::after{content:'';position:absolute;bottom:1.3rem;height:0.6rem;left:0;width:0;background:#8FC7FF;z-index:-1;transition:width 200ms ease;}/*!sc*/
+@media (min-width: 51.5625rem){.gZGkDH::after{bottom:0.9rem;}}/*!sc*/
+.gZGkDH:hover::after{width:100%;}/*!sc*/
+@media (pointer:coarse){.gZGkDH:hover::after{width:0;}}/*!sc*/
+.gZGkDH::after{width:100%;}/*!sc*/
+data-styled.g78[id="sc-25c29d52-8"]{content:"lipyuc,gZGkDH,"}/*!sc*/
+.dhwpvO{display:flex;}/*!sc*/
+data-styled.g79[id="sc-25c29d52-9"]{content:"dhwpvO,"}/*!sc*/
+.halvcr{display:flex;align-items:center;}/*!sc*/
+data-styled.g81[id="sc-25c29d52-11"]{content:"halvcr,"}/*!sc*/
+.diWRZi{position:absolute;width:100%;height:100%;background-color:#111A1C99;z-index:9999;}/*!sc*/
+data-styled.g82[id="sc-2fde9d18-0"]{content:"diWRZi,"}/*!sc*/
+.bRwvFy{position:absolute;width:100%;background-color:#F5F6EE;}/*!sc*/
+@media (min-width: 0rem){.bRwvFy{padding-top:1rem;}}/*!sc*/
+@media (min-width: 48rem){.bRwvFy{padding-top:1.5rem;}}/*!sc*/
+@media (min-width: 64rem){.bRwvFy{padding-top:2rem;}}/*!sc*/
+data-styled.g83[id="sc-2fde9d18-1"]{content:"bRwvFy,"}/*!sc*/
+.eIydRw{display:flex;margin-top:1.4rem;}/*!sc*/
+@media (min-width: 51.5625rem){.eIydRw{display:none;}}/*!sc*/
+.eIydRw a{position:relative;text-decoration:none;}/*!sc*/
+.eIydRw a:hover{text-decoration:underline;}/*!sc*/
+.eIydRw a:first-of-type{margin-right:1em;padding-right:1em;}/*!sc*/
+.eIydRw a:first-of-type::after{position:absolute;right:0;content:'|';}/*!sc*/
+.eIydRw a:last-of-type::after{display:none;}/*!sc*/
+data-styled.g86[id="sc-637911c9-0"]{content:"eIydRw,"}/*!sc*/
+.dCPCwA{padding:5px 8px 0;margin-right:10px;}/*!sc*/
+data-styled.g87[id="sc-df67f477-0"]{content:"dCPCwA,"}/*!sc*/
+.jjFUBt{white-space:nowrap;color:#223438;background-color:#D9E3B3;border:1px solid #D9E3B3;}/*!sc*/
+.jjFUBt.jjFUBt{line-height:1;}/*!sc*/
+.fbhVWq{white-space:nowrap;color:#223438;background-color:#F5F6EE;border:1px solid #223438;}/*!sc*/
+.fbhVWq.fbhVWq{line-height:1;}/*!sc*/
+data-styled.g91[id="sc-288aa937-0"]{content:"jjFUBt,fbhVWq,"}/*!sc*/
+.fUjKpE{display:flex;padding:0;margin:0;flex-wrap:wrap;list-style:none;}/*!sc*/
+data-styled.g92[id="sc-71b561ac-0"]{content:"fUjKpE,"}/*!sc*/
+.sc-df27cd2f-0+.sc-df27cd2f-0,.kUVhPa:empty{margin-top:1rem;}/*!sc*/
+@media (min-width: 48rem){.sc-df27cd2f-0+.sc-df27cd2f-0,.kUVhPa:empty{margin-top:1.5rem;}}/*!sc*/
+@media (min-width: 64rem){.sc-df27cd2f-0+.sc-df27cd2f-0,.kUVhPa:empty{margin-top:2rem;}}/*!sc*/
+.kUVhPa.slice-type-text+.kUVhPa.slice-type-text{margin-top:0;}/*!sc*/
+.kUVhPa.slice-type-text+.kUVhPa.slice-type-text .spaced-text>*:first-child:not(h2){margin-top:1.55em;}/*!sc*/
+.kUVhPa+.kUVhPa.slice-type-text:has(h2:first-child){margin-top:0;}/*!sc*/
+.kUVhPa+.kUVhPa.slice-type-text h2{margin-top:2rem;}/*!sc*/
+@media (min-width:48rem){.kUVhPa+.kUVhPa.slice-type-text h2{margin-top:3rem;}}/*!sc*/
+@media (min-width:64rem){.kUVhPa+.kUVhPa.slice-type-text h2{margin-top:4rem;}}/*!sc*/
+.kUVhPa+.kUVhPa.slice-type-text h2:not(:last-child){margin-bottom:1rem;}/*!sc*/
+@media (min-width:48rem){.kUVhPa+.kUVhPa.slice-type-text h2:not(:last-child){margin-bottom:1.5rem;}}/*!sc*/
+@media (min-width:64rem){.kUVhPa+.kUVhPa.slice-type-text h2:not(:last-child){margin-bottom:2rem;}}/*!sc*/
+.content-type-visual-story .kUVhPa+.kUVhPa.slice-type-text:has(h2:first-child){margin-top:2rem;border-top:1px solid #223438;}/*!sc*/
+@media (min-width:48rem){.content-type-visual-story .kUVhPa+.kUVhPa.slice-type-text:has(h2:first-child){margin-top:3rem;}}/*!sc*/
+@media (min-width:64rem){.content-type-visual-story .kUVhPa+.kUVhPa.slice-type-text:has(h2:first-child){margin-top:4rem;}}/*!sc*/
+.kUVhPa.slice-type-text-and-image+.kUVhPa.slice-type-text-and-image,.kUVhPa.slice-type-text-and-icons+.kUVhPa.slice-type-text-and-icons,.kUVhPa.slice-type-text-and-image+.kUVhPa.slice-type-text-and-icons,.kUVhPa.slice-type-text-and-icons+.kUVhPa.slice-type-text-and-image{margin-top:0;}/*!sc*/
+data-styled.g94[id="sc-df27cd2f-0"]{content:"kUVhPa,"}/*!sc*/
+.firdHP{text-align:left;border:0;height:1px;background-color:#D2D6D0;}/*!sc*/
+.lxMCH{text-align:left;border:0;height:1px;background-color:#223438;}/*!sc*/
+data-styled.g98[id="sc-4f3300bb-0"]{content:"firdHP,lxMCH,"}/*!sc*/
+.jmmaxj{list-style:none;margin:0!important;padding:0;}/*!sc*/
+data-styled.g99[id="sc-ae512301-0"]{content:"jmmaxj,"}/*!sc*/
+.kfcRtG{transition:color 200ms ease;}/*!sc*/
+.kfcRtG,.kfcRtG:link,.kfcRtG:visited{text-decoration:none;border:none;}/*!sc*/
+.kfcRtG:hover{color:#98A953;}/*!sc*/
+data-styled.g100[id="sc-41700466-0"]{content:"kfcRtG,"}/*!sc*/
+.gkddYp{display:inline-block;width:90px;}/*!sc*/
+data-styled.g101[id="sc-13311399-0"]{content:"gkddYp,"}/*!sc*/
+.drCyby{display:flex;gap:0.5em;align-items:center;}/*!sc*/
+data-styled.g102[id="sc-9ea16236-0"]{content:"drCyby,"}/*!sc*/
+.fUTxqC{display:flex;border-radius:6px;}/*!sc*/
+.fUTxqC .icon{color:#F5F6EE;}/*!sc*/
+data-styled.g103[id="sc-9ea16236-1"]{content:"fUTxqC,"}/*!sc*/
+.lhsmLU{list-style-type:none;display:inline-block;padding:0;margin:0;}/*!sc*/
+.lhsmLU li:first-child a{padding-top:0;}/*!sc*/
+.boJDMm{list-style-type:none;display:inline-block;padding:0;margin:0;}/*!sc*/
+.boJDMm li:first-child a{padding-top:0;}/*!sc*/
+.boJDMm li{display:inline-block;margin-right:1.1rem;}/*!sc*/
+.boJDMm li:last-child{margin-right:0;}/*!sc*/
+data-styled.g104[id="sc-8491f797-0"]{content:"lhsmLU,boJDMm,"}/*!sc*/
+.blVMFP{display:block;transition:color 200ms ease;}/*!sc*/
+.blVMFP:hover{text-decoration:none;}/*!sc*/
+data-styled.g105[id="sc-8491f797-1"]{content:"blVMFP,"}/*!sc*/
+.hbJepr{background-color:#F5F6EE;color:#223438;border-radius:50%;transition:all 150ms ease;}/*!sc*/
+.hbJepr:hover,.hbJepr:focus-within{color:#F5F6EE;background-color:#223438;}/*!sc*/
+data-styled.g106[id="sc-1a39777b-0"]{content:"hbJepr,"}/*!sc*/
+.jBKCIX{display:flex;padding:6px;}/*!sc*/
+data-styled.g107[id="sc-1a39777b-1"]{content:"jBKCIX,"}/*!sc*/
+.drEePT{position:relative;background-color:#223438;color:#F5F6EE;}/*!sc*/
+data-styled.g108[id="sc-dceb2b62-0"]{content:"drEePT,"}/*!sc*/
+.jNiAGI{display:grid;grid-gap:2rem;}/*!sc*/
+@media (min-width: 48rem){.jNiAGI{grid-template-columns:repeat(2, 1fr);grid-gap:3rem;}}/*!sc*/
+@media (min-width: 90rem){.jNiAGI{grid-template-columns:repeat(4, 1fr);grid-gap:2rem;}}/*!sc*/
+data-styled.g110[id="sc-dceb2b62-2"]{content:"jNiAGI,"}/*!sc*/
+.kZfyDU{display:flex;flex-wrap:wrap;justify-content:space-between;}/*!sc*/
+@media (min-width: 48rem) and (max-width: calc(64rem - 0.0625rem)){.kZfyDU{display:block;}}/*!sc*/
+data-styled.g111[id="sc-dceb2b62-3"]{content:"kZfyDU,"}/*!sc*/
+.hmrJhI{flex:1 1 100%;}/*!sc*/
+@media (min-width: 48rem){.hmrJhI{flex:1 1 50%;}}/*!sc*/
+@media (min-width: 64rem){.hmrJhI{flex:1 1 20%;margin-right:2rem;}}/*!sc*/
+data-styled.g112[id="sc-dceb2b62-4"]{content:"hmrJhI,"}/*!sc*/
+.fatMGE{flex:1 1 100%;}/*!sc*/
+@media (min-width: 48rem){.fatMGE{flex:1 1 50%;}}/*!sc*/
+@media (min-width: 64rem){.fatMGE{flex:1 1 30%;margin-right:2rem;}}/*!sc*/
+data-styled.g113[id="sc-dceb2b62-5"]{content:"fatMGE,"}/*!sc*/
+.guPUsh{flex:1 1 50%;}/*!sc*/
+@media (min-width: 48rem){.guPUsh{flex:1 1 30%;}}/*!sc*/
+data-styled.g114[id="sc-dceb2b62-6"]{content:"guPUsh,"}/*!sc*/
+.iAjVES{flex:1 1 50%;}/*!sc*/
+@media (min-width: 48rem){.iAjVES{display:flex;justify-content:space-between;flex-wrap:wrap;flex:1 1 30%;}}/*!sc*/
+data-styled.g116[id="sc-dceb2b62-8"]{content:"iAjVES,"}/*!sc*/
+.iywIxQ{display:flex;flex-wrap:wrap;justify-content:flex-start;align-items:center;align-self:flex-start;flex:1 1 100%;margin:1rem 0;}/*!sc*/
+@media (min-width: 48rem){.iywIxQ{flex:0 1 auto;margin:0;}}/*!sc*/
+@media (min-width: 64rem){.iywIxQ{flex:0 1 100%;}}/*!sc*/
+@media (min-width: 90rem){.iywIxQ{flex:0 1 auto;justify-content:flex-end;justify-content:space-between;}}/*!sc*/
+data-styled.g117[id="sc-dceb2b62-9"]{content:"iywIxQ,"}/*!sc*/
+.kfurCV{display:flex;flex-wrap:wrap;justify-content:space-between;}/*!sc*/
+data-styled.g118[id="sc-dceb2b62-10"]{content:"kfurCV,"}/*!sc*/
+.gXPLSC{display:inline;margin:0 1rem 1rem 0;}/*!sc*/
+data-styled.g119[id="sc-dceb2b62-11"]{content:"gXPLSC,"}/*!sc*/
+.iNmJTe{text-decoration:underline;color:#F5F6EE;padding:0;cursor:pointer;margin-bottom:1rem;}/*!sc*/
+.iNmJTe:hover{text-decoration:none;}/*!sc*/
+data-styled.g120[id="sc-dceb2b62-12"]{content:"iNmJTe,"}/*!sc*/
+.display-block{display:block;}/*!sc*/
+.display-none{display:none;}/*!sc*/
+@media (min-width: 0rem){.zero-display-none{display:none;}}/*!sc*/
+@media (min-width: 0rem){.zero-display-block{display:block;}}/*!sc*/
+@media (min-width: 48rem){.sm-display-none{display:none;}}/*!sc*/
+@media (min-width: 48rem){.sm-display-block{display:block;}}/*!sc*/
+@media (min-width: 64rem){.md-display-none{display:none;}}/*!sc*/
+@media (min-width: 64rem){.md-display-block{display:block;}}/*!sc*/
+@media (min-width: 90rem){.lg-display-none{display:none;}}/*!sc*/
+@media (min-width: 90rem){.lg-display-block{display:block;}}/*!sc*/
+@media (min-width: 51.5625rem){.headerMedium-display-none{display:none;}}/*!sc*/
+@media (min-width: 51.5625rem){.headerMedium-display-block{display:block;}}/*!sc*/
+@media (min-width: 65rem){.headerLarge-display-none{display:none;}}/*!sc*/
+@media (min-width: 65rem){.headerLarge-display-block{display:block;}}/*!sc*/
+.is-hidden{display:none!important;}/*!sc*/
+@media (min-width: 0rem) and (max-width: calc(48rem - 0.0625rem)){.is-hidden-s{display:none!important;}}/*!sc*/
+@media (min-width: 48rem) and (max-width: calc(64rem - 0.0625rem)){.is-hidden-m{display:none!important;}}/*!sc*/
+@media (min-width: 64rem) and (max-width: calc(90rem - 0.0625rem)){.is-hidden-l{display:none!important;}}/*!sc*/
+@media (min-width: 90rem){.is-hidden-xl{display:none!important;}}/*!sc*/
+@media print{.is-hidden-print{display:none;}}/*!sc*/
+.visually-hidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap;}/*!sc*/
+.visually-hidden-focusable:active,.visually-hidden-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:relative;z-index:7;width:auto;white-space:inherit;}/*!sc*/
+html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;}/*!sc*/
+body{margin:0;}/*!sc*/
+article,aside,footer,header,nav,section{display:block;}/*!sc*/
+h1{font-size:2em;margin:0.67em 0;}/*!sc*/
+figcaption,figure,main{display:block;}/*!sc*/
+figure{margin:1em 40px;}/*!sc*/
+hr{box-sizing:content-box;height:0;overflow:visible;}/*!sc*/
+pre{font-family:monospace,monospace;font-size:1em;}/*!sc*/
+a{background-color:transparent;-webkit-text-decoration-skip:objects;}/*!sc*/
+abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted;}/*!sc*/
+b,strong{font-weight:inherit;}/*!sc*/
+b,strong{font-weight:bolder;}/*!sc*/
+code,kbd,samp{font-family:monospace,monospace;font-size:1em;}/*!sc*/
+dfn{font-style:italic;}/*!sc*/
+mark{background-color:#ff0;color:#000;}/*!sc*/
+small{font-size:80%;}/*!sc*/
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}/*!sc*/
+sub{bottom:-0.25em;}/*!sc*/
+sup{top:-0.5em;}/*!sc*/
+audio,video{display:inline-block;}/*!sc*/
+audio:not([controls]){display:none;height:0;}/*!sc*/
+img{border-style:none;}/*!sc*/
+svg:not(:root){overflow:hidden;}/*!sc*/
+button,input,optgroup,select,textarea{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0;}/*!sc*/
+button,input{overflow:visible;}/*!sc*/
+button,select{text-transform:none;}/*!sc*/
+button,html [type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button;}/*!sc*/
+button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0;}/*!sc*/
+button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText;}/*!sc*/
+fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em;}/*!sc*/
+legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal;}/*!sc*/
+progress{display:inline-block;vertical-align:baseline;}/*!sc*/
+textarea{overflow:auto;}/*!sc*/
+[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0;}/*!sc*/
+[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto;}/*!sc*/
+[type="search"]{-webkit-appearance:textfield;outline-offset:-2px;}/*!sc*/
+[type="search"]::-webkit-search-cancel-button,[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}/*!sc*/
+::-webkit-file-upload-button{-webkit-appearance:button;font:inherit;}/*!sc*/
+details,menu{display:block;}/*!sc*/
+summary{display:list-item;}/*!sc*/
+canvas{display:inline-block;}/*!sc*/
+template{display:none;}/*!sc*/
+[hidden]{display:none;}/*!sc*/
+input,button{border-radius:0;}/*!sc*/
+button{appearance:none;font-family:inherit;letter-spacing:inherit;background:transparent;border:0;text-align:left;cursor:pointer;}/*!sc*/
+fieldset{border:0;margin:0;padding:0;}/*!sc*/
+img{width:100%;height:auto;}/*!sc*/
+*:focus-visible,button:focus-visible{outline:0.3rem double #223438;box-shadow:0 0 0 0.3rem #FFFFFF;}/*!sc*/
+.openseadragon-canvas:focus{border:2px solid #FFEE00!important;}/*!sc*/
+.scale{transform:scale(0);transition:transform 500ms;}/*!sc*/
+.scale.scale-entered{transform:scale(1);}/*!sc*/
+*,*::before,*::after{box-sizing:border-box;}/*!sc*/
+@supports selector(:has(a)){body:has(dialog[open]),body:has([data-lock-scroll="true"]){margin:0;height:100vh;overflow:hidden;}@media (prefers-reduced-motion: no-preference){html:has([data-scroll-smooth="true"]){scroll-behavior:smooth;}}}/*!sc*/
+.row--has-wobbly-background{position:relative;z-index:0;}/*!sc*/
+.row__wobbly-background{position:absolute;z-index:-1;top:0;left:0;right:0;height:15%;transition:height 600ms ease;background:#FAFBF7;}/*!sc*/
+.row__wobbly-background::after{position:absolute;height:10vw;top:100%;left:0;right:0;content:'';margin-top:-5px;background-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201000%20100%22%3E%3Cpath%20fill%3D%22%23FAFBF7%22%20d%3D%22M0%2C1l142.8%2C58.2c0%2C0%2C74.6-35.7%2C167-44.5c0%2C0%2C201.1%2C42.9%2C261.9%2C68.2S882.9%2C15%2C882.9%2C15L1000%2C1H0z%22%2F%3E%3C%2Fsvg%3E");background-size:cover;}/*!sc*/
+@font-face{font-family:'Inter';font-style:normal;font-weight:400;src:url('https://i.wellcomecollection.org/assets/fonts/Inter-Regular.woff2') format('woff2'),url('https://i.wellcomecollection.org/assets/fonts/Inter-Regular.woff') format('woff');font-display:swap;}/*!sc*/
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;src:url('https://i.wellcomecollection.org/assets/fonts/Inter-SemiBold.woff2') format('woff2'),url('https://i.wellcomecollection.org/assets/fonts/Inter-SemiBold.woff') format('woff');font-display:swap;}/*!sc*/
+@font-face{font-family:'Wellcome';src:url('https://i.wellcomecollection.org/assets/fonts/wellcome-bold.woff2') format('woff2'),url('https://i.wellcomecollection.org/assets/fonts/wellcome-bold.woff') format('woff');font-weight:bold;font-style:normal;font-display:swap;}/*!sc*/
+@font-face{font-family:'Wellcome';src:url('https://i.wellcomecollection.org/assets/fonts/Wellcome-Regular.woff2') format('woff2'),url('https://i.wellcomecollection.org/assets/fonts/Wellcome-Regular.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}/*!sc*/
+@font-face{font-family:'IBM Plex Mono';src:url('https://i.wellcomecollection.org/assets/fonts/IBMPlexMono-Regular.woff2');font-weight:400;font-style:normal;}/*!sc*/
+@font-face{font-family:'IBM Plex Mono';src:url('https://i.wellcomecollection.org/assets/fonts/IBMPlexMono-SemiBold.woff2');font-weight:600;font-style:normal;}/*!sc*/
+html{font-size:100%;}/*!sc*/
+body{font-family:"Inter",sans-serif;font-weight:400;font-size:clamp(1.00rem, calc(0.25vw + 0.95rem), 1.25rem);line-height:1.5;letter-spacing:0;color:#223438;background-color:#FAFBF7;font-variant-ligatures:no-common-ligatures;-webkit-font-smoothing:antialiased;-moz-font-smoothing:antialiased;-o-font-smoothing:antialiased;text-wrap-style:pretty;}/*!sc*/
+::selection{background:#FFFAAE;color:#223438;}/*!sc*/
+h1,h2,h3,h4,h5,h6{font-size:1em;margin:0 0 0.6em;text-wrap-style:balance;line-height:1.3;}/*!sc*/
+:has([data-in-page-navigation]) :is(h2,h3){scroll-margin-top:3rem;}/*!sc*/
+@media (min-width:64rem){:has([data-in-page-navigation]) :is(h2,h3){scroll-margin-top:2rem;}}/*!sc*/
+a{color:inherit;text-decoration:underline;}/*!sc*/
+a:hover{text-decoration:none;}/*!sc*/
+p{margin-top:0;margin-bottom:1.6em;}/*!sc*/
+p:empty{display:none;}/*!sc*/
+hr{margin:0;}/*!sc*/
+.more-link{color:#547876;text-decoration:none;}/*!sc*/
+.more-link:hover,.more-link:focus{text-decoration:underline;}/*!sc*/
+.spaced-text p,.spaced-text ul,.spaced-text h2,.spaced-text h3{margin-bottom:0;}/*!sc*/
+.spaced-text >*+*{margin-top:1.55em;}/*!sc*/
+.spaced-text li+li{margin-top:0.3em;}/*!sc*/
+.spaced-text h2+p,.spaced-text h2+ul{margin-top:1.2em;}/*!sc*/
+.spaced-text h3+p,.spaced-text h3+ul{margin-top:0.3em;}/*!sc*/
+.body-text h1{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(1.44rem, calc(0.75vw + 1.29rem), 2.19rem);line-height:1.3;letter-spacing:-0.03125rem;}/*!sc*/
+.body-text h2{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(1.25rem, calc(0.56vw + 1.14rem), 1.81rem);line-height:1.3;letter-spacing:-0.03125rem;}/*!sc*/
+.body-text h3{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(1.13rem, calc(0.38vw + 1.05rem), 1.50rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.body-text ul{list-style:none;padding:0;}/*!sc*/
+.body-text ul li{padding-left:12px;}/*!sc*/
+.body-text ul li::before{content:'';width:0.35em;height:0.35em;display:inline-block;vertical-align:middle;border-radius:0.1em;background:currentColor;margin-right:6px;margin-left:-12px;}/*!sc*/
+.body-text a:link:not(.link-reset),.body-text a:visited:not(.link-reset){text-decoration:underline;text-underline-offset:0.1em;transition:color 150ms ease;}/*!sc*/
+.body-text a:link:not(.link-reset):hover,.body-text a:visited:not(.link-reset):hover{text-decoration-color:transparent;}/*!sc*/
+.body-text strong,.body-text b{font-weight:600;}/*!sc*/
+.drop-cap{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(1.25rem, calc(0.56vw + 1.14rem), 1.81rem);line-height:1.3;letter-spacing:-0.03125rem;font-size:3em;color:#223438;float:left;line-height:1em;padding-right:0.1em;position:relative;top:0.05em;}/*!sc*/
+.quote{border-left:12px solid #98A953;padding-left:0.9em;}/*!sc*/
+.quote p:first-child{margin-top:0;}/*!sc*/
+.quote p:last-child{margin-bottom:0;}/*!sc*/
+.quote--pull{border-color:transparent;position:relative;}/*!sc*/
+.quote--pull::before{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(1.25rem, calc(0.56vw + 1.14rem), 1.81rem);line-height:1.3;letter-spacing:-0.03125rem;position:absolute;content:'â';color:#F2824A;left:-14px;top:0.12em;font-size:2em;line-height:1;}/*!sc*/
+.quote__cite{font-style:normal;}/*!sc*/
+.type-body-xl-regular{font-family:"Inter",sans-serif;font-weight:400;font-size:clamp(1.13rem, calc(0.38vw + 1.05rem), 1.50rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-body-lg-regular{font-family:"Inter",sans-serif;font-weight:400;font-size:clamp(1.00rem, calc(0.25vw + 0.95rem), 1.25rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-body-md-regular{font-family:"Inter",sans-serif;font-weight:400;font-size:clamp(0.88rem, calc(0.19vw + 0.84rem), 1.06rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-body-sm-regular{font-family:"Inter",sans-serif;font-weight:400;font-size:clamp(0.81rem, calc(0.06vw + 0.80rem), 0.88rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-body-xs-regular{font-family:"Inter",sans-serif;font-weight:400;font-size:clamp(0.69rem, calc(0.06vw + 0.68rem), 0.75rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-body-xl-strong{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(1.13rem, calc(0.38vw + 1.05rem), 1.50rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-body-lg-strong{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(1.00rem, calc(0.25vw + 0.95rem), 1.25rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-body-md-strong{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(0.88rem, calc(0.19vw + 0.84rem), 1.06rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-body-sm-strong{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(0.81rem, calc(0.06vw + 0.80rem), 0.88rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-body-xs-strong{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(0.69rem, calc(0.06vw + 0.68rem), 0.75rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-display-lg-strong{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(2.00rem, calc(1.75vw + 1.65rem), 3.75rem);line-height:1.3;letter-spacing:-0.03125rem;}/*!sc*/
+.type-display-md-strong{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(1.81rem, calc(1.31vw + 1.55rem), 3.13rem);line-height:1.3;letter-spacing:-0.03125rem;}/*!sc*/
+.type-caption-md-regular{font-family:"IBM Plex Mono","Courier New",Courier,monospace;font-weight:400;font-size:clamp(0.81rem, calc(0.06vw + 0.80rem), 0.88rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-caption-sm-regular{font-family:"IBM Plex Mono","Courier New",Courier,monospace;font-weight:400;font-size:clamp(0.69rem, calc(0.06vw + 0.68rem), 0.75rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-caption-md-strong{font-family:"IBM Plex Mono","Courier New",Courier,monospace;font-weight:600;font-size:clamp(0.81rem, calc(0.06vw + 0.80rem), 0.88rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-caption-sm-strong{font-family:"IBM Plex Mono","Courier New",Courier,monospace;font-weight:600;font-size:clamp(0.69rem, calc(0.06vw + 0.68rem), 0.75rem);line-height:1.5;letter-spacing:0;}/*!sc*/
+.type-label-md-strong{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(0.88rem, calc(0.19vw + 0.84rem), 1.06rem);line-height:1;letter-spacing:0;}/*!sc*/
+.type-label-sm-strong{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(0.81rem, calc(0.06vw + 0.80rem), 0.88rem);line-height:1;letter-spacing:0;}/*!sc*/
+.type-label-md-regular{font-family:"Inter",sans-serif;font-weight:400;font-size:clamp(0.88rem, calc(0.19vw + 0.84rem), 1.06rem);line-height:1;letter-spacing:0;}/*!sc*/
+.type-label-sm-regular{font-family:"Inter",sans-serif;font-weight:400;font-size:clamp(0.81rem, calc(0.06vw + 0.80rem), 0.88rem);line-height:1;letter-spacing:0;}/*!sc*/
+.type-heading-xxl-strong-sans{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(1.44rem, calc(0.75vw + 1.29rem), 2.19rem);line-height:1.3;letter-spacing:0.025rem;}/*!sc*/
+.type-heading-xl-strong-sans{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(1.25rem, calc(0.56vw + 1.14rem), 1.81rem);line-height:1.3;letter-spacing:0.025rem;}/*!sc*/
+.type-heading-lg-strong-sans{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(1.13rem, calc(0.38vw + 1.05rem), 1.50rem);line-height:1.3;letter-spacing:0;}/*!sc*/
+.type-heading-md-strong-sans{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(1.00rem, calc(0.25vw + 0.95rem), 1.25rem);line-height:1.3;letter-spacing:0;}/*!sc*/
+.type-heading-sm-strong-sans{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(0.88rem, calc(0.19vw + 0.84rem), 1.06rem);line-height:1.3;letter-spacing:0;}/*!sc*/
+.type-heading-xs-strong-sans{font-family:"Inter",sans-serif;font-weight:600;font-size:clamp(0.81rem, calc(0.06vw + 0.80rem), 0.88rem);line-height:1.3;letter-spacing:0;}/*!sc*/
+.type-heading-xxl-regular-brand{font-family:"Wellcome",sans-serif;font-weight:400;font-size:clamp(1.44rem, calc(0.75vw + 1.29rem), 2.19rem);line-height:1.3;letter-spacing:0;}/*!sc*/
+.type-heading-xl-regular-brand{font-family:"Wellcome",sans-serif;font-weight:400;font-size:clamp(1.25rem, calc(0.56vw + 1.14rem), 1.81rem);line-height:1.3;letter-spacing:0;}/*!sc*/
+.type-heading-lg-regular-brand{font-family:"Wellcome",sans-serif;font-weight:400;font-size:clamp(1.13rem, calc(0.38vw + 1.05rem), 1.50rem);line-height:1.3;letter-spacing:0;}/*!sc*/
+.type-heading-md-regular-brand{font-family:"Wellcome",sans-serif;font-weight:400;font-size:clamp(1.00rem, calc(0.25vw + 0.95rem), 1.25rem);line-height:1.3;letter-spacing:0;}/*!sc*/
+.type-heading-sm-regular-brand{font-family:"Wellcome",sans-serif;font-weight:400;font-size:clamp(0.88rem, calc(0.19vw + 0.84rem), 1.06rem);line-height:1.3;letter-spacing:0;}/*!sc*/
+.type-heading-xs-regular-brand{font-family:"Wellcome",sans-serif;font-weight:400;font-size:clamp(0.81rem, calc(0.06vw + 0.80rem), 0.88rem);line-height:1.3;letter-spacing:0;}/*!sc*/
+.type-heading-xxl-strong-brand{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(1.44rem, calc(0.75vw + 1.29rem), 2.19rem);line-height:1.3;letter-spacing:-0.03125rem;}/*!sc*/
+.type-heading-xl-strong-brand{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(1.25rem, calc(0.56vw + 1.14rem), 1.81rem);line-height:1.3;letter-spacing:-0.03125rem;}/*!sc*/
+.type-heading-lg-strong-brand{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(1.13rem, calc(0.38vw + 1.05rem), 1.50rem);line-height:1.3;letter-spacing:-0.03125rem;}/*!sc*/
+.type-heading-md-strong-brand{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(1.00rem, calc(0.25vw + 0.95rem), 1.25rem);line-height:1.3;letter-spacing:-0.03125rem;}/*!sc*/
+.type-heading-sm-strong-brand{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(0.88rem, calc(0.19vw + 0.84rem), 1.06rem);line-height:1.3;letter-spacing:-0.03125rem;}/*!sc*/
+.type-heading-xs-strong-brand{font-family:"Wellcome",sans-serif;font-weight:700;font-size:clamp(0.81rem, calc(0.06vw + 0.80rem), 0.88rem);line-height:1.3;letter-spacing:-0.03125rem;}/*!sc*/
+data-styled.g160[id="sc-global-hIEbAa"]{content:"sc-global-hIEbAa1,"}/*!sc*/
+.ejjDxF{display:block;margin-left:20px;}/*!sc*/
+data-styled.g169[id="sc-6faf2bfa-3"]{content:"ejjDxF,"}/*!sc*/
+.feMcKi{display:flex;flex-wrap:wrap;}/*!sc*/
+data-styled.g232[id="sc-6d3c8eea-1"]{content:"feMcKi,"}/*!sc*/
+.kauLYC{display:flex;flex-wrap:wrap;margin:0;}/*!sc*/
+data-styled.g233[id="sc-6d3c8eea-2"]{content:"kauLYC,"}/*!sc*/
+.fYOSjT{display:flex;}/*!sc*/
+data-styled.g234[id="sc-6d3c8eea-3"]{content:"fYOSjT,"}/*!sc*/
+.ipA-dIu{--line-color:#223438;position:relative;display:inline-block;border:1px solid #223438;background-color:transparent;color:#223438;padding:8px 16px;border-radius:100px;cursor:pointer;text-decoration:none;}/*!sc*/
+.ipA-dIu>span{background-image:linear-gradient( 0deg,var(--line-color) 0%,var(--line-color) 100% );background-position:0% 100%;background-repeat:no-repeat;background-size:var(--background-size,0%) 1.4px;transition:background-size 150ms ease;transform:translateZ(0);padding-bottom:2px;}/*!sc*/
+.ipA-dIu:hover{--background-size:100%;}/*!sc*/
+.ipA-dIu:hover{background-color:#F5F6EE;color:#223438;}/*!sc*/
+data-styled.g320[id="sc-4044a71a-1"]{content:"ipA-dIu,"}/*!sc*/
+.fYQVqN{opacity:0.2;width:50px;height:80px;position:absolute;top:50%;left:50%;transform:translateX(-50%) translateY(-50%);animation:animate-ll;}/*!sc*/
+.fYQVqN::before,.fYQVqN::after{content:'';position:absolute;top:0;bottom:0;width:20px;background:#223438;}/*!sc*/
+.fYQVqN::before{left:0;animation:animate-ll 1s infinite;}/*!sc*/
+.fYQVqN::after{right:0;animation:animate-ll 1s 0.5s infinite;}/*!sc*/
+@keyframes animate-ll{0%{opacity:0;}50%{opacity:1;}100%{opacity:0;}}/*!sc*/
+data-styled.g329[id="sc-61d41745-0"]{content:"fYQVqN,"}/*!sc*/
+.giHNWV{margin:0;margin-bottom:0;}/*!sc*/
+data-styled.g599[id="sc-65f5a8cc-1"]{content:"giHNWV,"}/*!sc*/
+.frKqGM{max-width:45em;font-variant-ligatures:no-contextual;}/*!sc*/
+data-styled.g600[id="sc-d9c84428-0"]{content:"frKqGM,"}/*!sc*/
+.eABQHr >*+*{margin-top:1.55em;}/*!sc*/
+data-styled.g601[id="sc-d9c84428-1"]{content:"eABQHr,"}/*!sc*/
+.sc-41b3e411-0+.sc-41b3e411-0{border-top:1px solid #D2D6D0;}/*!sc*/
+data-styled.g629[id="sc-41b3e411-0"]{content:"jtISr,"}/*!sc*/
+.hupubr{white-space:normal;display:inline-block;text-align:left;line-height:1.2;}/*!sc*/
+data-styled.g649[id="sc-b803226b-0"]{content:"hupubr,"}/*!sc*/
+.bThFfK::after{display:none;content:'\00a0|\00a0';}/*!sc*/
+data-styled.g650[id="sc-b803226b-1"]{content:"bThFfK,"}/*!sc*/
+.cxKING{display:inline-block;}/*!sc*/
+data-styled.g651[id="sc-b803226b-2"]{content:"cxKING,"}/*!sc*/
+.gSTQIx{margin:0;display:inline-block;}/*!sc*/
+data-styled.g664[id="sc-a4d631d2-0"]{content:"gSTQIx,"}/*!sc*/
+.hsiVYa{position:relative;min-height:200px;}/*!sc*/
+data-styled.g665[id="sc-ba0d111d-0"]{content:"hsiVYa,"}/*!sc*/
+.fkvhob{background-color:#F5F6EE;}/*!sc*/
+data-styled.g666[id="sc-ba0d111d-1"]{content:"fkvhob,"}/*!sc*/
+.gCdczr p:nth-child(2){margin-top:0;}/*!sc*/
+data-styled.g668[id="sc-fd5dee44-0"]{content:"gCdczr,"}/*!sc*/
+.qwQWG{table-layout:fixed;width:100%;border-collapse:collapse;}/*!sc*/
+@media (max-width:38.75rem){.qwQWG{display:block;}.qwQWG thead,.qwQWG tbody,.qwQWG th,.qwQWG td,.qwQWG tr{display:block;}.qwQWG thead{overflow:hidden;position:relative;}.qwQWG thead tr{position:absolute;}}/*!sc*/
+data-styled.g673[id="sc-b7597d69-0"]{content:"qwQWG,"}/*!sc*/
+.iDbbtd{border-bottom:1px solid #D2D6D0;}/*!sc*/
+.iDbbtd:last-of-type{border:none;}/*!sc*/
+data-styled.g674[id="sc-b7597d69-1"]{content:"iDbbtd,"}/*!sc*/
+.kaWVKZ{background:transparent;white-space:nowrap;text-align:left;vertical-align:top;}/*!sc*/
+@media (max-width:38.75rem){.kaWVKZ{padding-left:0;}}/*!sc*/
+data-styled.g675[id="sc-b7597d69-2"]{content:"kaWVKZ,"}/*!sc*/
+.fDLKQi{text-align:left;vertical-align:top;}/*!sc*/
+@media (max-width:38.75rem){.fDLKQi{padding-left:0;padding-top:0;padding-bottom:6;}.fDLKQi:first-of-type{padding-top:12;}.fDLKQi:last-of-type{padding-bottom:18;}.fDLKQi::before{display:block;white-space:nowrap;content:'Location';font-weight:600;}}/*!sc*/
+.gfyqEH{text-align:left;vertical-align:top;}/*!sc*/
+@media (max-width:38.75rem){.gfyqEH{padding-left:0;padding-top:0;padding-bottom:6;}.gfyqEH:first-of-type{padding-top:12;}.gfyqEH:last-of-type{padding-bottom:18;}.gfyqEH::before{display:block;white-space:nowrap;content:'Status';font-weight:600;}}/*!sc*/
+.fGMoxD{text-align:left;vertical-align:top;}/*!sc*/
+@media (max-width:38.75rem){.fGMoxD{padding-left:0;padding-top:0;padding-bottom:6;}.fGMoxD:first-of-type{padding-top:12;}.fGMoxD:last-of-type{padding-bottom:18;}.fGMoxD::before{display:block;white-space:nowrap;content:'Access';font-weight:600;}}/*!sc*/
+.eedgNb{text-align:left;vertical-align:top;}/*!sc*/
+@media (max-width:38.75rem){.eedgNb{padding-left:0;padding-top:0;padding-bottom:6;}.eedgNb:first-of-type{padding-top:12;}.eedgNb:last-of-type{padding-bottom:18;}.eedgNb::before{display:block;white-space:nowrap;content:' ';font-weight:600;}}/*!sc*/
+data-styled.g676[id="sc-b7597d69-3"]{content:"fDLKQi,gfyqEH,fGMoxD,eedgNb,"}/*!sc*/
+@keyframes bevpLS{from{background-position:0 0;}70%{background-position:-50% 0;}to{background-position:-200% 0;}}/*!sc*/
+data-styled.g688[id="sc-keyframes-bevpLS"]{content:"bevpLS,"}/*!sc*/
+.kOkntz{background:#D2D6D0 linear-gradient(to right, #D2D6D0, rgb(255, 255, 255, 0.6) 70%, #D2D6D0);background-size:200%;background-repeat:repeat-x;animation:bevpLS 1.2s ease-in infinite;width:96.00%;height:1rem;margin-top:0.5rem;}/*!sc*/
+.cvgXoC{background:#D2D6D0 linear-gradient(to right, #D2D6D0, rgb(255, 255, 255, 0.6) 70%, #D2D6D0);background-size:200%;background-repeat:repeat-x;animation:bevpLS 1.2s ease-in infinite;width:97.00%;height:1rem;margin-top:0.5rem;}/*!sc*/
+.jBXFRI{background:#D2D6D0 linear-gradient(to right, #D2D6D0, rgb(255, 255, 255, 0.6) 70%, #D2D6D0);background-size:200%;background-repeat:repeat-x;animation:bevpLS 1.2s ease-in infinite;width:98.50%;height:1rem;margin-top:0.5rem;}/*!sc*/
+data-styled.g689[id="sc-53ebb24c-0"]{content:"kOkntz,cvgXoC,jBXFRI,"}/*!sc*/
+.gZrCLN{max-width:75%;}/*!sc*/
+.irhxCS{max-width:50%;}/*!sc*/
+data-styled.g690[id="sc-53ebb24c-1"]{content:"gZrCLN,irhxCS,"}/*!sc*/
+.kucAYt{border-bottom:1px solid #D2D6D0;}/*!sc*/
+data-styled.g691[id="sc-5850d280-0"]{content:"kucAYt,"}/*!sc*/
+.kzucZq{margin-bottom:0;}/*!sc*/
+data-styled.g693[id="sc-5850d280-2"]{content:"kzucZq,"}/*!sc*/
+</style></head><body><div id="top"><link rel="preload" as="image" href="https://iiif.wellcomecollection.org/thumbs/b30545158_0005.jp2/full/!200,200/0/default.jpg"/><div id="__next"><svg data-component="global-svg-definitions" style="position:absolute;visibility:hidden" width="0" height="0" aria-hidden="true"><defs><filter id="border-radius-mask"><feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"></feGaussianBlur><feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 100 -50" result="mask"></feColorMatrix><feComposite in="SourceGraphic" in2="mask" operator="atop"></feComposite></filter></defs></svg><div data-component="loading-indicator" aria-hidden="true" class="sc-2f97de32-0 MjNXv loading-indicator-wrapper"></div><style>
+    #ccc .ccc-content--light h1,
+    #ccc .ccc-content--light h2,
+    #ccc .ccc-content--light h3,
+    #ccc .ccc-content--light span {
+      color: #223438 !important;
+    }
+    #ccc .ccc-notify-button {
+      border-radius: 0 !important;
+    }
+    #ccc .ccc-notify-button.ccc-accept-button, #ccc .ccc-notify-button.ccc-reject-button, #ccc .ccc-notify-button.ccc-close-button {
+      border-color: #3B44BA !important;
+    }
+    #ccc .ccc-notify-button.ccc-accept-button:active, #ccc .ccc-notify-button.ccc-reject-button:active, #ccc .ccc-notify-button.ccc-close-button:active {
+      background-color: #242B7D !important;
+      border-color: #242B7D !important;
+    }
+    /* Civic gives the label span the button's background too */
+    #ccc .ccc-notify-button.ccc-accept-button:active span, #ccc .ccc-notify-button.ccc-reject-button:active span, #ccc .ccc-notify-button.ccc-close-button:active span {
+      background-color: #242B7D !important;
+    }
+    #ccc .ccc-notify-button:not(.ccc-accept-button):not(.ccc-reject-button):not(.ccc-close-button) {
+      background-color: #8FC7FF !important;
+      border-color: #8FC7FF !important;
+    }
+    #ccc .ccc-notify-button:not(.ccc-accept-button):not(.ccc-reject-button):not(.ccc-close-button):active {
+      background-color: #549FE9 !important;
+      border-color: #549FE9 !important;
+    }
+    #ccc .ccc-notify-button:not(.ccc-accept-button):not(.ccc-reject-button):not(.ccc-close-button), #ccc .ccc-notify-button:not(.ccc-accept-button):not(.ccc-reject-button):not(.ccc-close-button) span {
+      color: #223438 !important;
+    }
+    #ccc .ccc-notify-button:hover span,
+    #ccc .ccc-notify-button:active span {
+      text-decoration: underline;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 0.2em;
+    }
+    #ccc .ccc-notify-button:focus-visible {
+      outline: 2px solid #223438 !important;
+      outline-offset: 2px;
+      box-shadow: 0 0 0 2px #FAFBF7 !important;
+    }
+  </style><script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js" type="text/javascript"></script><script type="text/javascript">CookieControl.load({
+            product: 'PRO_MULTISITE',
+            apiKey: '53591d5416d4340cbaa15afd62bd1a13999c91af',
+            initialState: 'notify',
+            consentCookieExpiry: 182,
+            layout: 'popup',
+            theme: 'light',
+            setInnerHTML: true,
+            closeStyle: 'button',
+            settingsStyle: 'button',
+            notifyDismissButton: false,
+            necessaryCookies: ["WC_userPreferenceGuideType","WC_PopupDialog","WC_globalAlert","WC_siteIssueBanner","WC_wellcomeImagesRedirect","toggle_*","starred_toggles","io.prismic.preview","isPreview","dlcs-*","wecoIdentitySession*","aws-waf-token"],
+            optionalCookies: [
+              {
+                name: 'analytics',
+                label: '<h2 style="font-weight: 500; font-family: Inter, sans-serif;">Measure website use</h2>',
+                description:
+                  '<ul><li>We use these cookies to recognise you, to count your visits to the website, and to see how you move around it.</li><li>They help us to provide you with a good experience while you browse, for example by helping to make sure you can find what you need.</li><li>They also allows us to improve the way the website works.</li></ul>',
+                cookies: ["_gid","_gat","_ga*","ajs_anonymous_id"],
+                onAccept: function () {
+                  const event = new CustomEvent('consentChanged', { detail: { analyticsConsent: 'granted' }});
+                  window.dispatchEvent(event);
+                },
+                onRevoke: function () {
+                  const event = new CustomEvent('consentChanged', { detail: { analyticsConsent: 'denied' } });
+                  window.dispatchEvent(event);
+                },
+                thirdPartyCookies: [
+                  {
+                    name: 'Google Analytics', optOutLink: 'http://tools.google.com/dlpage/gaoptout'
+                  },
+                  {
+                    name: 'Hotjar', optOutLink: 'https://help.hotjar.com/hc/en-us/articles/360002735873-How-to-Stop-Hotjar-From-Collecting-your-Data'
+                  },
+                  {
+                    name: 'YouTube',
+                    optOutLink: 'https://myaccount.google.com/yourdata/youtube?hl=en&pli=1',
+                  },
+                  {
+                    name: 'Vimeo',
+                    optOutLink: 'https://vimeo.com/cookie_policy'
+                  },
+                ],
+              },
+              {
+                name: 'marketing',
+                label: '<h2 style="font-weight: 500; font-family: Inter, sans-serif;">Cookies for communications and marketing</h2>',
+                description:
+                  'We will use these to measure how you are interacting with our marketing and advertising materials, and the effectiveness of our campaigns.',
+                onAccept: function () {
+                  const event = new CustomEvent('consentChanged', { detail: { marketingConsent: 'granted' }});
+                  window.dispatchEvent(event);
+                },
+                onRevoke: function () {
+                  const event = new CustomEvent('consentChanged', { detail: { marketingConsent: 'denied' } });
+                  window.dispatchEvent(event);
+                },
+                thirdPartyCookies: [
+                  {
+                    name: 'GoogleAds', optOutLink: 'https://policies.google.com/technologies/ads?hl=en-US'
+                  },
+                  {
+                    name: 'Meta',
+                    optOutLink: 'https://www.facebook.com/privacy/policies/cookies',
+                  },
+                  {
+                    name: 'TikTok',
+                    optOutLink: 'https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en',
+                  },
+                ],
+              },
+            ],
+            statement: {"description":"You can read more about how we use cookies in our","name":"Cookie policy","url":"/about-us/cookie-policy","updated":"01/10/2026"},
+            branding: {"removeIcon":true,"removeAbout":true,"fontFamily":"Inter, sans-serif","fontSize":"0.9375rem","fontSizeHeaders":"1.175rem","fontColor":"#223438","backgroundColor":"#F5F6EE","acceptText":"#F5F6EE","acceptBackground":"#3B44BA","rejectText":"#F5F6EE","rejectBackground":"#3B44BA","toggleColor":"#3B44BA","toggleBackground":"#D2D6D0","toggleText":"#223438"},
+            text: {"title":"<h1 class=\"type-heading-xl-strong-sans\">Manage cookies</h1>","intro":"We use cookies to make our website work. To help us make our marketing and website better, we'd like your consent to use cookies on behalf of third parties too.","necessaryTitle":"<h2 style=\"font-weight: 500; font-family: Inter, sans-serif;\">Essential cookies</h2>","necessaryDescription":"These cookies are necessary for our website to function and therefore always need to be on.","notifyTitle":"<span \n  class=\"type-body-xl-strong\"\n  style=\"display: block; margin: 0.75rem 0;\"\n>Our website uses cookies</span>","notifyDescription":"We use cookies to make our website work. To help us make our marketing and website better, we'd like your consent to use cookies on behalf of third parties too.","closeLabel":"<span style=\"font-weight: normal;\">Save and close</span>","settings":"Manage cookies","accept":"Accept all","acceptSettings":"Accept all","reject":"Essential only","rejectSettings":"Essential only"}
+          });</script><div id="root"><a class="visually-hidden visually-hidden-focusable" href="#main">Skip to main content</a><header class="is-hidden-print" data-component="header" data-lock-scroll="false"><div class="sc-25c29d52-1 bFIvJo"><div style="position:relative"><div class="sc-3e406ec4-0 sc-25c29d52-11 jaHcnj halvcr"><div class="sc-25c29d52-2 hwWhQC"><a href="#footer-nav-1" id="header-burger-trigger" aria-label="menu" class="sc-25c29d52-3 ceEODI"><span></span><span></span><span></span></a></div><div class="sc-25c29d52-4 bFQAss"><a href="/"><svg width="128" height="42" viewBox="0 0 166.549 56" fill="currentColor" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="wellcome-collection-black-title" class="sc-eb6f4ff0-0 jxOnaf"><title id="wellcome-collection-black-title">Wellcome Collection homepage</title><polygon points="32.875,7.228 25.238,7.228 22.573,19.125 22.424,19.125 19.866,7.228 13.009,7.228 10.563,19.125 10.489,19.125 7.635,7.228 0,7.228 6.004,26.463 13.527,26.463 16.381,14.64 16.456,14.64 19.236,26.463 26.759,26.463"></polygon><path d="M51.129,18.494c0-7.486-3.296-11.748-10.933-11.748 c-6.079,0-10.154,4.56-10.154,10.155c0,6.411,4.629,10.043,10.784,10.043c4.373,0,8.415-1.929,9.896-6.078h-6.856 c-0.592,0.927-1.89,1.371-3.077,1.371c-2.299,0-3.558-1.556-3.741-3.744H51.129z M37.085,14.677 c0.333-2.075,1.592-3.225,3.78-3.225c1.888,0,3.223,1.446,3.223,3.225H37.085z"></path><rect x="50.636" width="7.34" height="26.463"></rect><rect x="59.712" width="7.338" height="26.463"></rect><path d="M86.91,14.528c-0.445-5.299-4.744-7.782-9.783-7.782 c-5.783,0-10.417,4.041-10.417,10.117c0,6.079,4.634,10.082,10.417,10.082c5.188,0,9.301-2.928,10.005-8.154h-7.005 c-0.148,1.518-1.26,2.815-2.854,2.815c-2.817,0-3.225-2.407-3.225-4.744c0-2.334,0.408-4.779,3.225-4.779 c0.778,0,1.409,0.22,1.853,0.629c0.48,0.409,0.742,1.037,0.814,1.816H86.91z"></path><path d="M99.643,16.827c0,2.038-0.37,4.78-3.148,4.78c-2.781,0-3.15-2.742-3.15-4.78 c0-2.039,0.369-4.743,3.15-4.743C99.273,12.083,99.643,14.788,99.643,16.827z M106.982,16.827c0-5.337-3.263-10.081-10.487-10.081 c-7.228,0-10.488,4.744-10.488,10.081c0,5.335,3.261,10.118,10.488,10.118C103.719,26.945,106.982,22.162,106.982,16.827z"></path><path d="M106.785,26.463h7.339V16.047c0-2.001,0.631-3.445,2.484-3.445 c2.225,0,2.407,1.63,2.407,3.445v10.416h7.339V16.047c0-2.001,0.629-3.445,2.483-3.445c2.223,0,2.409,1.63,2.409,3.445v10.416h7.34 V13.27c0-3.116-1.668-6.523-6.599-6.523c-4.782,0-6.263,2.779-6.56,3.002c-0.89-1.929-3.112-3.002-5.191-3.002 c-2.666,0-4.816,0.814-6.299,3.04h-0.073V7.228h-7.08V26.463z"></path><path d="M159.447,18.494c0-7.486-3.298-11.748-10.933-11.748 c-6.077,0-10.155,4.56-10.155,10.155c0,6.411,4.634,10.043,10.785,10.043c4.374,0,8.414-1.929,9.896-6.078h-6.857 c-0.591,0.927-1.889,1.371-3.074,1.371c-2.298,0-3.558-1.556-3.744-3.744H159.447z M145.403,14.677 c0.332-2.075,1.593-3.225,3.78-3.225c1.889,0,3.225,1.446,3.225,3.225H145.403z"></path><path d="M31.329,42.585c-0.445-5.299-4.745-7.783-9.783-7.783 c-5.784,0-10.416,4.04-10.416,10.118C11.13,51,15.762,55,21.546,55c5.188,0,9.301-2.927,10.004-8.153h-7.003 c-0.147,1.521-1.261,2.818-2.852,2.818c-2.82,0-3.226-2.411-3.226-4.745c0-2.335,0.406-4.782,3.226-4.782 c0.775,0,1.407,0.225,1.854,0.631c0.481,0.407,0.737,1.038,0.813,1.816H31.329z"></path><path d="M43.692,44.883c0,2.038-0.369,4.782-3.149,4.782s-3.149-2.744-3.149-4.782 s0.369-4.745,3.149-4.745S43.692,42.845,43.692,44.883z M51.031,44.883c0-5.338-3.262-10.081-10.488-10.081 c-7.229,0-10.488,4.743-10.488,10.081C30.055,50.22,33.314,55,40.543,55C47.77,55,51.031,50.22,51.031,44.883z"></path><rect x="50.647" y="28.056" width="7.34" height="26.464"></rect><rect x="59.724" y="28.056" width="7.338" height="26.464"></rect><path d="M87.811,46.552c0-7.488-3.3-11.75-10.934-11.75 c-6.077,0-10.152,4.559-10.152,10.155C66.725,51.369,71.357,55,77.508,55c4.373,0,8.413-1.926,9.896-6.076h-6.856 c-0.595,0.925-1.891,1.37-3.077,1.37c-2.299,0-3.559-1.557-3.745-3.742H87.811z M73.765,42.734 c0.333-2.075,1.596-3.225,3.779-3.225c1.891,0,3.226,1.447,3.226,3.225H73.765z"></path><path d="M106.553,42.585c-0.443-5.299-4.743-7.783-9.784-7.783 c-5.782,0-10.412,4.04-10.412,10.118C86.357,51,90.987,55,96.769,55c5.189,0,9.304-2.927,10.008-8.153h-7.006 c-0.147,1.521-1.259,2.818-2.853,2.818c-2.819,0-3.227-2.411-3.227-4.745c0-2.335,0.407-4.782,3.227-4.782 c0.778,0,1.407,0.225,1.854,0.631c0.481,0.407,0.738,1.038,0.812,1.816H106.553z"></path><path d="M114.174,29.429h-7.34v5.854h-3.26v4.521h3.26v9.193 c0,5.261,3.448,5.745,6.561,5.745c1.558,0,3.226-0.224,4.707-0.224v-5.559c-0.555,0.073-1.112,0.108-1.668,0.108 c-1.854,0-2.26-0.775-2.26-2.556v-6.709h3.928v-4.521h-3.928V29.429z"></path><rect x="119.014" y="28.056" width="7.336" height="5.153"></rect><rect x="119.014" y="35.284" width="7.336" height="19.236"></rect><path d="M139.727,44.883c0,2.038-0.371,4.782-3.148,4.782 c-2.781,0-3.151-2.744-3.151-4.782s0.37-4.745,3.151-4.745C139.356,40.138,139.727,42.845,139.727,44.883z M147.067,44.883 c0-5.338-3.263-10.081-10.488-10.081c-7.228,0-10.489,4.743-10.489,10.081c0,5.337,3.262,10.117,10.489,10.117 C143.804,55,147.067,50.22,147.067,44.883z"></path><path d="M146.537,54.52h7.337V44.365c0-3.075,1.669-3.706,2.93-3.706 c2.149,0,2.408,1.556,2.408,3.78V54.52h7.338V41.324c0-4.41-3.15-6.521-6.596-6.521c-2.928,0-4.894,1.002-6.267,2.926h-0.072 v-2.444h-7.078V54.52z"></path></svg></a></div><div class="sc-25c29d52-0 dmtfKo"><nav id="header-nav" aria-labelledby="header-burger-trigger" class="sc-25c29d52-5 lmkhhA"><ul class="sc-25c29d52-6 fMYgtN type-heading-sm-strong-brand"><li class="sc-25c29d52-7 jgoiAk"><a href="/visit-us" data-gtm-trigger="header_nav_link" class="sc-25c29d52-8 lipyuc">Visit us</a></li><li class="sc-25c29d52-7 jgoiAk"><a href="/whats-on" data-gtm-trigger="header_nav_link" class="sc-25c29d52-8 lipyuc">Whatâs on</a></li><li class="sc-25c29d52-7 jgoiAk"><a href="/stories" data-gtm-trigger="header_nav_link" class="sc-25c29d52-8 lipyuc">Stories</a></li><li class="sc-25c29d52-7 jgoiAk"><a href="/collections" aria-current="true" data-gtm-trigger="header_nav_link" class="sc-25c29d52-8 gZGkDH">Collections</a></li><li class="sc-25c29d52-7 jgoiAk"><a href="/get-involved" data-gtm-trigger="header_nav_link" class="sc-25c29d52-8 lipyuc">Get involved</a></li><li class="sc-25c29d52-7 jgoiAk"><a href="/about-us" data-gtm-trigger="header_nav_link" class="sc-25c29d52-8 lipyuc">About us</a></li></ul><div class="sc-637911c9-0 eIydRw type-body-md-regular"><div class="sc-1d9d85c4-0 cwAKHi type-body-lg-regular"><span data-component="icon" class="sc-31a16054-0 gAKYzL icon"><svg class="icon__svg" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M16.08 12.47a6 6 0 1 0-8 0c-3.57 1-4.62 3.4-4.9 6.23a3 3 0 0 0 3 3.31H18a3 3 0 0 0 3-3.31c-.28-2.83-1.34-5.26-4.92-6.23M8.09 8a4 4 0 1 1 8 0 4 4 0 0 1-8 0m10.68 11.67A1 1 0 0 1 18 20H6.18a1 1 0 0 1-1-1.11c.26-2.58 1-4.89 6.91-4.89s6.67 2.31 6.94 4.89a1 1 0 0 1-.26.78" class="icon__shape"></path></svg></svg></span></div><a href="/account/api/auth/login" data-gtm-trigger="library_account_login">Sign in to your library account</a></div></nav><div class="sc-25c29d52-9 dhwpvO"><a href="/search"><div class="sc-df67f477-0 dCPCwA"><span data-component="icon" class="sc-31a16054-0 ewJowi icon"><svg class="icon__svg" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="m22.6 20.59-6.25-6.25a7.53 7.53 0 1 0-1.41 1.41L21.19 22a1 1 0 0 0 1.41-1.41M4.9 9.8a5.5 5.5 0 1 1 5.5 5.5 5.51 5.51 0 0 1-5.5-5.5" class="icon__shape"></path></svg></svg></span><span class="visually-hidden">Search for anything</span></div></a><span class="display-none headerMedium-display-block"><a data-component="borderless-clickable" href="/account" class="sc-ad1488eb-2 sc-aad143f3-0 hGUJnE jLcNZc"><span class="sc-ad1488eb-0 dbFtvl type-body-md-regular"><span class="sc-1d9d85c4-0 sc-ad1488eb-1 hJmAsF eILaQu"><span class="type-body-lg-regular" style="transform:translateY(0.01em)"><span data-component="icon" class="sc-31a16054-0 gAKYzL icon"><svg class="icon__svg" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M16.08 12.47a6 6 0 1 0-8 0c-3.57 1-4.62 3.4-4.9 6.23a3 3 0 0 0 3 3.31H18a3 3 0 0 0 3-3.31c-.28-2.83-1.34-5.26-4.92-6.23M8.09 8a4 4 0 1 1 8 0 4 4 0 0 1-8 0m10.68 11.67A1 1 0 0 1 18 20H6.18a1 1 0 0 1-1-1.11c.26-2.58 1-4.89 6.91-4.89s6.67 2.31 6.94 4.89a1 1 0 0 1-.26.78" class="icon__shape"></path></svg></svg></span></span></span><span class="visually-hidden">Library account</span></span></a></span></div></div></div></div></div><div class="sc-2fde9d18-0 diWRZi is-hidden"><div class="sc-1d9d85c4-0 sc-2fde9d18-1 eZjobY bRwvFy"><div class="sc-3e406ec4-0 jaHcnj"><form data-component="search-form" id="search-form-overview" data-gtm-trigger="search-form-overview" action="/search"><div data-component="search-bar"><div class="sc-2cf3382f-0 kXPZDC is-hidden-print"><div class="sc-2cf3382f-1 eyWLLm"><div data-component="text-input"><label for="header-searchbar" class="sc-d4485b67-0 jaTQkv type-body-md-strong">Search for anything</label><div class="sc-1d9d85c4-0 sc-d4485b67-1 jVDTAF iWfzgR type-body-lg-regular"><input id="header-searchbar" aria-invalid="false" form="search-form-overview" type="search" class="sc-d4485b67-3 dxaYbC" name="query" value=""/></div></div></div><div class="sc-2cf3382f-2 cUqlqg"><button type="submit" form="search-form-overview" class="sc-ad1488eb-2 sc-ad1488eb-3 hGUJnE bjWAem"><span class="sc-ad1488eb-0 dbFtvl type-body-md-strong"><span class="">Search</span></span></button></div></div></div></form></div></div></div></header><div id="main" class="main" style="overflow-x:visible" role="main" tabindex="-1"><div class="sc-3e406ec4-0 jaHcnj"><div class="sc-1d9d85c4-0 kTKPcg"><form data-component="search-form" id="search-form-works" data-gtm-trigger="search-form-works" action="/search/works"><div data-component="search-bar"><div class="sc-2cf3382f-0 kXPZDC is-hidden-print"><div class="sc-2cf3382f-1 eyWLLm"><div data-component="text-input"><label for="page-searchbar" class="sc-d4485b67-0 jaTQkv type-body-md-strong">Search the catalogue</label><div class="sc-1d9d85c4-0 sc-d4485b67-1 jVDTAF iWfzgR type-body-lg-regular"><input id="page-searchbar" aria-invalid="false" form="search-form-works" type="search" class="sc-d4485b67-3 dxaYbC" name="query" value=""/></div></div></div><div class="sc-2cf3382f-2 cUqlqg"><button type="submit" form="search-form-works" class="sc-ad1488eb-2 sc-ad1488eb-3 hGUJnE bjWAem"><span class="sc-ad1488eb-0 dbFtvl type-body-md-strong"><span class="">Search</span></span></button></div></div></div></form></div><div class="sc-1d9d85c4-0 iaJRnl"></div></div><div class="sc-3e406ec4-0 jaHcnj"><div class="sc-2b10e06d-0 vxiZZ"><div class="sc-2b10e06d-1 lhrEVS"><div class="sc-1d9d85c4-0 iHxACQ"><div class="sc-df27cd2f-0 kUVhPa"><h1 aria-live="polite" id="work-info" lang="en" class="sc-a4d631d2-0 gSTQIx type-heading-xl-strong-sans"><span data-component="work-title">Witchcraft farther display'd. Containing I. An account of the witchcraft practis'd by Jane Wenham of Walkerne, in Hertfordshire, since her condemnation ... II. An answer to the most general objections against the being and power of witches: ... To which are added, the tryals of Florence Newton, a famous Irish witch, at the assizes held at Cork, anno 1661; as also of two witches ... at Bury St. Edmonds in Suffolk, anno 1664.</span></h1><div class="sc-1d9d85c4-0 kjCcPb"><ul data-component="link-labels" class="sc-ae512301-0 sc-6d3c8eea-1 jmmaxj feMcKi type-body-md-strong"><li><span class="sc-1d9d85c4-0 sc-6d3c8eea-0 cwAKHi type-body-md-regular">Francis Bragge</span></li></ul></div><dl data-component="link-labels-with-heading" class="sc-6d3c8eea-2 kauLYC type-body-md-regular"><dt class="sc-1d9d85c4-0 sc-6d3c8eea-3 cgmtPg fYOSjT">Date<!-- -->:</dt><dd style="margin:0"><span class="sc-1d9d85c4-0 sc-6d3c8eea-0 cwAKHi type-body-md-regular">1712</span></dd></dl><div class="sc-1d9d85c4-0 bkjsKo"><div data-component="labels-list" class="sc-1d9d85c4-0 bRxkss"><ul class="sc-1d9d85c4-0 sc-71b561ac-0 fICPA-d fUjKpE"><li><div style="--label-length:5" class="sc-1d9d85c4-0 sc-288aa937-0 jICgAW jjFUBt type-body-sm-strong">Books</div></li><li><div style="--label-length:6" class="sc-1d9d85c4-0 sc-288aa937-0 jICgAW fbhVWq type-body-sm-strong">Online</div></li></ul></div></div></div></div></div></div><div class="sc-1d9d85c4-0 iHxACQ"><div class="sc-4f3300bb-0 firdHP"></div></div></div><div class="sc-3e406ec4-0 jaHcnj"><div class="sc-2b10e06d-0 vxiZZ"><div class="sc-2b10e06d-1 GteIF"><div class="sc-1d9d85c4-0 sc-41b3e411-0 kTKPcg jtISr"><div class="sc-1d9d85c4-0 sc-48bdb871-0 eJpwLL"><h2 class="type-heading-md-strong-brand">Available online</h2><div class="sc-1d9d85c4-0 ibSzBN"><a style="display:inline-block" href="/works/cb97s9ug/items?shouldScrollToCanvas=true"><img style="width:auto;height:auto;display:block" alt="view Witchcraft farther display&#x27;d. Containing I. An account of the witchcraft practis&#x27;d by Jane Wenham of Walkerne, in Hertfordshire, since her condemnation ... II. An answer to the most general objections against the being and power of witches: ... To which are added, the tryals of Florence Newton, a famous Irish witch, at the assizes held at Cork, anno 1661; as also of two witches ... at Bury St. Edmonds in Suffolk, anno 1664." src="https://iiif.wellcomecollection.org/thumbs/b30545158_0005.jp2/full/!200,200/0/default.jpg"/></a></div><div style="display:flex" class="sc-1d9d85c4-0 jVDTAF"><span class="sc-1d9d85c4-0 kjCcPb"><a class="sc-9ff86a8f-0 Sjcey" href="/works/cb97s9ug/items?shouldScrollToCanvas=true"><span class="sc-ad1488eb-2 sc-ad1488eb-3 hGUJnE bjWAem"><span class="sc-ad1488eb-0 dbFtvl type-body-md-strong"><span class="sc-1d9d85c4-0 sc-ad1488eb-1 hJmAsF eILaQu"><span data-component="icon" class="sc-31a16054-0 ewJowi icon"><svg class="icon__svg" aria-hidden="true"><svg viewBox="0 0 24 24"><g fill="currentColor" class="icon__shape" transform="translate(2 4)"><path d="M10 0C4.17 0 0 6 0 8s4 8 10 8 10-6 10-8-4.2-8-10-8m0 14c-4.76 0-8-5-8-6s3.21-6 8-6 8 5.11 8 6-3.24 6-8 6"></path><circle cx="9.97" cy="8" r="3"></circle></g></svg></svg></span></span><span class="">View</span></span></span></a></span></div><div class="sc-1d9d85c4-0 elmuH"><div data-component="collapsible-content"><div id="licenseDetail" aria-hidden="false" class="sc-1d9d85c4-0 sc-6faf2bfa-3 qfcJS ejjDxF"><div style="display:flex" class="sc-1d9d85c4-0 dUTbYT"><div class="body-text spaced-text"><div class="sc-df27cd2f-0 kUVhPa"><div class="sc-65f5a8cc-0 type-body-md-regular"><div class="sc-d9c84428-0 frKqGM spaced-text"><div class="sc-fd5dee44-0 gCdczr"><p><strong>Public Domain Mark</strong></p><p>You can use this work for any purpose without restriction under copyright law.<!-- --> <a href="https://creativecommons.org/publicdomain/mark/1.0">Read more about this licence</a>.</p></div></div></div></div><div class="sc-df27cd2f-0 kUVhPa"><div class="sc-65f5a8cc-0 type-body-md-regular"><div class="sc-d9c84428-0 frKqGM spaced-text"><div class="sc-fd5dee44-0 gCdczr"><p><strong>Credit</strong></p><p>Witchcraft farther display&#x27;d. Containing I. An account of the witchcraft practis&#x27;d by Jane Wenham of Walkerne, in Hertfordshire, since her condemnation ... II. An answer to the most general objections against the being and power of witches: ... To which are added, the tryals of Florence Newton, a famous Irish witch, at the assizes held at Cork, anno 1661; as also of two witches ... at Bury St. Edmonds in Suffolk, anno 1664<!-- -->.<!-- --> <!-- -->Public Domain Mark<!-- -->. Source: Wellcome Collection.</p></div></div></div></div></div></div></div></div></div></div></div><div class="sc-1d9d85c4-0 sc-41b3e411-0 kTKPcg jtISr"><div class="sc-1d9d85c4-0 sc-48bdb871-0 eJpwLL"><h2 class="type-heading-md-strong-brand">About this work</h2><div class="sc-df27cd2f-0 kUVhPa"><div class="sc-65f5a8cc-0 type-body-md-regular"><h3 class="sc-1d9d85c4-0 sc-65f5a8cc-1 BQJtp giHNWV type-body-md-strong">Publication/Creation</h3><div class="sc-d9c84428-0 frKqGM spaced-text"><div>London : Printed for E. Curll, at the Dial and Bible against St. Dunstan&#x27;s Church in Fleet-Street, 1712.</div></div></div></div><div class="sc-df27cd2f-0 kUVhPa"><div class="sc-65f5a8cc-0 type-body-md-regular"><h3 class="sc-1d9d85c4-0 sc-65f5a8cc-1 BQJtp giHNWV type-body-md-strong">Physical description</h3><div class="sc-d9c84428-0 frKqGM spaced-text"><div class="sc-d9c84428-1 eABQHr">4 unnumbered pages, 39 pages, 1 unnumbered page ; 8vo (19 cm)</div></div></div></div><div class="sc-df27cd2f-0 kUVhPa"><div class="sc-65f5a8cc-0 type-body-md-regular"><h3 class="sc-1d9d85c4-0 sc-65f5a8cc-1 BQJtp giHNWV type-body-md-strong">Contributors</h3><div class="sc-1d9d85c4-0 hiyKqt"><div data-component="tags" class="sc-1d9d85c4-0 hiybgb"><ul class="sc-ae512301-0 jmmaxj"><li class="sc-1d9d85c4-0 sc-b803226b-2 iCPdRC cxKING"><a class="sc-4044a71a-1 ipA-dIu type-body-md-strong" href="/concepts/rwx6ukrb"><span class="sc-b803226b-0 hupubr"><span class="sc-b803226b-1 bThFfK type-body-md-regular"><span class="type-body-md-strong">Francis Bragge</span></span></span></a></li></ul></div></div></div></div><div class="sc-df27cd2f-0 kUVhPa"><div class="sc-65f5a8cc-0 type-body-md-regular"><h3 class="sc-1d9d85c4-0 sc-65f5a8cc-1 BQJtp giHNWV type-body-md-strong">Notes</h3><div class="sc-d9c84428-0 frKqGM spaced-text"><div class="sc-d9c84428-1 eABQHr">Printed on title-page: Price 6 d.</div><div class="sc-d9c84428-1 eABQHr">Introduction signed F. B.</div><div class="sc-d9c84428-1 eABQHr">Printed on final page: 'Pamphlets lately printed for E. Curll.'</div><div class="sc-d9c84428-1 eABQHr">Copy 1. Bound with: 'The case of the Hertfordshire witchcraft consider'd', 1712.</div><div class="sc-d9c84428-1 eABQHr">Copy 2. Bound with four other pamphlets from 1712 relating to the Jane Wenham case. Note in ink bound in between first and second leaves. From the library of Edwin Clarke.</div></div></div></div><div class="sc-df27cd2f-0 kUVhPa"><div class="sc-65f5a8cc-0 type-body-md-regular"><h3 class="sc-1d9d85c4-0 sc-65f5a8cc-1 BQJtp giHNWV type-body-md-strong">References note</h3><div class="sc-d9c84428-0 frKqGM spaced-text"><div class="sc-d9c84428-1 eABQHr">ESTC, T68954.</div><div class="sc-d9c84428-1 eABQHr">ESTC T68954</div></div></div></div><div class="sc-df27cd2f-0 kUVhPa"><div class="sc-65f5a8cc-0 type-body-md-regular"><h3 class="sc-1d9d85c4-0 sc-65f5a8cc-1 BQJtp giHNWV type-body-md-strong">Languages</h3><div class="sc-1d9d85c4-0 hiyKqt"><div data-component="tags" class="sc-1d9d85c4-0 hiybgb"><ul class="sc-ae512301-0 jmmaxj"><li class="sc-1d9d85c4-0 sc-b803226b-2 iCPdRC cxKING"><a class="sc-4044a71a-1 ipA-dIu type-body-md-strong" href="/search/works?languages=eng"><span class="sc-b803226b-0 hupubr"><span class="sc-b803226b-1 bThFfK type-body-md-regular"><span class="type-body-md-strong">English</span></span></span></a></li></ul></div></div></div></div></div></div><div class="sc-1d9d85c4-0 sc-41b3e411-0 kTKPcg jtISr"><div class="sc-1d9d85c4-0 sc-48bdb871-0 eJpwLL"><h2 class="type-heading-md-strong-brand">Subjects</h2><div class="sc-df27cd2f-0 kUVhPa"><div class="sc-65f5a8cc-0 type-body-md-regular"><div data-component="tags" class="sc-1d9d85c4-0 hiybgb"><ul class="sc-ae512301-0 jmmaxj"><li class="sc-1d9d85c4-0 sc-b803226b-2 iCPdRC cxKING"><a class="sc-4044a71a-1 ipA-dIu type-body-md-strong" href="/concepts/wt8zut96"><span class="sc-b803226b-0 hupubr"><span class="sc-b803226b-1 bThFfK type-body-md-regular"><span class="type-body-md-strong">Witchcraft</span></span></span></a></li><li class="sc-1d9d85c4-0 sc-b803226b-2 iCPdRC cxKING"><a class="sc-4044a71a-1 ipA-dIu type-body-md-strong" href="/concepts/prkpuqhw"><span class="sc-b803226b-0 hupubr"><span class="sc-b803226b-1 bThFfK type-body-md-regular"><span class="type-body-md-strong">Jane Wenham</span></span></span></a></li></ul></div></div></div></div></div><div class="sc-1d9d85c4-0 sc-41b3e411-0 kTKPcg jtISr"><div class="sc-1d9d85c4-0 sc-48bdb871-0 eJpwLL"><h2 class="type-heading-md-strong-brand">Where to find it</h2><div class="sc-1d9d85c4-0 iHxACQ"></div><div data-component="expandable-list"><ul class="sc-ae512301-0 jmmaxj"><li class="type-body-md-regular"><div class="sc-1d9d85c4-0 sc-5850d280-0 dWNYnW kucAYt"><table data-component="stacking-table" class="sc-b7597d69-0 qwQWG type-body-md-regular"><thead><tr><th width="180" class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong">Location</th><th width="200" class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong">Status</th><th class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong">Access</th><th class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong"> </th></tr></thead><tbody><tr class="sc-1d9d85c4-0 sc-b7597d69-1 hJmAsF iDbbtd"><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp fDLKQi"><div>Closed stores</div><div>EPB/B/16949.2</div></td><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp gfyqEH"><div class="sc-53ebb24c-1 gZrCLN"><div class="sc-53ebb24c-0 kOkntz"></div><div class="sc-53ebb24c-0 cvgXoC"></div></div></td><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp fGMoxD"><div class="sc-53ebb24c-1 gZrCLN"><div class="sc-53ebb24c-0 kOkntz"></div><div class="sc-53ebb24c-0 cvgXoC"></div></div></td><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp eedgNb"> </td></tr></tbody></table></div></li><li class="type-body-md-regular"><div class="sc-1d9d85c4-0 sc-5850d280-0 dWNYnW kucAYt"><table data-component="stacking-table" class="sc-b7597d69-0 qwQWG type-body-md-regular"><thead><tr><th width="180" class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong">Location</th><th width="200" class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong">Status</th><th class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong">Access</th><th class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong"> </th></tr></thead><tbody><tr class="sc-1d9d85c4-0 sc-b7597d69-1 hJmAsF iDbbtd"><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp fDLKQi"><div>Closed stores</div><div>EPB/T/622</div></td><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp gfyqEH"><div class="sc-53ebb24c-1 gZrCLN"><div class="sc-53ebb24c-0 kOkntz"></div><div class="sc-53ebb24c-0 cvgXoC"></div></div></td><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp fGMoxD"><div class="sc-53ebb24c-1 gZrCLN"><div class="sc-53ebb24c-0 kOkntz"></div><div class="sc-53ebb24c-0 cvgXoC"></div></div></td><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp eedgNb"> </td></tr></tbody></table></div></li><li class="type-body-md-regular"><div class="sc-1d9d85c4-0 sc-5850d280-0 dWNYnW"><table data-component="stacking-table" class="sc-b7597d69-0 qwQWG type-body-md-regular"><thead><tr><th width="180" class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong">Location</th><th width="200" class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong"> </th><th class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong">Access</th><th class="sc-1d9d85c4-0 sc-b7597d69-2 dGoRsp kaWVKZ type-body-md-strong"> </th></tr></thead><tbody><tr class="sc-1d9d85c4-0 sc-b7597d69-1 hJmAsF iDbbtd"><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp fDLKQi"><div>Closed stores</div><div>EPB/T/622.1</div></td><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp eedgNb"> </td><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp fGMoxD"><div class="sc-53ebb24c-1 gZrCLN"><div class="sc-53ebb24c-0 kOkntz"></div><div class="sc-53ebb24c-0 cvgXoC"></div></div></td><td class="sc-1d9d85c4-0 sc-b7597d69-3 dGoRsp eedgNb"> </td></tr></tbody></table><div class="sc-1d9d85c4-0 bkjsKo"><h3 class="sc-5850d280-2 kzucZq type-body-md-strong">Note</h3><div class="sc-53ebb24c-1 irhxCS"><div class="sc-53ebb24c-0 kOkntz"></div><div class="sc-53ebb24c-0 cvgXoC"></div><div class="sc-53ebb24c-0 jBXFRI"></div></div></div></div></li></ul></div></div></div><div class="sc-1d9d85c4-0 sc-41b3e411-0 kTKPcg jtISr"><div class="sc-1d9d85c4-0 sc-48bdb871-0 eJpwLL"><h2 class="type-heading-md-strong-brand">Permanent link</h2><div class="type-body-md-regular"><div data-component="text-input"><label for="share" class="sc-d4485b67-0 jaTQkv type-body-md-strong">Page URL</label><div class="sc-1d9d85c4-0 sc-d4485b67-1 jVDTAF iWfzgR type-body-lg-regular"><input id="share" aria-invalid="false" type="text" class="sc-d4485b67-3 dxaYbC" value="https://wellcomecollection.org/works/cb97s9ug"/></div></div></div></div></div></div></div></div><div class="sc-1d9d85c4-0 sc-ba0d111d-1 jdvwVZ fkvhob"><div class="sc-3e406ec4-0 jaHcnj"><div class="sc-1d9d85c4-0 bZMcSH"><div class="sc-ba0d111d-0 hsiVYa"><div class="sc-61d41745-0 fYQVqN"></div></div></div></div></div><div style="position:relative;min-height:200px"><div class="sc-61d41745-0 fYQVqN"></div></div></div><footer data-component="footer" class="sc-1d9d85c4-0 sc-dceb2b62-0 ilQlSc drEePT type-body-md-regular is-hidden-print"><div class="sc-3e406ec4-0 jaHcnj"><h3><svg width="128" height="42" viewBox="0 0 166.549 56" fill="currentColor" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="wellcome-collection-white-title"><title id="wellcome-collection-white-title">Wellcome Collection</title><polygon points="32.875,7.228 25.238,7.228 22.573,19.125 22.424,19.125 19.866,7.228 13.009,7.228 10.563,19.125 10.489,19.125 7.635,7.228 0,7.228 6.004,26.463 13.527,26.463 16.381,14.64 16.456,14.64 19.236,26.463 26.759,26.463"></polygon><path d="M51.129,18.494c0-7.486-3.296-11.748-10.933-11.748 c-6.079,0-10.154,4.56-10.154,10.155c0,6.411,4.629,10.043,10.784,10.043c4.373,0,8.415-1.929,9.896-6.078h-6.856 c-0.592,0.927-1.89,1.371-3.077,1.371c-2.299,0-3.558-1.556-3.741-3.744H51.129z M37.085,14.677 c0.333-2.075,1.592-3.225,3.78-3.225c1.888,0,3.223,1.446,3.223,3.225H37.085z"></path><rect x="50.636" width="7.34" height="26.463"></rect><rect x="59.712" width="7.338" height="26.463"></rect><path d="M86.91,14.528c-0.445-5.299-4.744-7.782-9.783-7.782 c-5.783,0-10.417,4.041-10.417,10.117c0,6.079,4.634,10.082,10.417,10.082c5.188,0,9.301-2.928,10.005-8.154h-7.005 c-0.148,1.518-1.26,2.815-2.854,2.815c-2.817,0-3.225-2.407-3.225-4.744c0-2.334,0.408-4.779,3.225-4.779 c0.778,0,1.409,0.22,1.853,0.629c0.48,0.409,0.742,1.037,0.814,1.816H86.91z"></path><path d="M99.643,16.827c0,2.038-0.37,4.78-3.148,4.78c-2.781,0-3.15-2.742-3.15-4.78 c0-2.039,0.369-4.743,3.15-4.743C99.273,12.083,99.643,14.788,99.643,16.827z M106.982,16.827c0-5.337-3.263-10.081-10.487-10.081 c-7.228,0-10.488,4.744-10.488,10.081c0,5.335,3.261,10.118,10.488,10.118C103.719,26.945,106.982,22.162,106.982,16.827z"></path><path d="M106.785,26.463h7.339V16.047c0-2.001,0.631-3.445,2.484-3.445 c2.225,0,2.407,1.63,2.407,3.445v10.416h7.339V16.047c0-2.001,0.629-3.445,2.483-3.445c2.223,0,2.409,1.63,2.409,3.445v10.416h7.34 V13.27c0-3.116-1.668-6.523-6.599-6.523c-4.782,0-6.263,2.779-6.56,3.002c-0.89-1.929-3.112-3.002-5.191-3.002 c-2.666,0-4.816,0.814-6.299,3.04h-0.073V7.228h-7.08V26.463z"></path><path d="M159.447,18.494c0-7.486-3.298-11.748-10.933-11.748 c-6.077,0-10.155,4.56-10.155,10.155c0,6.411,4.634,10.043,10.785,10.043c4.374,0,8.414-1.929,9.896-6.078h-6.857 c-0.591,0.927-1.889,1.371-3.074,1.371c-2.298,0-3.558-1.556-3.744-3.744H159.447z M145.403,14.677 c0.332-2.075,1.593-3.225,3.78-3.225c1.889,0,3.225,1.446,3.225,3.225H145.403z"></path><path d="M31.329,42.585c-0.445-5.299-4.745-7.783-9.783-7.783 c-5.784,0-10.416,4.04-10.416,10.118C11.13,51,15.762,55,21.546,55c5.188,0,9.301-2.927,10.004-8.153h-7.003 c-0.147,1.521-1.261,2.818-2.852,2.818c-2.82,0-3.226-2.411-3.226-4.745c0-2.335,0.406-4.782,3.226-4.782 c0.775,0,1.407,0.225,1.854,0.631c0.481,0.407,0.737,1.038,0.813,1.816H31.329z"></path><path d="M43.692,44.883c0,2.038-0.369,4.782-3.149,4.782s-3.149-2.744-3.149-4.782 s0.369-4.745,3.149-4.745S43.692,42.845,43.692,44.883z M51.031,44.883c0-5.338-3.262-10.081-10.488-10.081 c-7.229,0-10.488,4.743-10.488,10.081C30.055,50.22,33.314,55,40.543,55C47.77,55,51.031,50.22,51.031,44.883z"></path><rect x="50.647" y="28.056" width="7.34" height="26.464"></rect><rect x="59.724" y="28.056" width="7.338" height="26.464"></rect><path d="M87.811,46.552c0-7.488-3.3-11.75-10.934-11.75 c-6.077,0-10.152,4.559-10.152,10.155C66.725,51.369,71.357,55,77.508,55c4.373,0,8.413-1.926,9.896-6.076h-6.856 c-0.595,0.925-1.891,1.37-3.077,1.37c-2.299,0-3.559-1.557-3.745-3.742H87.811z M73.765,42.734 c0.333-2.075,1.596-3.225,3.779-3.225c1.891,0,3.226,1.447,3.226,3.225H73.765z"></path><path d="M106.553,42.585c-0.443-5.299-4.743-7.783-9.784-7.783 c-5.782,0-10.412,4.04-10.412,10.118C86.357,51,90.987,55,96.769,55c5.189,0,9.304-2.927,10.008-8.153h-7.006 c-0.147,1.521-1.259,2.818-2.853,2.818c-2.819,0-3.227-2.411-3.227-4.745c0-2.335,0.407-4.782,3.227-4.782 c0.778,0,1.407,0.225,1.854,0.631c0.481,0.407,0.738,1.038,0.812,1.816H106.553z"></path><path d="M114.174,29.429h-7.34v5.854h-3.26v4.521h3.26v9.193 c0,5.261,3.448,5.745,6.561,5.745c1.558,0,3.226-0.224,4.707-0.224v-5.559c-0.555,0.073-1.112,0.108-1.668,0.108 c-1.854,0-2.26-0.775-2.26-2.556v-6.709h3.928v-4.521h-3.928V29.429z"></path><rect x="119.014" y="28.056" width="7.336" height="5.153"></rect><rect x="119.014" y="35.284" width="7.336" height="19.236"></rect><path d="M139.727,44.883c0,2.038-0.371,4.782-3.148,4.782 c-2.781,0-3.151-2.744-3.151-4.782s0.37-4.745,3.151-4.745C139.356,40.138,139.727,42.845,139.727,44.883z M147.067,44.883 c0-5.338-3.263-10.081-10.488-10.081c-7.228,0-10.489,4.743-10.489,10.081c0,5.337,3.262,10.117,10.489,10.117 C143.804,55,147.067,50.22,147.067,44.883z"></path><path d="M146.537,54.52h7.337V44.365c0-3.075,1.669-3.706,2.93-3.706 c2.149,0,2.408,1.556,2.408,3.78V54.52h7.338V41.324c0-4.41-3.15-6.521-6.596-6.521c-2.928,0-4.894,1.002-6.267,2.926h-0.072 v-2.444h-7.078V54.52z"></path></svg></h3><div class="sc-1d9d85c4-0 sc-dceb2b62-2 cWveef jNiAGI"><div class="sc-dceb2b62-4 hmrJhI"><div data-component="find-us"><p class="sc-1d9d85c4-0 iHxACQ"><a href="https://www.google.co.uk/maps/dir//Wellcome+Collection,+Euston+Road,+London/@51.5258128,-0.136211,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x48761b25f10b008f:0xed51ac6f865b038a!2m2!1d-0.133945!2d51.525851" class="sc-41700466-0 kfcRtG">183 Euston Road<br/>London<!-- --> <!-- -->NW1 2BE</a></p><p class="sc-1d9d85c4-0 iHxACQ"><a href="tel:+442076112222" aria-label="+ 4 4. 0 2 0. 7 6 1 1. 2 2 2 2" class="sc-41700466-0 kfcRtG">+44 (0)20 7611 2222</a><br/><a href="mailto:info@wellcomecollection.org">info@wellcomecollection.org</a></p><ul class="sc-ae512301-0 jmmaxj"><li class="sc-1d9d85c4-0 gbKJTO"><a href="/visit-us/getting-here">Getting here</a></li></ul></div></div><div class="sc-dceb2b62-5 fatMGE"><h4 class="type-body-md-strong">Todayâs opening times</h4><ul data-chromatic="ignore" data-component="opening-times" class="sc-ae512301-0 jmmaxj"><li class="sc-1d9d85c4-0 dcgccz"><div class="sc-13311399-0 gkddYp">Galleries</div><time>10:00</time> â <time>18:00</time></li><li class="sc-1d9d85c4-0 dcgccz"><div class="sc-13311399-0 gkddYp">Library</div><time>10:00</time> â <time>16:00</time></li><li class="sc-1d9d85c4-0 dcgccz"><div class="sc-13311399-0 gkddYp">CafÃ©</div><time>10:00</time> â <time>18:00</time></li><li class="sc-1d9d85c4-0 dcgccz"><div class="sc-13311399-0 gkddYp">Shop</div><time>10:00</time> â <time>18:00</time></li></ul><p style="margin-bottom:0" class="sc-1d9d85c4-0 bkjsKo"><a href="/visit-us/opening-times">Opening times</a></p></div><div><h4 style="font:unset" class="sc-1d9d85c4-0 ibSzBN">Our building has:</h4><ul class="sc-ae512301-0 jmmaxj"><li class="sc-1d9d85c4-0 sc-9ea16236-0 fZgtKL drCyby"><div class="sc-1d9d85c4-0 sc-9ea16236-1 jICgAW fUTxqC"><span data-component="icon" class="sc-31a16054-0 ewJowi icon"><svg class="icon__svg" aria-hidden="true"><svg viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink"><g clip-path="url(#a)"><path fill="currentColor" d="M20.7 0H3.3C1.48 0 0 1.48 0 3.31V20.7C0 22.52 1.48 24 3.3 24h17.4c1.82 0 3.3-1.48 3.3-3.3V3.31C24 1.48 22.52 0 20.7 0m-1.61 3.99c0 1.1-.86 1.99-1.92 1.99s-1.92-.89-1.92-1.99S16.12 2 17.17 2s1.92.89 1.92 1.99m-13.33 8.2 1.49 1.55c-.49.82-.56.91-.65 2.19-.12 2.16 1.7 3.91 3.79 3.91.77 0 1.51-.25 2.11-.68h.02l1.49 1.56c-1 .82-2.47 1.28-3.62 1.27-3.79-.23-5.89-2.7-5.89-6.06.07-2.43.71-2.99 1.26-3.74m13.87-.21h-.01l-.48 6.15c-.05.62-.55 1.09-1.15 1.09h-.1c-.63-.06-1.1-.62-1.05-1.28l.38-4.79-1.56.09c.39.8.6 1.72.6 2.68 0 1.61-.61 3.07-1.6 4.16l-1.48-1.54c.61-.69.99-1.62.99-2.62 0-2.16-1.7-3.91-3.78-3.91s-2.67.89-2.67.89l-1.36-1.41c.84-.81 1.89-1.37 3.08-1.57l2.85-3.35-1.61-.97-1.95 1.79c-.48.44-1.2.4-1.62-.1-.42-.49-.38-1.24.1-1.68l2.57-2.37c.37-.34.92-.39 1.34-.14 0 0 5.26 3.16 5.28 3.16.27.17.45.46.51.75.12.44.02.93-.29 1.3l-2.2 2.6 4.01-.23c.33 0 .65.11.89.35.18.19.29.44.31.72z" class="icon__shape"></path></g><defs><clipPath id="a"><path d="M0 0h24v24H0z"></path></clipPath></defs></svg></svg></span></div><span>Step free access</span></li><li class="sc-1d9d85c4-0 sc-9ea16236-0 fZgtKL drCyby"><div class="sc-1d9d85c4-0 sc-9ea16236-1 jICgAW fUTxqC"><span data-component="icon" class="sc-31a16054-0 ewJowi icon"><svg class="icon__svg" aria-hidden="true"><svg viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink"><g clip-path="url(#a)"><path fill="currentColor" fill-rule="evenodd" d="M0 4a4 4 0 0 1 4-4h16a4 4 0 0 1 4 4v16a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4zm10.137 5.96c0-1.081.838-1.961 1.867-1.961 1.03 0 1.868.88 1.868 1.96 0 .483.37.872.83.872s.83-.39.83-.871c0-2.043-1.582-3.704-3.527-3.704S8.477 7.916 8.477 9.96c0 .482.371.871.83.871.46 0 .83-.39.83-.871m-.324 2.404a.8.8 0 0 1 1.173 0 .9.9 0 0 1 0 1.233l-5.27 5.533a.8.8 0 0 1-.587.256.8.8 0 0 1-.586-.256.903.903 0 0 1 0-1.232zm10.8-10.108a.8.8 0 0 0-1.173 0l-1.836 1.927a.9.9 0 0 0 0 1.233c.162.17.374.255.587.255a.8.8 0 0 0 .587-.256l1.835-1.927a.9.9 0 0 0 0-1.232M6.471 10.67c-.459 0-.83-.39-.83-.872 0-3.684 2.855-6.681 6.364-6.681s6.362 2.997 6.362 6.681c0 2.05-.877 3.956-2.406 5.233l-1.242 1.06c-.399.363-.866 1.549-.866 2.568v.29c0 1.682-1.086 3.05-2.421 3.05h-1.093c-.459 0-.83-.39-.83-.872 0-.481.371-.87.83-.87h1.093c.358 0 .761-.56.761-1.308v-.29c0-1.47.627-3.148 1.46-3.905l1.268-1.082c1.138-.95 1.786-2.36 1.786-3.874 0-2.723-2.11-4.938-4.702-4.938C9.41 4.86 7.3 7.076 7.3 9.799c0 .482-.37.872-.83.872" class="icon__shape" clip-rule="evenodd"></path></g><defs><clipPath id="a"><path d="M0 0h24v24H0z"></path></clipPath></defs></svg></svg></span></div><span>Hearing loops</span></li></ul><p style="margin-bottom:0" class="sc-1d9d85c4-0 bkjsKo"><a href="/visit-us/accessibility">Accessibility</a></p></div><div class="sc-dceb2b62-6 guPUsh"><nav style="display:flex" aria-label="Useful internal links"><ul aria-label="Footer navigation" class="sc-8491f797-0 lhsmLU"><li><a href="/visit-us" data-gtm-trigger="footer_nav_link" id="footer-nav-1" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Visit us</a></li><li><a href="/whats-on" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Whatâs on</a></li><li><a href="/stories" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Stories</a></li><li><a href="/collections" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Collections</a></li><li><a href="/get-involved" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Get involved</a></li><li><a href="/about-us" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">About us</a></li><li><a href="/contact-us" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Contact us</a></li></ul></nav></div></div><div class="sc-1d9d85c4-0 sc-dceb2b62-7 iHxACQ"><div class="sc-4f3300bb-0 lxMCH"></div></div><div class="sc-1d9d85c4-0 sc-dceb2b62-3 cWveef kZfyDU"><div class="sc-1d9d85c4-0 sc-dceb2b62-8 fkoFA-d iAjVES"><nav style="display:flex" aria-label="Policies navigation"><ul aria-label="Footer navigation" class="sc-8491f797-0 boJDMm"><li><a href="https://wellcome.org/jobs" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Jobs</a></li><li><a href="/about-us/press" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Media office</a></li><li><a href="https://developers.wellcomecollection.org" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Developers</a></li><li><a href="https://wellcome.org/who-we-are/privacy-and-terms" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Privacy and terms</a></li><li><a href="/about-us/cookie-policy" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Cookie policy</a></li><li><a style="display:block" href="/"><div class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Manage cookies</div></a></li><li><a href="https://wellcome.org/who-we-are/modern-slavery-statement" data-gtm-trigger="footer_nav_link" class="sc-1d9d85c4-0 sc-8491f797-1 iaJRnl blVMFP type-body-md-regular">Modern slavery statement</a></li></ul></nav></div><div class="sc-1d9d85c4-0 sc-dceb2b62-9 hJmAsF iywIxQ"><div class="sc-1d9d85c4-0 sc-1a39777b-0 kjCcPb hbJepr"><a href="https://www.tiktok.com/@wellcomecollection" class="sc-1d9d85c4-0 sc-1a39777b-1 hJmAsF jBKCIX"><span data-component="icon" class="sc-31a16054-0 ewJowi icon"><svg class="icon__svg" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M18.33 6.03a4.72 4.72 0 0 1-2.14-3.95h-3.38v13.55a2.85 2.85 0 0 1-2.84 2.74 2.85 2.85 0 0 1-2.84-2.85c0-1.57 1.28-2.84 2.84-2.84.29 0 .57.05.84.13V9.36q-.405-.06-.84-.06c-3.43 0-6.23 2.79-6.23 6.23 0 2.11 1.05 3.97 2.66 5.1 1.01.71 2.24 1.13 3.57 1.13 3.43 0 6.23-2.79 6.23-6.23V8.66c1.33.95 2.95 1.51 4.71 1.51V6.79c-.94 0-1.82-.28-2.56-.76Z" class="icon__shape"></path></svg></svg></span><span class="visually-hidden">TikTok</span></a></div><div class="sc-1d9d85c4-0 sc-1a39777b-0 kjCcPb hbJepr"><a href="https://www.facebook.com/wellcomecollection/" class="sc-1d9d85c4-0 sc-1a39777b-1 hJmAsF jBKCIX"><span data-component="icon" class="sc-31a16054-0 ewJowi icon"><svg class="icon__svg" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M17.7 12.67h-3.64v9.74h-3.71v-9.74H7.77V9.16h2.58v-3c0-2.35 1.52-4.52 5-4.52a21 21 0 0 1 2.47.14l-.08 3.28h-2.21c-1.26 0-1.47.58-1.47 1.55v2.56h3.81z" class="icon__shape"></path></svg></svg></span><span class="visually-hidden">Facebook</span></a></div><div class="sc-1d9d85c4-0 sc-1a39777b-0 kjCcPb hbJepr"><a href="https://www.instagram.com/wellcomecollection/" class="sc-1d9d85c4-0 sc-1a39777b-1 hJmAsF jBKCIX"><span data-component="icon" class="sc-31a16054-0 ewJowi icon"><svg class="icon__svg" aria-hidden="true"><svg viewBox="0 0 24 24"><g fill="currentColor" class="icon__shape" transform="translate(2 2)"><path d="M19 6.14a6.9 6.9 0 0 0-.44-2.28 4.8 4.8 0 0 0-2.75-2.75 6.9 6.9 0 0 0-2.28-.44c-1 0-1.32-.06-3.87-.06s-2.87 0-3.87.06a6.9 6.9 0 0 0-2.28.44A4.8 4.8 0 0 0 .77 3.86a6.9 6.9 0 0 0-.44 2.28c0 1-.06 1.32-.06 3.87s0 2.87.06 3.87c.017.78.165 1.55.44 2.28a4.8 4.8 0 0 0 2.75 2.75c.73.275 1.5.423 2.28.44 1 0 1.32.06 3.87.06s2.87 0 3.87-.06a6.9 6.9 0 0 0 2.28-.44 4.8 4.8 0 0 0 2.75-2.75 6.9 6.9 0 0 0 .43-2.28c0-1 .06-1.32.06-3.87S19 7.14 19 6.14m-1.69 7.66a5.2 5.2 0 0 1-.31 1.75 3.1 3.1 0 0 1-1.78 1.78 5.2 5.2 0 0 1-1.74.32c-1 0-1.29.05-3.79.05s-2.8 0-3.79-.05a5.2 5.2 0 0 1-1.74-.32 3.1 3.1 0 0 1-1.78-1.78A5.2 5.2 0 0 1 2 13.81V10c0-2.52 0-2.8.05-3.79a5.2 5.2 0 0 1 .32-1.74 3.1 3.1 0 0 1 1.76-1.78 5.2 5.2 0 0 1 1.74-.32c1 0 1.29-.05 3.79-.05s2.8 0 3.79.05a5.2 5.2 0 0 1 1.74.32A3.1 3.1 0 0 1 17 4.48a5.2 5.2 0 0 1 .32 1.74c0 1 .05 1.29.05 3.79s-.02 2.81-.06 3.8z"></path><path d="M9.66 5.19a4.82 4.82 0 1 0 .02 9.64 4.82 4.82 0 0 0-.02-9.64m0 8A3.13 3.13 0 1 1 12.79 10a3.13 3.13 0 0 1-3.13 3.14z"></path><circle cx="14.68" cy="5" r="1.13"></circle></g></svg></svg></span><span class="visually-hidden">Instagram</span></a></div><div class="sc-1d9d85c4-0 sc-1a39777b-0 kjCcPb hbJepr"><a href="https://www.youtube.com/user/WellcomeCollection" class="sc-1d9d85c4-0 sc-1a39777b-1 hJmAsF jBKCIX"><span data-component="icon" class="sc-31a16054-0 ewJowi icon"><svg class="icon__svg" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M21.85 7.58A4.5 4.5 0 0 0 21 5.51a3 3 0 0 0-2.09-.88c-2.92-.21-7.29-.21-7.29-.21s-4.38 0-7.29.21a3 3 0 0 0-2.09.88 4.5 4.5 0 0 0-.83 2.07 32 32 0 0 0-.2 3.42v1.58q.015 1.69.21 3.37A4.5 4.5 0 0 0 2.25 18a3.53 3.53 0 0 0 2.3.89c1.67.16 7.09.21 7.09.21s4.38 0 7.3-.22A3 3 0 0 0 21 18a4.5 4.5 0 0 0 .83-2.07q.195-1.68.21-3.37V11a32 32 0 0 0-.19-3.42M9.48 14.45V8.59l5.63 2.94z" class="icon__shape"></path></svg></svg></span><span class="visually-hidden">YouTube</span></a></div></div></div><div class="sc-1d9d85c4-0 sc-dceb2b62-10 eZjobY kfurCV"><p class="sc-dceb2b62-11 gXPLSC type-body-sm-regular">Except where otherwise noted, content on this site is licensed under a<!-- --> <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a></p><button class="sc-dceb2b62-12 iNmJTe is-hidden-s">Back to top</button></div></div></footer></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"work":{"production":[{"label":"London : Printed for E. Curll, at the Dial and Bible against St. Dunstan's Church in Fleet-Street, 1712.","agents":[{"label":"Printed for E. Curll, at the Dial and Bible against St. Dunstan's Church in Fleet-Street","type":"Agent"}],"dates":[{"label":"1712","type":"Period"}],"function":{"label":"Publication","type":"Concept"},"type":"ProductionEvent","places":[{"label":"London","type":"Place"}]}],"physicalDescription":"4 unnumbered pages, 39 pages, 1 unnumbered page ; 8vo (19 cm)","subjects":[{"label":"Witchcraft","concepts":[{"id":"wt8zut96","label":"Witchcraft","identifiers":[{"value":"sh85147143","type":"Identifier","identifierType":{"id":"lc-subjects","type":"IdentifierType","label":"Library of Congress Subject Headings (LCSH)"}}],"type":"Concept"}],"identifiers":[{"value":"sh85147143","type":"Identifier","identifierType":{"id":"lc-subjects","type":"IdentifierType","label":"Library of Congress Subject Headings (LCSH)"}}],"id":"wt8zut96","type":"Subject"},{"label":"Jane Wenham","concepts":[{"id":"prkpuqhw","label":"Jane Wenham","identifiers":[{"value":"nr93041703","type":"Identifier","identifierType":{"id":"lc-names","type":"IdentifierType","label":"Library of Congress Name authority records"}}],"type":"Person"}],"identifiers":[{"value":"nr93041703","type":"Identifier","identifierType":{"id":"lc-names","type":"IdentifierType","label":"Library of Congress Name authority records"}}],"id":"prkpuqhw","type":"Subject"}],"items":[{"id":"fm92mh7w","identifiers":[{"value":"i1389948x","type":"Identifier","identifierType":{"id":"sierra-system-number","type":"IdentifierType","label":"Sierra system number"}},{"value":"1389948","type":"Identifier","identifierType":{"id":"sierra-identifier","type":"IdentifierType","label":"Sierra identifier"}}],"locations":[{"label":"Closed stores","accessConditions":[{"method":{"id":"online-request","type":"AccessMethod","label":"Online request"},"status":{"id":"open","type":"AccessStatus","label":"Open"},"type":"AccessCondition"}],"shelfmark":"EPB/B/16949.2","locationType":{"id":"closed-stores","type":"LocationType","label":"Closed stores"},"type":"PhysicalLocation"}],"type":"Item"},{"id":"ntjdkycr","identifiers":[{"value":"i15972057","type":"Identifier","identifierType":{"id":"sierra-system-number","type":"IdentifierType","label":"Sierra system number"}},{"value":"1597205","type":"Identifier","identifierType":{"id":"sierra-identifier","type":"IdentifierType","label":"Sierra identifier"}}],"locations":[{"label":"Closed stores","accessConditions":[{"method":{"id":"online-request","type":"AccessMethod","label":"Online request"},"status":{"id":"open","type":"AccessStatus","label":"Open"},"type":"AccessCondition"}],"shelfmark":"EPB/T/622","locationType":{"id":"closed-stores","type":"LocationType","label":"Closed stores"},"type":"PhysicalLocation"}],"type":"Item"},{"id":"rj9thzvr","identifiers":[{"value":"i15972070","type":"Identifier","identifierType":{"id":"sierra-system-number","type":"IdentifierType","label":"Sierra system number"}},{"value":"1597207","type":"Identifier","identifierType":{"id":"sierra-identifier","type":"IdentifierType","label":"Sierra identifier"}}],"locations":[{"label":"Closed stores","accessConditions":[{"method":{"id":"not-requestable","type":"AccessMethod","label":"Not requestable"},"note":"Please request top item.","type":"AccessCondition"}],"shelfmark":"EPB/T/622.1","locationType":{"id":"closed-stores","type":"LocationType","label":"Closed stores"},"type":"PhysicalLocation"}],"type":"Item"},{"identifiers":[],"locations":[{"url":"https://iiif.wellcomecollection.org/presentation/v2/b30545158","license":{"id":"pdm","type":"License","label":"Public Domain Mark","url":"https://creativecommons.org/share-your-work/public-domain/pdm/"},"accessConditions":[{"method":{"id":"view-online","type":"AccessMethod","label":"View online"},"status":{"id":"open","type":"AccessStatus","label":"Open"},"type":"AccessCondition"}],"locationType":{"id":"iiif-presentation","type":"LocationType","label":"IIIF Presentation API"},"type":"DigitalLocation"}],"type":"Item"}],"designation":[],"workType":{"id":"a","type":"Format","label":"Books"},"identifiers":[{"value":"b14589503","type":"Identifier","identifierType":{"id":"sierra-system-number","type":"IdentifierType","label":"Sierra system number"}},{"value":"1458950","type":"Identifier","identifierType":{"id":"sierra-identifier","type":"IdentifierType","label":"Sierra identifier"}},{"value":"T68954","type":"Identifier","identifierType":{"id":"bl-estc-citation-no","type":"IdentifierType","label":"British Library English Short Title Catalogue"}},{"value":"b30545158","type":"Identifier","identifierType":{"id":"sierra-system-number","type":"IdentifierType","label":"Sierra system number"}},{"value":"3054515","type":"Identifier","identifierType":{"id":"sierra-identifier","type":"IdentifierType","label":"Sierra identifier"}},{"value":"digukmhl","type":"Identifier","identifierType":{"id":"wellcome-digcode","type":"IdentifierType","label":"Wellcome digcode"}}],"thumbnail":{"url":"https://iiif.wellcomecollection.org/thumbs/b30545158_0005.jp2/full/!200,200/0/default.jpg","license":{"id":"pdm","type":"License","label":"Public Domain Mark","url":"https://creativecommons.org/share-your-work/public-domain/pdm/"},"accessConditions":[],"locationType":{"id":"thumbnail-image","type":"LocationType","label":"Thumbnail image"},"type":"DigitalLocation"},"formerFrequency":[],"alternativeTitles":[],"id":"cb97s9ug","languages":[{"id":"eng","type":"Language","label":"English"}],"partOf":[],"genres":[],"notes":[{"contents":["Printed on title-page: Price 6 d.","Introduction signed F. B.","Printed on final page: 'Pamphlets lately printed for E. Curll.'","Copy 1. Bound with: 'The case of the Hertfordshire witchcraft consider'd', 1712.","Copy 2. Bound with four other pamphlets from 1712 relating to the Jane Wenham case. Note in ink bound in between first and second leaves. From the library of Edwin Clarke."],"noteType":{"id":"general-note","type":"NoteType","label":"Notes"},"type":"Note"},{"contents":["ESTC, T68954.","ESTC T68954"],"noteType":{"id":"references-note","type":"NoteType","label":"References note"},"type":"Note"}],"holdings":[],"title":"Witchcraft farther display'd. Containing I. An account of the witchcraft practis'd by Jane Wenham of Walkerne, in Hertfordshire, since her condemnation ... II. An answer to the most general objections against the being and power of witches: ... To which are added, the tryals of Florence Newton, a famous Irish witch, at the assizes held at Cork, anno 1661; as also of two witches ... at Bury St. Edmonds in Suffolk, anno 1664.","type":"Work","contributors":[{"agent":{"id":"rwx6ukrb","label":"Francis Bragge","identifiers":[{"value":"n85017584","type":"Identifier","identifierType":{"id":"lc-names","type":"IdentifierType","label":"Library of Congress Name authority records"}}],"type":"Person"},"roles":[],"primary":true,"type":"Contributor"}],"images":[],"availabilities":[{"id":"closed-stores","type":"Availability","label":"Closed stores"},{"id":"online","type":"Availability","label":"Online"}],"parts":[]},"apiUrl":"https://api.wellcomecollection.org/catalogue/v2/works/cb97s9ug?include=production%2Ccontributors%2CpartOf%2Ccollection%2Cidentifiers%2Cimages%2Citems%2Csubjects%2Cgenres%2Cnotes%2CformerFrequency%2Cdesignation%2Cparts%2Clanguages%2Choldings%2Carchive","serverData":{"toggles":{"featureFlags":{"apiToolbar":false,"toggleWidget":false,"conceptsSearch":false,"disableRequesting":false,"stagingApi":false,"aggregationsInSearch":true,"issuesBanner":false,"prismicStage":false,"themePagesAllFields":false,"brandUpdate":true,"largeArchiveContentsTree":true,"masonryImages":false},"phasedFlags":{"thematicBrowsingPhases":{"current":"categoryPages","phases":[{"id":"categoryPages","label":"Phase 1","description":"The three thematic browsing category pages (subjects, people \u0026 organisations, types \u0026 techniques) become accessible."},{"id":"subCategoryPages","label":"Phase 2","description":"Subject sub-category pages become accessible, and the subjects category page gains a sub-category menu."}],"title":"Thematic browsing"},"archiveBrowsingPhases":{"current":"mvp","phases":[{"id":"mvp","label":"Phase 1","description":"The archives landing page, archive category pages, and the 'Browse archives' link on the archive card list."}],"title":"Archive browsing"},"imageSidebarPhases":{"current":"phase2","phases":[{"id":"phase1","label":"Phase 1","description":"Clicking an image opens its details in a sidebar instead of a modal, with the selected image highlighted in the grid."},{"id":"phase2","label":"Phase 2","description":"Re-sizable viewing pane."},{"id":"phase3","label":"Phase 3","description":"Previous and next buttons (and arrow keys) in the sidebar, to move through the results without going back to the grid."}],"title":"Image sidebar preview"}},"tests":{},"modes":{}},"prismic":{"globalAlert":{"data":{"text":[{"type":"paragraph","text":"Some of our services are currently affected by the Microsoft outage. We apologise for any inconvenience caused and appreciate your patience while this is resolved.","spans":[],"direction":"ltr"}],"isShown":"hide","routeRegex":"/visit-us|/collections"}},"popupDialog":{"data":{"openButtonText":"Help improve our website","title":"Take part in research","text":[{"type":"paragraph","text":"We're running paid user research studies to improve Wellcome Collection online","spans":[{"start":0,"end":78,"type":"strong"}],"direction":"ltr"}],"linkText":"Sign up","link":{"link_type":"Web","key":"3d21f431-34e6-4f6a-86ef-50e302bca4a9","url":"https://forms.office.com/Pages/ResponsePage.aspx?id=Wmd6O8gfg0mhAMxSt2R3N8td8J2nLT5Fg6JzigkO19tUM01LMjdQSU5CQ1AzTTk4Q0FJVEkxVkZBNCQlQCN0PWcu"},"isShown":false,"routeRegex":"^/(works/(?![^/]+/(items|images))|collections[^/]*|concepts*)"}},"collectionVenues":{"results":[{"id":"Wsttgx8AAJeSNmJ4","data":{"title":"Galleries and Reading Room","order":1,"monday":[{}],"tuesday":[{"startDateTime":"2021-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"wednesday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"thursday":[{"startDateTime":"2026-01-01T10:00:00+0000","endDateTime":"2026-01-01T18:00:00+0000"}],"friday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"saturday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"sunday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"modifiedDayOpeningTimes":[{"overrideDate":"2026-12-24T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-25T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-26T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-28T00:00:00+0000","type":"Christmas and New Year","startDateTime":"2026-12-28T10:00:00+0000","endDateTime":"2026-12-28T18:00:00+0000"},{"overrideDate":"2027-01-01T00:00:00+0000","type":"Christmas and New Year"}]}},{"id":"WsuS_R8AACS1Nwlx","data":{"title":"Library","order":2,"monday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"tuesday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"wednesday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"thursday":[{"startDateTime":"2026-01-01T10:00:00+0000","endDateTime":"2026-01-01T18:00:00+0000"}],"friday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"saturday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T16:00:00+0000"}],"sunday":[{}],"modifiedDayOpeningTimes":[{"overrideDate":"2026-12-23T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-24T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-25T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-26T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-28T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-29T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-30T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-31T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2027-01-01T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2027-01-02T00:00:00+0000","type":"Christmas and New Year"}]}},{"id":"WsuaIB8AAH-yNylo","data":{"title":"Shop","order":5,"monday":[{"startDateTime":"2022-12-05T10:00:00+0000","endDateTime":"2022-12-05T18:00:00+0000"}],"tuesday":[{"startDateTime":"2022-12-06T10:00:00+0000","endDateTime":"2022-12-06T18:00:00+0000"}],"wednesday":[{"startDateTime":"2022-12-07T10:00:00+0000","endDateTime":"2022-12-07T18:00:00+0000"}],"thursday":[{"startDateTime":"2026-01-01T10:00:00+0000","endDateTime":"2026-01-01T18:00:00+0000"}],"friday":[{"startDateTime":"2022-12-09T10:00:00+0000","endDateTime":"2022-12-09T18:00:00+0000"}],"saturday":[{"startDateTime":"2022-12-10T10:00:00+0000","endDateTime":"2022-12-10T18:00:00+0000"}],"sunday":[{"startDateTime":"2022-12-10T10:00:00+0000","endDateTime":"2022-12-10T18:00:00+0000"}],"modifiedDayOpeningTimes":[{"overrideDate":"2026-12-24T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-25T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-26T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2027-01-01T00:00:00+0000","type":"Christmas and New Year"}]}},{"id":"WsuZKh8AAOG_NyUo","data":{"title":"CafÃ©","order":4,"monday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"tuesday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"wednesday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"thursday":[{"startDateTime":"2026-01-01T10:00:00+0000","endDateTime":"2026-01-01T18:00:00+0000"}],"friday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"saturday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"sunday":[{"startDateTime":"2022-01-23T10:00:00+0000","endDateTime":"2022-01-23T18:00:00+0000"}],"modifiedDayOpeningTimes":[{"overrideDate":"2026-12-24T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-25T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2026-12-26T00:00:00+0000","type":"Christmas and New Year"},{"overrideDate":"2027-01-01T00:00:00+0000","type":"Christmas and New Year"}]}}]},"readingRoomStories":{"Inside our collections":["medieval-doodles","acts-of-love-and-resistance-in-sudan","colas-complicated-roots","stories-of-asian-palm-leaf-manuscripts"],"Black history":["medics--migration-and-the-nhs","the-secret-lives-of-britain-s-first-black-physicians","thomas-sankara-and-the-stomachs-that-made-themselves-heard","how-the-slave-trades-medical-legacies-persist"]},"tendernessAndRageContent":{"stories":["artists--activism-and-aids","in-the-tracks-of-derek-jarman-s-tears","telling-scotland-about-aids","how-to-design-an-hiv-awareness-campaign"]}},"consentStatus":{"analytics":false,"marketing":false,"cookieExists":false}}},"__N_SSP":true},"page":"/works/[workId]","query":{"workId":"cb97s9ug"},"buildId":"9Z30KukykGXOFm9LkjGRd","assetPrefix":"https://content.www.wellcomecollection.org","isFallback":false,"isExperimentalCompile":false,"gssp":true,"appGip":true,"scriptLoader":[]}</script></body></html>
