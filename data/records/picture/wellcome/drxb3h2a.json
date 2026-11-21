@@ -44,7 +44,7 @@
     "canonical_url": "https://wellcomecollection.org/works/drxb3h2a",
     "accessed": "2026-11-20",
     "health": "live",
-    "checked_at": "2026-11-21T16:34:22.080Z"
+    "checked_at": "2026-11-21T16:34:28.061Z"
   },
   "captures": [
     {
@@ -52,6 +52,14 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "bytes": 0,
       "warc": "captures/wellcomecollection.org/e3b0c44298fc-2026-11-21T16-34-22-080Z.txt",
+      "tool": "netlify-fetch/1",
+      "mirror_status": "dark"
+    },
+    {
+      "captured_at": "2026-11-21T16:34:28.061Z",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "warc": "captures/wellcomecollection.org/e3b0c44298fc-2026-11-21T16-34-28-061Z.txt",
       "tool": "netlify-fetch/1",
       "mirror_status": "dark"
     }
