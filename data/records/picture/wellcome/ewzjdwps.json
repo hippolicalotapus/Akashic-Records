@@ -6,9 +6,22 @@
   "body": [
     "Cruikshank was the century's most prolific caricaturist and, by the 1850s, a committed temperance campaigner — the tail's cargo of scandals and causes reflects both."
   ],
-  "topics": ["astronomy", "comets", "satire", "cruikshank", "1853"],
-  "portals": ["akashic-records", "world-wonder-web", "world-wicked-web"],
-  "external_id": { "institution": "Wellcome Collection", "registration_number": "46246i" },
+  "topics": [
+    "astronomy",
+    "comets",
+    "satire",
+    "cruikshank",
+    "1853"
+  ],
+  "portals": [
+    "akashic-records",
+    "world-wonder-web",
+    "world-wicked-web"
+  ],
+  "external_id": {
+    "institution": "Wellcome Collection",
+    "registration_number": "46246i"
+  },
   "medium": "Etching",
   "image": "https://iiif.wellcomecollection.org/image/V0024756/full/900,/0/default.jpg",
   "image_alt": "Etching of an anthropomorphic comet with a long tail of small figures",
@@ -21,16 +34,33 @@
   "commercial_reproduction_status": "permitted",
   "attribution_text": "Wellcome Collection",
   "claim_status": "primary_account",
-  "rights": { "metadata": "free", "digital_asset": "public_domain", "note": "Public Domain Mark. Credit: Wellcome Collection." },
-  "takedown": { "state": "none", "note": null, "mirror_retained": true },
+  "rights": {
+    "metadata": "free",
+    "digital_asset": "public_domain",
+    "note": "Public Domain Mark. Credit: Wellcome Collection."
+  },
+  "takedown": {
+    "state": "none",
+    "note": null,
+    "mirror_retained": true
+  },
   "source": {
     "publisher": "Wellcome Collection catalogue",
     "canonical_url": "https://wellcomecollection.org/works/ewzjdwps",
     "accessed": "2026-11-20",
-    "health": "unchecked",
-    "checked_at": null
+    "health": "live",
+    "checked_at": "2026-11-21T16:33:56.399Z"
   },
-  "captures": [],
+  "captures": [
+    {
+      "captured_at": "2026-11-21T16:33:56.399Z",
+      "sha256": "c0f444b935792892f264ca039031fd3688fc96f7da49ecc19bb0b54be8aa0259",
+      "bytes": 120925,
+      "warc": "captures/wellcomecollection.org/c0f444b93579-2026-11-21T16-33-56-399Z.txt",
+      "tool": "netlify-fetch/1",
+      "mirror_status": "dark"
+    }
+  ],
   "evidence_status": "institutional_description",
   "revision": 1,
   "supersedes": null,
