@@ -1,0 +1,12 @@
+{
+  "id": "institution:wellcome",
+  "name": "Wellcome Collection",
+  "catalogue_url": "https://wellcomecollection.org/collections",
+  "licence_note": "Public Domain Mark on many items. Confirm the licence on each item page before relying on it; item URLs move.",
+  "outreach_status": "responded",
+  "last_contacted_at": "2026-11-21",
+  "expected_response": "Guidance received. Item-level licence checks required before publication.",
+  "bulk_api_status": "unknown",
+  "api_docs": "https://developers.wellcomecollection.org/docs/catalogue",
+  "notes": "Catalogue and IIIF APIs are open and unauthenticated. Responses cap at 10,000 results; daily snapshots exist for bulk."
+}
