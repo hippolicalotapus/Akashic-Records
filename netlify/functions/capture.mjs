@@ -4,18 +4,23 @@ const SECRET = "akashic-bridge-4417";
 const MAX = 5 * 1024 * 1024;
 
 const bad = (m, s = 400) => new Response(JSON.stringify({ error: m }), { status: s, headers: { "content-type": "application/json" } });
+const b64 = (s) => btoa(unescape(encodeURIComponent(s)));
 
-async function gh(token, path, body, method = "PUT") {
-  const api = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`;
-  const headers = { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json", "User-Agent": "akashic-agent" };
-  const head = await fetch(`${api}?ref=main`, { headers });
-  const sha = head.ok ? (await head.json()).sha : undefined;
-  const payload = method === "PUT" ? { ...body, ...(sha ? { sha } : {}) } : { ...body, sha };
-  const r = await fetch(api, { method, headers, body: JSON.stringify(payload) });
-  return { ok: r.ok, status: r.status, json: await r.json() };
+async function ghGet(token, path) {
+  const r = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}?ref=main`, {
+    headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json", "User-Agent": "akashic-agent" },
+  });
+  return r.ok ? r.json() : null;
 }
 
-const b64 = (s) => btoa(unescape(encodeURIComponent(s)));
+async function ghPut(token, path, content, message, sha) {
+  const r = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
+    method: "PUT",
+    headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json", "User-Agent": "akashic-agent" },
+    body: JSON.stringify({ message, content: b64(content), branch: "main", ...(sha ? { sha } : {}) }),
+  });
+  return r.status;
+}
 
 export default async (req) => {
   const u = new URL(req.url);
@@ -23,6 +28,7 @@ export default async (req) => {
   const token = u.searchParams.get("token");
   if (!token) return bad("no token", 401);
   const target = u.searchParams.get("url");
+  const record = u.searchParams.get("record");
   if (!target) return bad("no url");
 
   let t;
@@ -45,27 +51,48 @@ export default async (req) => {
 
   const digest = await crypto.subtle.digest("SHA-256", body);
   const sha256 = [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("");
-  const stamp = new Date().toISOString().replace(/[:.]/g, "-");
-  const key = `${t.hostname}/${sha256.slice(0, 12)}-${stamp}`;
+  const at = new Date().toISOString();
+  const stamp = at.replace(/[:.]/g, "-");
+  const key = `captures/${t.hostname}/${sha256.slice(0, 12)}-${stamp}.txt`;
 
   const head = [
     `url: ${t.href}`,
     `final_url: ${r.url}`,
     `status: ${r.status}`,
     `content_type: ${r.headers.get("content-type") || ""}`,
-    `captured_at: ${new Date().toISOString()}`,
+    `captured_at: ${at}`,
     `sha256: ${sha256}`,
     `bytes: ${body.byteLength}`,
-    `mirror_status: dark`,
+    "mirror_status: dark",
     "----",
     "",
   ].join("\n");
 
-  const text = head + Buffer.from(body).toString("latin1");
-  const put = await gh(token, `captures/${key}.txt`, { message: `Capture ${t.href}`, content: b64(text), branch: "main" });
-  if (!put.ok) return bad(`commit failed: ${put.status}`, 502);
+  const capStatus = await ghPut(token, key, head + Buffer.from(body).toString("latin1"), `Capture ${t.href}`);
+  if (capStatus !== 201 && capStatus !== 200) return bad(`capture commit failed: ${capStatus}`, 502);
 
-  return new Response(JSON.stringify({ ok: true, path: `captures/${key}.txt`, sha256, bytes: body.byteLength, status: r.status }), {
+  let patched = false;
+  if (record) {
+    const existing = await ghGet(token, record);
+    if (existing) {
+      const text = Buffer.from(existing.content || "", "base64").toString("utf8");
+      const j = JSON.parse(text);
+      j.captures = (j.captures || []).concat([{
+        captured_at: at,
+        sha256,
+        bytes: body.byteLength,
+        warc: key,
+        tool: "netlify-fetch/1",
+        mirror_status: "dark",
+      }]);
+      j.source.health = "live";
+      j.source.checked_at = at;
+      const st = await ghPut(token, record, JSON.stringify(j, null, 2) + "\n", `Record capture ${sha256.slice(0, 12)}`, existing.sha);
+      patched = st === 200 || st === 201;
+    }
+  }
+
+  return new Response(JSON.stringify({ ok: true, path: key, sha256, bytes: body.byteLength, status: r.status, record_patched: patched }), {
     status: 200,
     headers: { "content-type": "application/json" },
   });
