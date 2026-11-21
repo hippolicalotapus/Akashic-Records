@@ -14,6 +14,13 @@
   "image_alt": "Title page of the 1712 pamphlet",
   "iiif": "https://iiif.wellcomecollection.org/presentation/v2/b30545158",
   "rights_tier": "A",
+  "rights_basis": "public_domain",
+  "item_license_identifier": "pdm",
+  "rights_checked_at": "2026-11-21",
+  "image_reuse_status": "cleared",
+  "commercial_reproduction_status": "permitted",
+  "attribution_text": "Wellcome Collection",
+  "claim_status": "primary_account",
   "rights": { "metadata": "free", "digital_asset": "public_domain", "note": "Public Domain Mark. Credit: Wellcome Collection." },
   "takedown": { "state": "none", "note": null, "mirror_retained": true },
   "source": {
