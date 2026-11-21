@@ -10,6 +10,9 @@
   "portals": ["akashic-records", "orbis-arcanorum", "world-wonder-web", "science-portal"],
   "external_id": { "institution": "British Museum", "registration_number": "K.160" },
   "rights_tier": "B",
+  "rights_basis": "unclear",
+  "rights_checked_at": "2026-11-21",
+  "claim_status": "primary_account",
   "rights": {
     "metadata": "review_before_reuse",
     "digital_asset": "not_cleared",
