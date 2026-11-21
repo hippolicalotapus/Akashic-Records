@@ -6,9 +6,22 @@
   "body": [
     "The tablet records Venus's first and last appearances over roughly twenty-one years. Because the observations are tied to a named king, the text has been used to anchor Mesopotamian chronology — and because the copy is late and the reading contested, the anchor is argued over rather than settled."
   ],
-  "topics": ["astronomy", "mesopotamian-history", "chronology", "cuneiform"],
-  "portals": ["akashic-records", "orbis-arcanorum", "world-wonder-web", "science-portal"],
-  "external_id": { "institution": "British Museum", "registration_number": "K.160" },
+  "topics": [
+    "astronomy",
+    "mesopotamian-history",
+    "chronology",
+    "cuneiform"
+  ],
+  "portals": [
+    "akashic-records",
+    "orbis-arcanorum",
+    "world-wonder-web",
+    "science-portal"
+  ],
+  "external_id": {
+    "institution": "British Museum",
+    "registration_number": "K.160"
+  },
   "rights_tier": "B",
   "rights_basis": "unclear",
   "rights_checked_at": "2026-11-21",
@@ -18,15 +31,28 @@
     "digital_asset": "not_cleared",
     "note": "Museum photograph is separately copyrighted. No image copied. Review before reuse."
   },
-  "takedown": { "state": "none", "note": null, "mirror_retained": true },
+  "takedown": {
+    "state": "none",
+    "note": null,
+    "mirror_retained": true
+  },
   "source": {
     "publisher": "British Museum via Google Arts & Culture",
     "canonical_url": "https://artsandculture.google.com/asset/cuneiform-tablet-with-observations-of-venus/uQGtUbfuWfzvLQ?hl=en",
     "accessed": "2026-11-17",
-    "health": "unchecked",
-    "checked_at": null
+    "health": "live",
+    "checked_at": "2026-11-21T16:53:41.933Z"
   },
-  "captures": [],
+  "captures": [
+    {
+      "captured_at": "2026-11-21T16:53:41.933Z",
+      "sha256": "1283c645f4322f796b33d1a69182fe216e7979bba542ef16b7097992d8f0ddff",
+      "bytes": 959625,
+      "warc": "captures/artsandculture.google.com/1283c645f432-2026-11-21T16-53-41-933Z.txt",
+      "tool": "netlify-fetch/1",
+      "mirror_status": "dark"
+    }
+  ],
   "evidence_status": "institutional_description",
   "revision": 1,
   "supersedes": null,
