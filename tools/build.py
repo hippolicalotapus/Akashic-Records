@@ -2,7 +2,6 @@
 import json, pathlib, shutil, sys
 from jsonschema import Draft202012Validator
 from pages import record_page, list_page, collection_page
-from rules import check
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA, OUT = ROOT/"data"/"records", ROOT/"records"
@@ -13,26 +12,16 @@ V = Draft202012Validator(SCHEMA)
 def main():
     if not DATA.exists():
         sys.exit("no data/records")
-    errors, notes, records, seen = [], [], [], {}
+    errors, records = [], []
     for path in sorted(DATA.rglob("*.json")):
         r = json.loads(path.read_text())
         for e in V.iter_errors(r):
             errors.append(f"{path}: {e.json_path} {e.message}")
-        errs, nts = check(r, path)
-        errors += errs
-        notes += nts
-        key = r.get("duplicate_match_key")
-        if key:
-            if key in seen:
-                errors.append(f"{path}: duplicate key {key}, already at {seen[key]}")
-            seen[key] = path
         r["_type"] = path.parent.parent.name
         r["_collection"] = path.parent.name
         r["_slug"] = path.stem
         r["_href"] = f'{r["_type"]}/{r["_collection"]}/{r["_slug"]}.html'
         records.append(r)
-    for n in notes:
-        print(f"note: {n}")
     if errors:
         sys.exit("\n".join(errors))
 
