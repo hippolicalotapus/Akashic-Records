@@ -1,5 +1,6 @@
 [build]
   publish = "."
+  command = "pip install -r requirements.txt && python3 tools/build.py"
 
 [[headers]]
   for = "/*"
