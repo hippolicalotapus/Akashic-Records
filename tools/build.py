@@ -38,7 +38,8 @@ CSS = """
   .actions button:hover { border-color: #c9b48f; color: #fff; }
   .said { font-size: .85rem; color: #a2917a; min-height: 1.3rem; }
 """
-"""
+
+def page(title, depth, body):
 
 def page(title, depth, body):
     up = "../" * depth
